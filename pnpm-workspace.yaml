@@ -1,0 +1,11 @@
+packages: []
+
+allowBuilds:
+  electron: true
+  electron-winstaller: true
+  better-sqlite3: true
+  esbuild: true
+  '@tailwindcss/oxide': true
+  koffi: true
+  onnxruntime-node: true
+  protobufjs: true

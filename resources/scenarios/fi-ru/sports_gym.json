@@ -1,0 +1,342 @@
+{
+  "id": "sports_gym",
+  "title": "\u0421\u043f\u043e\u0440\u0442\u0437\u0430\u043b",
+  "description": "\u0422\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438 \u0438 \u0441\u043f\u043e\u0440\u0442 \u043d\u0430 \u0444\u0438\u043d\u0441\u043a\u043e\u043c",
+  "category": "FITNESS",
+  "icon": "FitnessCenter",
+  "languagePair": "fi-ru",
+  "vocabulary": [
+    {
+      "word": "\u0431\u0435\u0433",
+      "translation": "running",
+      "pos": "noun",
+      "example": "\u0411\u0435\u0433 \u2014 \u0445\u043e\u0440\u043e\u0448\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430.",
+      "exampleTranslation": "Running is good exercise."
+    },
+    {
+      "word": "\u0444\u043e\u0440\u043c\u0430",
+      "translation": "fitness, condition",
+      "pos": "noun",
+      "example": "\u0412\u0430\u0448\u0430 \u0444\u043e\u0440\u043c\u0430 \u0445\u043e\u0440\u043e\u0448\u0430\u044f.",
+      "exampleTranslation": "Your fitness looks good."
+    },
+    {
+      "word": "\u043c\u044b\u0448\u0446\u0430",
+      "translation": "muscle",
+      "pos": "noun",
+      "example": "\u041c\u044b\u0448\u0446\u0430 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0430.",
+      "exampleTranslation": "The muscle is tense."
+    },
+    {
+      "word": "\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435",
+      "translation": "recovery",
+      "pos": "noun",
+      "example": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u0430\u0436\u043d\u043e.",
+      "exampleTranslation": "Recovery is important."
+    },
+    {
+      "word": "\u0432\u0435\u0441",
+      "translation": "weight",
+      "pos": "noun",
+      "example": "\u0412\u0435\u0441 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0432\u0435\u043b\u0438\u043a.",
+      "exampleTranslation": "The weight is too much."
+    },
+    {
+      "word": "\u0436\u0438\u0440",
+      "translation": "fat",
+      "pos": "noun",
+      "example": "\u0416\u0438\u0440\u0430 \u0441\u0442\u0430\u043b\u043e \u043c\u0435\u043d\u044c\u0448\u0435.",
+      "exampleTranslation": "Fat has decreased."
+    },
+    {
+      "word": "\u0441\u0430\u043b\u043c\u0438\u0430\u043a\u043a\u0438",
+      "translation": "salty licorice",
+      "pos": "noun",
+      "example": "\u0421\u0430\u043b\u043c\u0438\u0430\u043a\u043a\u0438 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b \u0432 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438.",
+      "exampleTranslation": "Salty licorice is popular in Finland."
+    },
+    {
+      "word": "\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442",
+      "translation": "performance",
+      "pos": "noun",
+      "example": "\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u044b\u043b \u0445\u043e\u0440\u043e\u0448.",
+      "exampleTranslation": "The performance was good."
+    },
+    {
+      "word": "\u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f",
+      "translation": "to train",
+      "pos": "verb",
+      "example": "\u042f \u0442\u0440\u0435\u043d\u0438\u0440\u0443\u044e\u0441\u044c \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c.",
+      "exampleTranslation": "I train every day."
+    },
+    {
+      "word": "\u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430",
+      "translation": "training, workout",
+      "pos": "noun",
+      "example": "\u0422\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 \u043d\u0430\u0447\u0430\u043b\u0430\u0441\u044c \u0432 \u0448\u0435\u0441\u0442\u044c \u0447\u0430\u0441\u043e\u0432.",
+      "exampleTranslation": "The workout started at six."
+    },
+    {
+      "word": "\u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430",
+      "translation": "coaching",
+      "pos": "noun",
+      "example": "\u0422\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 \u0445\u043e\u0440\u043e\u0448\u0430\u044f.",
+      "exampleTranslation": "The coaching is good."
+    },
+    {
+      "word": "\u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440",
+      "translation": "equipment",
+      "pos": "noun",
+      "example": "\u0422\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u044b \u043d\u043e\u0432\u044b\u0435.",
+      "exampleTranslation": "The equipment is new."
+    },
+    {
+      "word": "\u0441\u043f\u043e\u0440\u0442\u0437\u0430\u043b",
+      "translation": "gym, fitness center",
+      "pos": "noun",
+      "example": "\u0421\u043f\u043e\u0440\u0442\u0437\u0430\u043b \u043e\u0442\u043a\u0440\u044b\u0442 \u0443\u0442\u0440\u0430\u043c\u0438.",
+      "exampleTranslation": "The gym is open in the mornings."
+    },
+    {
+      "word": "\u043a\u0440\u0443\u0433\u043e\u0432\u043e\u0439",
+      "translation": "circuit",
+      "pos": "adjective",
+      "example": "\u041a\u0440\u0443\u0433\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0430.",
+      "exampleTranslation": "Circuit training is effective."
+    },
+    {
+      "word": "\u0431\u0438\u0446\u0435\u043f\u0441",
+      "translation": "bicep",
+      "pos": "noun",
+      "example": "\u0411\u0438\u0446\u0435\u043f\u0441 \u0441\u0438\u043b\u044c\u043d\u044b\u0439.",
+      "exampleTranslation": "The bicep is strong."
+    },
+    {
+      "word": "\u043f\u043b\u0435\u0447\u043e",
+      "translation": "shoulder",
+      "pos": "noun",
+      "example": "\u041f\u043b\u0435\u0447\u043e \u0433\u0438\u0431\u043a\u043e\u0435.",
+      "exampleTranslation": "The shoulder is flexible."
+    },
+    {
+      "word": "\u043c\u043e\u043b\u043e\u0442\u043e\u043a",
+      "translation": "hammer",
+      "pos": "noun",
+      "example": "\u041c\u043e\u043b\u043e\u0442\u043e\u043a \u0442\u044f\u0436\u0451\u043b\u044b\u0439.",
+      "exampleTranslation": "The hammer is heavy."
+    },
+    {
+      "word": "\u043f\u0440\u0438\u0441\u0435\u0434\u0430\u0442\u044c",
+      "translation": "to squat",
+      "pos": "verb",
+      "example": "\u042f \u0434\u0435\u043b\u0430\u044e \u043f\u0440\u0438\u0441\u0435\u0434\u0430\u043d\u0438\u044f \u0441 \u0432\u0435\u0441\u043e\u043c.",
+      "exampleTranslation": "I squat with weights."
+    },
+    {
+      "word": "\u0441\u043a\u0430\u043c\u044c\u044f",
+      "translation": "bench",
+      "pos": "noun",
+      "example": "\u0421\u043a\u0430\u043c\u044c\u044f \u0437\u0430\u043d\u044f\u0442\u0430.",
+      "exampleTranslation": "The bench is in use."
+    },
+    {
+      "word": "\u0442\u044f\u0433\u0430",
+      "translation": "deadlift",
+      "pos": "noun",
+      "example": "\u0422\u044f\u0433\u0430 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u0430.",
+      "exampleTranslation": "The deadlift is demanding."
+    },
+    {
+      "word": "\u0441\u043f\u043e\u0440\u0442\u0441\u043c\u0435\u043d",
+      "translation": "fitness enthusiast",
+      "pos": "noun",
+      "example": "\u0421\u043f\u043e\u0440\u0442\u0441\u043c\u0435\u043d \u043c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d.",
+      "exampleTranslation": "The fitness enthusiast is motivated."
+    },
+    {
+      "word": "\u0441\u043f\u043e\u0440\u0442",
+      "translation": "exercise, physical activity",
+      "pos": "noun",
+      "example": "\u0421\u043f\u043e\u0440\u0442 \u0432\u0430\u0436\u0435\u043d.",
+      "exampleTranslation": "Exercise is important."
+    },
+    {
+      "word": "\u043c\u0430\u0441\u0441\u0430\u0436",
+      "translation": "massage",
+      "pos": "noun",
+      "example": "\u041d\u0443\u0436\u0435\u043d \u043c\u0430\u0441\u0441\u0430\u0436.",
+      "exampleTranslation": "A massage is needed."
+    },
+    {
+      "word": "\u0433\u0438\u043c\u043d\u0430\u0441\u0442\u0438\u043a\u0430",
+      "translation": "exercise, gymnastics",
+      "pos": "noun",
+      "example": "\u0413\u0438\u043c\u043d\u0430\u0441\u0442\u0438\u043a\u0430 \u043f\u0440\u0438\u044f\u0442\u043d\u0430\u044f.",
+      "exampleTranslation": "Exercise is fun."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "\u0413\u0434\u0435 \u0441\u043f\u043e\u0440\u0442\u0437\u0430\u043b?",
+      "translation": "Where is the gym?",
+      "context": "Finding the gym"
+    },
+    {
+      "phrase": "\u041c\u043e\u0436\u043d\u043e \u0432\u0437\u044f\u0442\u044c \u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440?",
+      "translation": "Can I borrow equipment?",
+      "context": "Borrowing equipment"
+    },
+    {
+      "phrase": "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0435\u0441\u0430?",
+      "translation": "How much weight?",
+      "context": "Asking about weight"
+    },
+    {
+      "phrase": "\u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c.",
+      "translation": "I need help.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "\u0422\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u0430.",
+      "translation": "The workout is over.",
+      "context": "Finishing workout"
+    },
+    {
+      "phrase": "\u042f \u0437\u0434\u0435\u0441\u044c \u043d\u043e\u0432\u044b\u0439.",
+      "translation": "I am new here.",
+      "context": "Introducing yourself"
+    },
+    {
+      "phrase": "\u041c\u043e\u0436\u043d\u043e \u0434\u0435\u043b\u0430\u0442\u044c \u0431\u0430\u0440\u043f\u044b?",
+      "translation": "Can I do burpees?",
+      "context": "Asking about exercises"
+    },
+    {
+      "phrase": "\u0413\u0434\u0435 \u0440\u0430\u0437\u0434\u0435\u0432\u0430\u043b\u044c\u043d\u044f?",
+      "translation": "Where is the locker room?",
+      "context": "Finding facilities"
+    },
+    {
+      "phrase": "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u043e\u043b\u0433\u043e?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "\u042f \u0445\u043e\u0447\u0443 \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0444\u043e\u0440\u043c\u0443.",
+      "translation": "I want to improve my fitness.",
+      "context": "Setting goals"
+    },
+    {
+      "phrase": "\u0417\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u0440\u0435\u043d\u0435\u0440?",
+      "translation": "Is there a personal trainer here?",
+      "context": "Looking for trainer"
+    },
+    {
+      "phrase": "\u0421\u0435\u0433\u043e\u0434\u043d\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u0443\u044e \u043d\u043e\u0433\u0438.",
+      "translation": "Today I train legs.",
+      "context": "Describing workout"
+    },
+    {
+      "phrase": "\u042f \u0441\u0434\u0435\u043b\u0430\u044e \u043f\u0435\u0440\u0435\u0440\u044b\u0432.",
+      "translation": "I will take a break.",
+      "context": "Taking a break"
+    },
+    {
+      "phrase": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u0435\u043d\u0438\u0435!",
+      "translation": "Last rep!",
+      "context": "During exercise"
+    },
+    {
+      "phrase": "\u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u0437\u0430\u043c\u0435\u0434\u043b\u0438\u043c.",
+      "translation": "Let us slow down a bit.",
+      "context": "Pacing workout"
+    },
+    {
+      "phrase": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443!",
+      "translation": "Thank you for the encouragement!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "\u041f\u0440\u0438\u0432\u0435\u0442! \u0422\u044b \u0437\u0434\u0435\u0441\u044c \u043d\u043e\u0432\u044b\u0439?",
+      "translation": "Hi! Are you new here?"
+    },
+    {
+      "speaker": "B",
+      "text": "\u0414\u0430, \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u043c\u043e\u0439 \u043f\u0435\u0440\u0432\u044b\u0439 \u0434\u0435\u043d\u044c.",
+      "translation": "Yes, today is my first day."
+    },
+    {
+      "speaker": "A",
+      "text": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c! \u041d\u0443\u0436\u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c?",
+      "translation": "Welcome! Do you want help?"
+    },
+    {
+      "speaker": "B",
+      "text": "\u0414\u0430, \u0431\u044b\u043b\u043e \u0431\u044b \u0445\u043e\u0440\u043e\u0448\u043e \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u044b.",
+      "translation": "Yes, it would be nice to see the equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "\u0412\u043e\u0442 \u0441\u043f\u043e\u0440\u0442\u0437\u0430\u043b. \u0417\u0434\u0435\u0441\u044c \u0432\u0441\u0451 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0435.",
+      "translation": "Here is the gym. Everything needed is here."
+    },
+    {
+      "speaker": "B",
+      "text": "\u041e\u0442\u043b\u0438\u0447\u043d\u043e! \u041d\u0430 \u043a\u0430\u043a\u0438\u0435 \u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u044b \u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u043e\u0447\u0438\u0442\u044c\u0441\u044f?",
+      "translation": "Great! Which equipment should I focus on?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u0441\u043e \u0441\u043a\u0430\u043c\u044c\u0438 \u0438 \u0442\u044f\u0433\u0438.",
+      "translation": "Start with the bench and deadlift."
+    },
+    {
+      "speaker": "B",
+      "text": "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0435\u0441\u0430 \u0432\u044b \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0435?",
+      "translation": "How much weight do you recommend?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u043b\u0451\u0433\u043a\u043e \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0439\u0442\u0435 \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e.",
+      "translation": "Start light and increase gradually."
+    },
+    {
+      "speaker": "B",
+      "text": "\u0425\u043e\u0440\u043e\u0448\u0430\u044f \u0438\u0434\u0435\u044f. \u0410 \u0431\u0435\u0433\u043e\u0432\u0430\u044f \u0434\u043e\u0440\u043e\u0436\u043a\u0430?",
+      "translation": "Good idea. What about the treadmill?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u0411\u0435\u0433\u043e\u0432\u0430\u044f \u0434\u043e\u0440\u043e\u0436\u043a\u0430 \u0442\u0430\u043c. \u041c\u043e\u0436\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0434\u043b\u044f \u0440\u0430\u0437\u043c\u0438\u043d\u043a\u0438.",
+      "translation": "The treadmill is over there. You can use it for warming up."
+    },
+    {
+      "speaker": "B",
+      "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e! \u0422\u044b \u0447\u0430\u0441\u0442\u043e \u0442\u0440\u0435\u043d\u0438\u0440\u0443\u0435\u0448\u044c\u0441\u044f?",
+      "translation": "Thank you! Do you train often?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u0414\u0430, \u0442\u0440\u0438 \u0440\u0430\u0437\u0430 \u0432 \u043d\u0435\u0434\u0435\u043b\u044e.",
+      "translation": "Yes, three times a week."
+    },
+    {
+      "speaker": "B",
+      "text": "\u042d\u0442\u043e \u0445\u043e\u0440\u043e\u0448\u0430\u044f \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0430.",
+      "translation": "That is a good routine."
+    },
+    {
+      "speaker": "A",
+      "text": "\u0414\u0430. \u041c\u044b \u043f\u043e\u0447\u0442\u0438 \u0433\u043e\u0442\u043e\u0432\u044b.",
+      "translation": "Yes. We are almost ready."
+    },
+    {
+      "speaker": "B",
+      "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u043f\u043e\u043c\u043e\u0449\u044c! \u0427\u0443\u0432\u0441\u0442\u0432\u0443\u044e \u0441\u0435\u0431\u044f \u0445\u043e\u0440\u043e\u0448\u043e.",
+      "translation": "Thank you for your help! It feels good."
+    }
+  ]
+}

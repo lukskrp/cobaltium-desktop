@@ -1,0 +1,342 @@
+{
+  "id": "travel_airport",
+  "title": "Bandara",
+  "description": "Menavigasi bandara dan pusat perjalanan Finlandia",
+  "category": "TRAVEL",
+  "icon": "Flight",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "ke penerbangan",
+      "translation": "to the flight",
+      "pos": "noun",
+      "example": "Ayo menuju penerbangan.",
+      "exampleTranslation": "Let us go to the flight."
+    },
+    {
+      "word": "penerbangan",
+      "translation": "flight",
+      "pos": "noun",
+      "example": "Penerbangan sesuai jadwal.",
+      "exampleTranslation": "The flight is on schedule."
+    },
+    {
+      "word": "bandara",
+      "translation": "airport",
+      "pos": "noun",
+      "example": "Bandaranya besar.",
+      "exampleTranslation": "The airport is large."
+    },
+    {
+      "word": "koper",
+      "translation": "suitcase",
+      "pos": "noun",
+      "example": "Kopernya berat.",
+      "exampleTranslation": "The suitcase is heavy."
+    },
+    {
+      "word": "paspor",
+      "translation": "passport",
+      "pos": "noun",
+      "example": "Paspor saya di saku.",
+      "exampleTranslation": "My passport is in my pocket."
+    },
+    {
+      "word": "di tempat",
+      "translation": "in place, stationary",
+      "pos": "adverb",
+      "example": "Kami di tempat.",
+      "exampleTranslation": "We are in place."
+    },
+    {
+      "word": "gerbang",
+      "translation": "gate",
+      "pos": "noun",
+      "example": "Gerbang terbuka.",
+      "exampleTranslation": "The gate is open."
+    },
+    {
+      "word": "cuaca",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "Cuacanya bagus.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "barang bawaan",
+      "translation": "luggage, belongings",
+      "pos": "noun",
+      "example": "Barang bawaan aman.",
+      "exampleTranslation": "The luggage is safe."
+    },
+    {
+      "word": "sedang datang",
+      "translation": "arriving, coming",
+      "pos": "participle",
+      "example": "Penerbangan akan tiba.",
+      "exampleTranslation": "The flight is arriving."
+    },
+    {
+      "word": "ke luar negeri",
+      "translation": "abroad",
+      "pos": "noun",
+      "example": "Saya bepergian ke luar negeri.",
+      "exampleTranslation": "I travel abroad."
+    },
+    {
+      "word": "reservasi",
+      "translation": "reservation",
+      "pos": "noun",
+      "example": "Reservasi sudah dikonfirmasi.",
+      "exampleTranslation": "The reservation is confirmed."
+    },
+    {
+      "word": "berangkat",
+      "translation": "to leave, to depart",
+      "pos": "verb",
+      "example": "Penerbangan berangkat pukul delapan.",
+      "exampleTranslation": "The flight departs at eight."
+    },
+    {
+      "word": "tiba",
+      "translation": "to arrive",
+      "pos": "verb",
+      "example": "Kami tiba di Helsinki.",
+      "exampleTranslation": "We arrive in Helsinki."
+    },
+    {
+      "word": "check-in",
+      "translation": "to check in",
+      "pos": "verb",
+      "example": "Saya check-in secara online.",
+      "exampleTranslation": "I check in online."
+    },
+    {
+      "word": "memeriksa",
+      "translation": "to check, to inspect",
+      "pos": "verb",
+      "example": "Ayo periksa kopernya.",
+      "exampleTranslation": "Let us check the suitcase."
+    },
+    {
+      "word": "ruang tunggu",
+      "translation": "waiting hall",
+      "pos": "noun",
+      "example": "Ruang tunggu penuh.",
+      "exampleTranslation": "The waiting hall is full."
+    },
+    {
+      "word": "tiket satu arah",
+      "translation": "one-way ticket",
+      "pos": "noun",
+      "example": "Saya akan membeli tiket satu arah.",
+      "exampleTranslation": "I will buy a one-way ticket."
+    },
+    {
+      "word": "tiket pulang",
+      "translation": "return ticket",
+      "pos": "noun",
+      "example": "Tiket pulang mahal.",
+      "exampleTranslation": "The return ticket is expensive."
+    },
+    {
+      "word": "transit",
+      "translation": "layover, connecting flight",
+      "pos": "noun",
+      "example": "Transit selama empat jam.",
+      "exampleTranslation": "The layover is four hours."
+    },
+    {
+      "word": " lentokone",
+      "translation": "airplane",
+      "pos": "noun",
+      "example": "Pesawatnya besar.",
+      "exampleTranslation": "The airplane is large."
+    },
+    {
+      "word": "penumpang",
+      "translation": "passenger",
+      "pos": "noun",
+      "example": "Penumpang sedang menunggu.",
+      "exampleTranslation": "The passenger is waiting."
+    },
+    {
+      "word": "pilot",
+      "translation": "pilot",
+      "pos": "noun",
+      "example": "Pilotnya profesional.",
+      "exampleTranslation": "The pilot is a professional."
+    },
+    {
+      "word": "bepergian",
+      "translation": "to travel",
+      "pos": "verb",
+      "example": "Saya sering bepergian.",
+      "exampleTranslation": "I travel often."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Ke gerbang mana?",
+      "translation": "To which gate?",
+      "context": "Asking for gate"
+    },
+    {
+      "phrase": "Dimana loketnya?",
+      "translation": "Where is the counter?",
+      "context": "Finding check-in"
+    },
+    {
+      "phrase": "Bisakah saya duduk di sini?",
+      "translation": "Can I sit here?",
+      "context": "At the gate"
+    },
+    {
+      "phrase": "Dimana eskalatornya?",
+      "translation": "Where are the escalators?",
+      "context": "Navigating airport"
+    },
+    {
+      "phrase": "Bisakah saya berbicara di telepon?",
+      "translation": "Can I talk on the phone?",
+      "context": "Phone etiquette"
+    },
+    {
+      "phrase": "Apakah penerbangan Anda sesuai jadwal?",
+      "translation": "Is your flight on schedule?",
+      "context": "Asking about delays"
+    },
+    {
+      "phrase": "Saya butuh bantuan dengan koper saya.",
+      "translation": "I need help with my suitcase.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "Apa yang boleh dibawa ke pesawat?",
+      "translation": "What can I bring on the plane?",
+      "context": "Luggage rules"
+    },
+    {
+      "phrase": "Saya tidak menemukan paspor saya.",
+      "translation": "I cannot find my passport.",
+      "context": "Lost items"
+    },
+    {
+      "phrase": "Dimana lokasi kedatangan?",
+      "translation": "Where is arrivals?",
+      "context": "Finding arrivals"
+    },
+    {
+      "phrase": "Saya ingin mengubah penerbangan saya.",
+      "translation": "I would like to change my flight.",
+      "context": "Changing flights"
+    },
+    {
+      "phrase": "Apakah ada makanan di sini?",
+      "translation": "Is there food here?",
+      "context": "Finding food"
+    },
+    {
+      "phrase": "Koper saya hilang.",
+      "translation": "My suitcase is lost.",
+      "context": "Lost luggage"
+    },
+    {
+      "phrase": "Saya butuh taksi.",
+      "translation": "I need a taxi.",
+      "context": "Getting transportation"
+    },
+    {
+      "phrase": "Berapa lama waktunya?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Terima kasih atas bantuannya.",
+      "translation": "Thank you for your help.",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Selamat datang di bandara!",
+      "translation": "Welcome to the airport!"
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih. Dimana loketnya?",
+      "translation": "Thank you. Where is the counter?"
+    },
+    {
+      "speaker": "A",
+      "text": "Loketnya di sebelah kanan sana.",
+      "translation": "The counter is over there on the right."
+    },
+    {
+      "speaker": "B",
+      "text": "Ke gerbang mana saya harus pergi?",
+      "translation": "Which gate do I need to go to?"
+    },
+    {
+      "speaker": "A",
+      "text": "Gerbang delapan, di lantai dua.",
+      "translation": "Gate eight, on the second floor."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih. Penerbangan Anda berangkat kapan?",
+      "translation": "Thank you. When does your flight leave?"
+    },
+    {
+      "speaker": "A",
+      "text": "Penerbangan berangkat pukul delapan.",
+      "translation": "The flight leaves at eight o'clock."
+    },
+    {
+      "speaker": "B",
+      "text": "Apakah ada transit?",
+      "translation": "Is there a layover?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ya, transit empat jam di Stockholm.",
+      "translation": "Yes, a four-hour layover in Stockholm."
+    },
+    {
+      "speaker": "B",
+      "text": "Itu transit yang lama.",
+      "translation": "That is a long layover."
+    },
+    {
+      "speaker": "A",
+      "text": "Bisakah kita menggunakan ruang tunggu?",
+      "translation": "Can we use the waiting hall?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, di sana juga ada kafe.",
+      "translation": "Yes, there is also a caf\u00e9 there."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagus! Apa yang Anda rekomendasikan?",
+      "translation": "Great! What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "Coba sup ikan Finlandia.",
+      "translation": "Try the Finnish fish soup."
+    },
+    {
+      "speaker": "A",
+      "text": "Kedengarannya lezat!",
+      "translation": "Sounds delicious!"
+    },
+    {
+      "speaker": "B",
+      "text": "Selamat jalan!",
+      "translation": "Have a good trip!"
+    }
+  ]
+}

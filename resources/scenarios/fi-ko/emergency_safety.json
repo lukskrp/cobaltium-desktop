@@ -1,0 +1,342 @@
+{
+  "id": "emergency_safety",
+  "title": "\uae34\uae09 \uc0c1\ud669",
+  "description": "\ud540\ub780\ub4dc \uae34\uae09 \uc0c1\ud669 \ub300\uc751\uc744 \ub9c8\uc2a4\ud130\ud558\uae30",
+  "category": "EMERGENCY",
+  "icon": "Emergency",
+  "languagePair": "fi-ko",
+  "vocabulary": [
+    {
+      "word": "h\u00e4t\u00e4",
+      "translation": "emergency",
+      "pos": "noun",
+      "example": "T\u00e4m\u00e4 on h\u00e4t\u00e4.",
+      "exampleTranslation": "This is an emergency."
+    },
+    {
+      "word": "palo",
+      "translation": "fire",
+      "pos": "noun",
+      "example": "Palo on suuri.",
+      "exampleTranslation": "The fire is large."
+    },
+    {
+      "word": "ambulanssi",
+      "translation": "ambulance",
+      "pos": "noun",
+      "example": "Ambulanssi on tulossa.",
+      "exampleTranslation": "The ambulance is coming."
+    },
+    {
+      "word": "poliisi",
+      "translation": "police",
+      "pos": "noun",
+      "example": "Poliisi on paikalla.",
+      "exampleTranslation": "The police are on the scene."
+    },
+    {
+      "word": "loukkaantuminen",
+      "translation": "injury",
+      "pos": "noun",
+      "example": "Loukkaantuminen on vakava.",
+      "exampleTranslation": "The injury is serious."
+    },
+    {
+      "word": "ensiapu",
+      "translation": "first aid",
+      "pos": "noun",
+      "example": "Ensiapu on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "First aid is important."
+    },
+    {
+      "word": "turvallisuus",
+      "translation": "safety",
+      "pos": "noun",
+      "example": "Turvallisuus ensin.",
+      "exampleTranslation": "Safety first."
+    },
+    {
+      "word": "vaara",
+      "translation": "danger",
+      "pos": "noun",
+      "example": "Vaara on l\u00e4hell\u00e4.",
+      "exampleTranslation": "The danger is near."
+    },
+    {
+      "word": "varoitus",
+      "translation": "warning",
+      "pos": "noun",
+      "example": "Varoitus on t\u00e4rke\u00e4.",
+      "exampleTranslation": "The warning is important."
+    },
+    {
+      "word": "onnettomuus",
+      "translation": "accident",
+      "pos": "noun",
+      "example": "Onnettomuus sattui.",
+      "exampleTranslation": "The accident happened."
+    },
+    {
+      "word": "h\u00e4lytyskeskus",
+      "translation": "emergency center",
+      "pos": "noun",
+      "example": "Soita h\u00e4lytyskeskukseen.",
+      "exampleTranslation": "Call the emergency center."
+    },
+    {
+      "word": "sammutin",
+      "translation": "fire extinguisher",
+      "pos": "noun",
+      "example": "Sammutin on tuolla.",
+      "exampleTranslation": "The fire extinguisher is there."
+    },
+    {
+      "word": "pelastus",
+      "translation": "rescue, salvation",
+      "pos": "noun",
+      "example": "Pelastus on tulossa.",
+      "exampleTranslation": "Rescue is coming."
+    },
+    {
+      "word": "\ubcd1",
+      "translation": "illness, disease",
+      "pos": "noun",
+      "example": "Sairaus on liev\u00e4.",
+      "exampleTranslation": "The illness is mild."
+    },
+    {
+      "word": "l\u00e4\u00e4k\u00e4ri",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "L\u00e4\u00e4k\u00e4ri on ammattilainen.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "sairaala",
+      "translation": "hospital",
+      "pos": "noun",
+      "example": "Sairaala on l\u00e4hell\u00e4.",
+      "exampleTranslation": "The hospital is near."
+    },
+    {
+      "word": "\ud658\uc790",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "Potilas on odottamassa.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "loukkaantua",
+      "translation": "to get injured",
+      "pos": "verb",
+      "example": "H\u00e4n loukkaantui.",
+      "exampleTranslation": "He got injured."
+    },
+    {
+      "word": "samoittaa",
+      "translation": "to extinguish",
+      "pos": "verb",
+      "example": "Sammutamme palon.",
+      "exampleTranslation": "We extinguish the fire."
+    },
+    {
+      "word": "soittaa",
+      "translation": "to call, to phone",
+      "pos": "verb",
+      "example": "Soita 112.",
+      "exampleTranslation": "Call 112."
+    },
+    {
+      "word": "auttaa",
+      "translation": "to help",
+      "pos": "verb",
+      "example": "Autan sinua.",
+      "exampleTranslation": "I help you."
+    },
+    {
+      "word": "pelastaa",
+      "translation": "to rescue, to save",
+      "pos": "verb",
+      "example": "Pelastamme heid\u00e4t.",
+      "exampleTranslation": "We rescue them."
+    },
+    {
+      "word": "varoa",
+      "translation": "to beware, to watch out",
+      "pos": "verb",
+      "example": "Varo autoa!",
+      "exampleTranslation": "Watch out for the car!"
+    },
+    {
+      "word": "suojella",
+      "translation": "to protect",
+      "pos": "verb",
+      "example": "Suojelkaa itse\u00e4nne.",
+      "exampleTranslation": "Protect yourselves."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Soita 112 heti!",
+      "translation": "Call 112 immediately!",
+      "context": "Emergency call"
+    },
+    {
+      "phrase": "Tarvitsen ensiapua.",
+      "translation": "I need first aid.",
+      "context": "Medical emergency"
+    },
+    {
+      "phrase": "Miss\u00e4 on sairaala?",
+      "translation": "Where is the hospital?",
+      "context": "Finding hospital"
+    },
+    {
+      "phrase": "Onko joku loukkaantunut?",
+      "translation": "Has anyone been injured?",
+      "context": "Checking injuries"
+    },
+    {
+      "phrase": "Auttaa!",
+      "translation": "Help!",
+      "context": "Calling for help"
+    },
+    {
+      "phrase": "Siin\u00e4 on palo.",
+      "translation": "There is a fire.",
+      "context": "Reporting fire"
+    },
+    {
+      "phrase": "Tarvitsen poliisin.",
+      "translation": "I need the police.",
+      "context": "Requesting police"
+    },
+    {
+      "phrase": "Miss\u00e4 on sammutin?",
+      "translation": "Where is the fire extinguisher?",
+      "context": "Fire safety"
+    },
+    {
+      "phrase": "Varo, \u00e4l\u00e4 menn\u00e4 sinne!",
+      "translation": "Watch out, don't go there!",
+      "context": "Warning"
+    },
+    {
+      "phrase": "Onko t\u00e4ll\u00e4 turvallista?",
+      "translation": "Is it safe here?",
+      "context": "Safety check"
+    },
+    {
+      "phrase": "\ub3c4\uc6c0\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.",
+      "translation": "I need help.",
+      "context": "General help"
+    },
+    {
+      "phrase": "Kuka osaa ensiapua?",
+      "translation": "Who knows first aid?",
+      "context": "Medical help"
+    },
+    {
+      "phrase": "Mihin sairaalaan menn\u00e4\u00e4n?",
+      "translation": "Which hospital do we go to?",
+      "context": "Hospital direction"
+    },
+    {
+      "phrase": "Ota yhteytt\u00e4 h\u00e4lytyskeskukseen.",
+      "translation": "Contact the emergency center.",
+      "context": "Emergency contact"
+    },
+    {
+      "phrase": "T\u00e4ss\u00e4 on tapaturma.",
+      "translation": "There is an accident here.",
+      "context": "Reporting accident"
+    },
+    {
+      "phrase": "Kiitos nopeasta avusta!",
+      "translation": "Thank you for the quick help!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "H\u00e4t\u00e4! Soita 112!",
+      "translation": "Emergency! Call 112!"
+    },
+    {
+      "speaker": "B",
+      "text": "Mit\u00e4 tapahtui?",
+      "translation": "What happened?"
+    },
+    {
+      "speaker": "A",
+      "text": "Joku loukkaantui.",
+      "translation": "Someone got injured."
+    },
+    {
+      "speaker": "B",
+      "text": "Soitan ambulanssin.",
+      "translation": "I will call an ambulance."
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos! Onko h\u00e4nell\u00e4 ensiapua?",
+      "translation": "Thank you! Does he have first aid?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, min\u00e4 osaan ensiapua.",
+      "translation": "Yes, I know first aid."
+    },
+    {
+      "speaker": "A",
+      "text": "Hienoa! Auta h\u00e4nt\u00e4.",
+      "translation": "Great! Help him."
+    },
+    {
+      "speaker": "B",
+      "text": "Asetan h\u00e4net lep\u00e4\u00e4m\u00e4\u00e4n.",
+      "translation": "I will lay him down to rest."
+    },
+    {
+      "speaker": "A",
+      "text": "Ambulanssi on tulossa.",
+      "translation": "The ambulance is coming."
+    },
+    {
+      "speaker": "B",
+      "text": "Hyv\u00e4\u00e4. Pid\u00e4 h\u00e4nt\u00e4 silm\u00e4ll\u00e4.",
+      "translation": "Good. Keep an eye on him."
+    },
+    {
+      "speaker": "A",
+      "text": "Onko paloa l\u00e4hell\u00e4?",
+      "translation": "Is there a fire nearby?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ei, mutta varo kuumaa astiaa.",
+      "translation": "No, but watch out for the hot container."
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos varoituksesta.",
+      "translation": "Thank you for the warning."
+    },
+    {
+      "speaker": "B",
+      "text": "Turvallisuus ensin.",
+      "translation": "Safety first."
+    },
+    {
+      "speaker": "A",
+      "text": "Ambulanssi on saapunut.",
+      "translation": "The ambulance has arrived."
+    },
+    {
+      "speaker": "B",
+      "text": "Hienoa! H\u00e4n on turvassa.",
+      "translation": "Great! He is safe."
+    }
+  ]
+}

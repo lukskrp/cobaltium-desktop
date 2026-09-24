@@ -1,0 +1,342 @@
+{
+  "id": "social_cafe",
+  "title": "Caf\u00e9",
+  "description": "Commander des boissons et discuter dans un caf\u00e9 finlandais",
+  "category": "SOCIAL",
+  "icon": "LocalCafe",
+  "languagePair": "fi-fr",
+  "vocabulary": [
+    {
+      "word": "caf\u00e9",
+      "translation": "caf\u00e9, coffee house",
+      "pos": "noun",
+      "example": "Ce caf\u00e9 est populaire.",
+      "exampleTranslation": "This caf\u00e9 is popular."
+    },
+    {
+      "word": "caf\u00e9",
+      "translation": "coffee",
+      "pos": "noun",
+      "example": "Je voudrais un caf\u00e9.",
+      "exampleTranslation": "I'd like a coffee."
+    },
+    {
+      "word": "th\u00e9",
+      "translation": "tea",
+      "pos": "noun",
+      "example": "Je voudrais du th\u00e9.",
+      "exampleTranslation": "I would like tea."
+    },
+    {
+      "word": "p\u00e2tisserie",
+      "translation": "pastry, baked good",
+      "pos": "noun",
+      "example": "La p\u00e2tisserie est fra\u00eeche.",
+      "exampleTranslation": "The pastry is fresh."
+    },
+    {
+      "word": "lait",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Sans lait, merci.",
+      "exampleTranslation": "Without milk, thank you."
+    },
+    {
+      "word": "sucre",
+      "translation": "sugar",
+      "pos": "noun",
+      "example": "Une cuill\u00e8re de sucre.",
+      "exampleTranslation": "One spoon of sugar."
+    },
+    {
+      "word": "petit pain sucr\u00e9",
+      "translation": "sweet bun, cardamom bread",
+      "pos": "noun",
+      "example": "Le petit pain est d\u00e9licieux.",
+      "exampleTranslation": "The sweet bun is delicious."
+    },
+    {
+      "word": "croissant",
+      "translation": "croissant",
+      "pos": "noun",
+      "example": "Le croissant est une option.",
+      "exampleTranslation": "The croissant is an option."
+    },
+    {
+      "word": "caf\u00e9 froid",
+      "translation": "iced coffee",
+      "pos": "noun",
+      "example": "Le caf\u00e9 froid est bon par temps chaud.",
+      "exampleTranslation": "Iced coffee is good in hot weather."
+    },
+    {
+      "word": "latte",
+      "translation": "latte",
+      "pos": "noun",
+      "example": "Je voudrais un latte.",
+      "exampleTranslation": "I'd like a latte."
+    },
+    {
+      "word": "s'asseoir",
+      "translation": "to sit",
+      "pos": "verb",
+      "example": "Puis-je m'asseoir ici ?",
+      "exampleTranslation": "Can I sit here?"
+    },
+    {
+      "word": "avoir besoin",
+      "translation": "to need",
+      "pos": "verb",
+      "example": "J'ai besoin d'une table.",
+      "exampleTranslation": "I need a table."
+    },
+    {
+      "word": "bar",
+      "translation": "bar",
+      "pos": "noun",
+      "example": "Le bar est ouvert.",
+      "exampleTranslation": "The bar is open."
+    },
+    {
+      "word": "quart",
+      "translation": "shift",
+      "pos": "noun",
+      "example": "Le quart commence \u00e0 neuf heures.",
+      "exampleTranslation": "The shift starts at nine."
+    },
+    {
+      "word": "pourboire",
+      "translation": "tip, gratuity",
+      "pos": "noun",
+      "example": "J'ai laiss\u00e9 le pourboire sur la table.",
+      "exampleTranslation": "I left the tip on the table."
+    },
+    {
+      "word": "notification",
+      "translation": "notification, announcement",
+      "pos": "noun",
+      "example": "J'ai re\u00e7u la notification.",
+      "exampleTranslation": "I got the notification."
+    },
+    {
+      "word": "amabilit\u00e9",
+      "translation": "friendliness",
+      "pos": "noun",
+      "example": "L'amabilit\u00e9 est courante ici.",
+      "exampleTranslation": "Friendliness is common here."
+    },
+    {
+      "word": "soir\u00e9e",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "L'apr\u00e8s-midi est beau.",
+      "exampleTranslation": "The afternoon is beautiful."
+    },
+    {
+      "word": "f\u00eate",
+      "translation": "party, celebration",
+      "pos": "noun",
+      "example": "La f\u00eate \u00e9tait g\u00e9niale.",
+      "exampleTranslation": "The party was wonderful."
+    },
+    {
+      "word": "accompagner",
+      "translation": "to keep company",
+      "pos": "verb",
+      "example": "Nous accompagnons notre ami.",
+      "exampleTranslation": "We keep company with our friend."
+    },
+    {
+      "word": "rendre visite",
+      "translation": "to visit",
+      "pos": "verb",
+      "example": "Je rends souvent visite \u00e0 ce caf\u00e9.",
+      "exampleTranslation": "I often visit this caf\u00e9."
+    },
+    {
+      "word": "discuter",
+      "translation": "to discuss",
+      "pos": "verb",
+      "example": "Discutons plus tard.",
+      "exampleTranslation": "Let us discuss later."
+    },
+    {
+      "word": "joyeux",
+      "translation": "happy, cheerful",
+      "pos": "adjective",
+      "example": "H\u00e4n on iloinen t\u00e4n\u00e4n.",
+      "exampleTranslation": "He is happy today."
+    },
+    {
+      "word": "organiser",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "Nous organisons un rendez-vous.",
+      "exampleTranslation": "We will organize the meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Je voudrais un caf\u00e9, s'il vous pla\u00eet.",
+      "translation": "I'd like a coffee, please.",
+      "context": "Ordering at the counter"
+    },
+    {
+      "phrase": "Quelle est l'offre du jour ?",
+      "translation": "What is today's special?",
+      "context": "Asking about specials"
+    },
+    {
+      "phrase": "Puis-je m'asseoir ici ?",
+      "translation": "Can I sit here?",
+      "context": "Finding a seat"
+    },
+    {
+      "phrase": "Y a-t-il du Wi-Fi ici ?",
+      "translation": "Is there Wi-Fi here?",
+      "context": "At a caf\u00e9"
+    },
+    {
+      "phrase": "Je voudrais plus de caf\u00e9.",
+      "translation": "I'd like more coffee.",
+      "context": "Refill request"
+    },
+    {
+      "phrase": "La p\u00e2tisserie est d\u00e9licieuse.",
+      "translation": "The pastry is delicious.",
+      "context": "Complimenting the food"
+    },
+    {
+      "phrase": "Le caf\u00e9 est bon.",
+      "translation": "The coffee is good.",
+      "context": "Complimenting the drink"
+    },
+    {
+      "phrase": "Merci beaucoup !",
+      "translation": "Thank you very much!",
+      "context": "After receiving order"
+    },
+    {
+      "phrase": "Bienvenue dans notre caf\u00e9 !",
+      "translation": "Welcome to our caf\u00e9!",
+      "context": "Greeting a customer"
+    },
+    {
+      "phrase": "Je voudrais m'asseoir pr\u00e8s de la fen\u00eatre.",
+      "translation": "I would like to sit by the window.",
+      "context": "Choosing a seat"
+    },
+    {
+      "phrase": "Y a-t-il une couverture ici ?",
+      "translation": "Is there a blanket here?",
+      "context": "Asking for warmth"
+    },
+    {
+      "phrase": "Doit-on faire une r\u00e9servation ?",
+      "translation": "Should we make a reservation?",
+      "context": "Planning ahead"
+    },
+    {
+      "phrase": "Puis-je avoir une bouteille d'eau ?",
+      "translation": "Can I get a bottle of water?",
+      "context": "Requesting a drink"
+    },
+    {
+      "phrase": "Jatkan t\u00e4n\u00e4n viel\u00e4.",
+      "translation": "I will continue today.",
+      "context": "Staying longer"
+    },
+    {
+      "phrase": "T\u00e4n\u00e4n on iltajuha.",
+      "translation": "Today is an evening party.",
+      "context": "Announcing an event"
+    },
+    {
+      "phrase": "Merci d'\u00eatre venus !",
+      "translation": "Thanks for coming!",
+      "context": "Thanking guests"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bienvenue ! Qu'est-ce que vous souhaitez ?",
+      "translation": "Welcome! What would you like?"
+    },
+    {
+      "speaker": "B",
+      "text": "Je voudrais un latte et un croissant.",
+      "translation": "I'd like a latte and a croissant."
+    },
+    {
+      "speaker": "A",
+      "text": "Voulez-vous du lait ou du lait v\u00e9g\u00e9tal ?",
+      "translation": "Do you want milk or vegan milk?"
+    },
+    {
+      "speaker": "B",
+      "text": "Lait d'avoine, s'il vous pla\u00eet.",
+      "translation": "Oat milk, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Autre chose ?",
+      "translation": "Anything else?"
+    },
+    {
+      "speaker": "B",
+      "text": "Non merci, c'est suffisant.",
+      "translation": "No thanks, that's enough."
+    },
+    {
+      "speaker": "A",
+      "text": "G\u00e9nial ! Voici votre num\u00e9ro.",
+      "translation": "Great! Here's your number."
+    },
+    {
+      "speaker": "B",
+      "text": "Merci !",
+      "translation": "Thank you!"
+    },
+    {
+      "speaker": "A",
+      "text": "Bienvenue ! Qu'est-ce que tu bois ?",
+      "translation": "Welcome! What are you drinking?"
+    },
+    {
+      "speaker": "B",
+      "text": "Je prendrai du th\u00e9 et un petit pain.",
+      "translation": "I will have tea and a pastry."
+    },
+    {
+      "speaker": "A",
+      "text": "Asseyons-nous l-haut.",
+      "translation": "Let us sit up here."
+    },
+    {
+      "speaker": "B",
+      "text": "Bien, \u00e0 plus tard.",
+      "translation": "Good, see you later."
+    },
+    {
+      "speaker": "A",
+      "text": "Tu veux nous rejoindre ?",
+      "translation": "Do you want to join us?"
+    },
+    {
+      "speaker": "B",
+      "text": "Oui, certainement !",
+      "translation": "Yes, definitely!"
+    },
+    {
+      "speaker": "A",
+      "text": "On devrait partir bient\u00f4t.",
+      "translation": "We should leave soon."
+    },
+    {
+      "speaker": "B",
+      "text": "J'attendrai encore un peu.",
+      "translation": "I will wait a bit longer."
+    }
+  ]
+}

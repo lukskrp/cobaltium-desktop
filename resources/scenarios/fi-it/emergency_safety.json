@@ -1,0 +1,342 @@
+{
+  "id": "emergency_safety",
+  "title": "Sicurezza",
+  "description": "Gestire le emergenze e parlare di sicurezza in finlandese",
+  "category": "EMERGENCY",
+  "icon": "Emergency",
+  "languagePair": "fi-it",
+  "vocabulary": [
+    {
+      "word": "emergenza",
+      "translation": "emergency",
+      "pos": "noun",
+      "example": "Questa \u00e8 un'emergenza.",
+      "exampleTranslation": "This is an emergency."
+    },
+    {
+      "word": "incendio",
+      "translation": "fire",
+      "pos": "noun",
+      "example": "L'incendio \u00e8 grande.",
+      "exampleTranslation": "The fire is large."
+    },
+    {
+      "word": "ambulanza",
+      "translation": "ambulance",
+      "pos": "noun",
+      "example": "L'ambulanza sta arrivando.",
+      "exampleTranslation": "The ambulance is coming."
+    },
+    {
+      "word": "polizia",
+      "translation": "police",
+      "pos": "noun",
+      "example": "La polizia \u00e8 sul posto.",
+      "exampleTranslation": "The police are on the scene."
+    },
+    {
+      "word": "lesione",
+      "translation": "injury",
+      "pos": "noun",
+      "example": "La lesione \u00e8 grave.",
+      "exampleTranslation": "The injury is serious."
+    },
+    {
+      "word": "primi soccorsi",
+      "translation": "first aid",
+      "pos": "noun",
+      "example": "I primi soccorsi sono importanti.",
+      "exampleTranslation": "First aid is important."
+    },
+    {
+      "word": "sicurezza",
+      "translation": "safety",
+      "pos": "noun",
+      "example": "La sicurezza prima.",
+      "exampleTranslation": "Safety first."
+    },
+    {
+      "word": "pericolo",
+      "translation": "danger",
+      "pos": "noun",
+      "example": "Il pericolo \u00e8 vicino.",
+      "exampleTranslation": "The danger is near."
+    },
+    {
+      "word": "avvertimento",
+      "translation": "warning",
+      "pos": "noun",
+      "example": "L'avvertimento \u00e8 importante.",
+      "exampleTranslation": "The warning is important."
+    },
+    {
+      "word": "incidente",
+      "translation": "accident",
+      "pos": "noun",
+      "example": "L'incidente \u00e8 accaduto.",
+      "exampleTranslation": "The accident happened."
+    },
+    {
+      "word": "centralino emergenze",
+      "translation": "emergency center",
+      "pos": "noun",
+      "example": "Chiama il centralino emergenze.",
+      "exampleTranslation": "Call the emergency center."
+    },
+    {
+      "word": "estintore",
+      "translation": "fire extinguisher",
+      "pos": "noun",
+      "example": "L'estintore \u00e8 l\u00e0.",
+      "exampleTranslation": "The fire extinguisher is there."
+    },
+    {
+      "word": "soccorso",
+      "translation": "rescue, salvation",
+      "pos": "noun",
+      "example": "Il soccorso sta arrivando.",
+      "exampleTranslation": "Rescue is coming."
+    },
+    {
+      "word": "malattia",
+      "translation": "illness, disease",
+      "pos": "noun",
+      "example": "La malattia \u00e8 lieve.",
+      "exampleTranslation": "The illness is mild."
+    },
+    {
+      "word": "medico",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "Il medico \u00e8 un professionista.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "ospedale",
+      "translation": "hospital",
+      "pos": "noun",
+      "example": "L'ospedale \u00e8 vicino.",
+      "exampleTranslation": "The hospital is near."
+    },
+    {
+      "word": "paziente",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "Il paziente sta aspettando.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "farsi male",
+      "translation": "to get injured",
+      "pos": "verb",
+      "example": "Si \u00e8 fatto male.",
+      "exampleTranslation": "He got injured."
+    },
+    {
+      "word": "spegnere",
+      "translation": "to extinguish",
+      "pos": "verb",
+      "example": "Spegniamo l'incendio.",
+      "exampleTranslation": "We extinguish the fire."
+    },
+    {
+      "word": "chiamare",
+      "translation": "to call, to phone",
+      "pos": "verb",
+      "example": "Chiama 112.",
+      "exampleTranslation": "Call 112."
+    },
+    {
+      "word": "aiutare",
+      "translation": "to help",
+      "pos": "verb",
+      "example": "Ti aiuto.",
+      "exampleTranslation": "I help you."
+    },
+    {
+      "word": "salvare",
+      "translation": "to rescue, to save",
+      "pos": "verb",
+      "example": "Li salviamo.",
+      "exampleTranslation": "We rescue them."
+    },
+    {
+      "word": "fare attenzione",
+      "translation": "to beware, to watch out",
+      "pos": "verb",
+      "example": "Attenzione alla macchina!",
+      "exampleTranslation": "Watch out for the car!"
+    },
+    {
+      "word": "proteggere",
+      "translation": "to protect",
+      "pos": "verb",
+      "example": "Proteggetevi.",
+      "exampleTranslation": "Protect yourselves."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Chiama 112 subito!",
+      "translation": "Call 112 immediately!",
+      "context": "Emergency call"
+    },
+    {
+      "phrase": "Ho bisogno di primi soccorsi.",
+      "translation": "I need first aid.",
+      "context": "Medical emergency"
+    },
+    {
+      "phrase": "Dov'\u00e8 l'ospedale?",
+      "translation": "Where is the hospital?",
+      "context": "Finding hospital"
+    },
+    {
+      "phrase": "Qualcuno si \u00e8 fatto male?",
+      "translation": "Has anyone been injured?",
+      "context": "Checking injuries"
+    },
+    {
+      "phrase": "Aiuto!",
+      "translation": "Help!",
+      "context": "Calling for help"
+    },
+    {
+      "phrase": "C'\u00e8 un incendio.",
+      "translation": "There is a fire.",
+      "context": "Reporting fire"
+    },
+    {
+      "phrase": "Ho bisogno della polizia.",
+      "translation": "I need the police.",
+      "context": "Requesting police"
+    },
+    {
+      "phrase": "Dov'\u00e8 l'estintore?",
+      "translation": "Where is the fire extinguisher?",
+      "context": "Fire safety"
+    },
+    {
+      "phrase": "Attenzione, non andare l\u00e0!",
+      "translation": "Watch out, don't go there!",
+      "context": "Warning"
+    },
+    {
+      "phrase": "\u00c8 sicuro qui?",
+      "translation": "Is it safe here?",
+      "context": "Safety check"
+    },
+    {
+      "phrase": "Ho bisogno di aiuto.",
+      "translation": "I need help.",
+      "context": "General help"
+    },
+    {
+      "phrase": "Chi sa fare i primi soccorsi?",
+      "translation": "Who knows first aid?",
+      "context": "Medical help"
+    },
+    {
+      "phrase": "A quale ospedale andiamo?",
+      "translation": "Which hospital do we go to?",
+      "context": "Hospital direction"
+    },
+    {
+      "phrase": "Contatta il centralino emergenze.",
+      "translation": "Contact the emergency center.",
+      "context": "Emergency contact"
+    },
+    {
+      "phrase": "C'\u00e8 un incidente qui.",
+      "translation": "There is an accident here.",
+      "context": "Reporting accident"
+    },
+    {
+      "phrase": "Grazie per l'aiuto rapido!",
+      "translation": "Thank you for the quick help!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Emergenza! Chiama 112!",
+      "translation": "Emergency! Call 112!"
+    },
+    {
+      "speaker": "B",
+      "text": "Cosa \u00e8 successo?",
+      "translation": "What happened?"
+    },
+    {
+      "speaker": "A",
+      "text": "Qualcuno si \u00e8 fatto male.",
+      "translation": "Someone got injured."
+    },
+    {
+      "speaker": "B",
+      "text": "Chiamer\u00f2 un'ambulanza.",
+      "translation": "I will call an ambulance."
+    },
+    {
+      "speaker": "A",
+      "text": "Grazie! Ha i primi soccorsi?",
+      "translation": "Thank you! Does he have first aid?"
+    },
+    {
+      "speaker": "B",
+      "text": "S\u00ec, so fare i primi soccorsi.",
+      "translation": "Yes, I know first aid."
+    },
+    {
+      "speaker": "A",
+      "text": "Fantastico! Aiutalo.",
+      "translation": "Great! Help him."
+    },
+    {
+      "speaker": "B",
+      "text": "Lo metter\u00f2 a riposare.",
+      "translation": "I will lay him down to rest."
+    },
+    {
+      "speaker": "A",
+      "text": "L'ambulanza sta arrivando.",
+      "translation": "The ambulance is coming."
+    },
+    {
+      "speaker": "B",
+      "text": "Bene. Tienilo d'occhio.",
+      "translation": "Good. Keep an eye on him."
+    },
+    {
+      "speaker": "A",
+      "text": "C'\u00e8 un incendio vicino?",
+      "translation": "Is there a fire nearby?"
+    },
+    {
+      "speaker": "B",
+      "text": "No, ma attenzione al contenitore caldo.",
+      "translation": "No, but watch out for the hot container."
+    },
+    {
+      "speaker": "A",
+      "text": "Grazie per l'avvertimento.",
+      "translation": "Thank you for the warning."
+    },
+    {
+      "speaker": "B",
+      "text": "La sicurezza prima.",
+      "translation": "Safety first."
+    },
+    {
+      "speaker": "A",
+      "text": "L'ambulanza \u00e8 arrivata.",
+      "translation": "The ambulance has arrived."
+    },
+    {
+      "speaker": "B",
+      "text": "Fantastico! \u00c8 al sicuro.",
+      "translation": "Great! He is safe."
+    }
+  ]
+}

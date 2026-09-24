@@ -1,0 +1,342 @@
+{
+  "id": "travel_airport",
+  "title": "Aeroporto",
+  "description": "Orientar-se em aeroportos e centros de viagem finlandeses",
+  "category": "TRAVEL",
+  "icon": "Flight",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "para o voo",
+      "translation": "to the flight",
+      "pos": "noun",
+      "example": "Vamos para o voo.",
+      "exampleTranslation": "Let us go to the flight."
+    },
+    {
+      "word": "voo",
+      "translation": "flight",
+      "pos": "noun",
+      "example": "O voo est\u00e1 no hor\u00e1rio.",
+      "exampleTranslation": "The flight is on schedule."
+    },
+    {
+      "word": "aeroporto",
+      "translation": "airport",
+      "pos": "noun",
+      "example": "O aeroporto \u00e9 grande.",
+      "exampleTranslation": "The airport is large."
+    },
+    {
+      "word": "mala",
+      "translation": "suitcase",
+      "pos": "noun",
+      "example": "A mala \u00e9 pesada.",
+      "exampleTranslation": "The suitcase is heavy."
+    },
+    {
+      "word": "passaporte",
+      "translation": "passport",
+      "pos": "noun",
+      "example": "Meu passaporte est\u00e1 no bolso.",
+      "exampleTranslation": "My passport is in my pocket."
+    },
+    {
+      "word": "no local",
+      "translation": "in place, stationary",
+      "pos": "adverb",
+      "example": "Estamos no local.",
+      "exampleTranslation": "We are in place."
+    },
+    {
+      "word": "porta",
+      "translation": "gate",
+      "pos": "noun",
+      "example": "A porta est\u00e1 aberta.",
+      "exampleTranslation": "The gate is open."
+    },
+    {
+      "word": "clima",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "O clima \u00e9 bom.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "bagagem",
+      "translation": "luggage, belongings",
+      "pos": "noun",
+      "example": "A bagagem est\u00e1 segura.",
+      "exampleTranslation": "The luggage is safe."
+    },
+    {
+      "word": "chegando",
+      "translation": "arriving, coming",
+      "pos": "participle",
+      "example": "O voo est\u00e1 chegando.",
+      "exampleTranslation": "The flight is arriving."
+    },
+    {
+      "word": "ao exterior",
+      "translation": "abroad",
+      "pos": "noun",
+      "example": "Viajo ao exterior.",
+      "exampleTranslation": "I travel abroad."
+    },
+    {
+      "word": "reserva",
+      "translation": "reservation",
+      "pos": "noun",
+      "example": "A reserva est\u00e1 confirmada.",
+      "exampleTranslation": "The reservation is confirmed."
+    },
+    {
+      "word": "decolar",
+      "translation": "to leave, to depart",
+      "pos": "verb",
+      "example": "O voo decola \u00e0s oito horas.",
+      "exampleTranslation": "The flight departs at eight."
+    },
+    {
+      "word": "chegar",
+      "translation": "to arrive",
+      "pos": "verb",
+      "example": "Chegamos em Helsinque.",
+      "exampleTranslation": "We arrive in Helsinki."
+    },
+    {
+      "word": "fazer check-in",
+      "translation": "to check in",
+      "pos": "verb",
+      "example": "Faco check-in online.",
+      "exampleTranslation": "I check in online."
+    },
+    {
+      "word": "verificar",
+      "translation": "to check, to inspect",
+      "pos": "verb",
+      "example": "Vamos verificar a mala.",
+      "exampleTranslation": "Let us check the suitcase."
+    },
+    {
+      "word": "sala de espera",
+      "translation": "waiting hall",
+      "pos": "noun",
+      "example": "A sala de espera est\u00e1 lotada.",
+      "exampleTranslation": "The waiting hall is full."
+    },
+    {
+      "word": "passagem de ida",
+      "translation": "one-way ticket",
+      "pos": "noun",
+      "example": "Compro uma passagem de ida.",
+      "exampleTranslation": "I will buy a one-way ticket."
+    },
+    {
+      "word": "passagem de volta",
+      "translation": "return ticket",
+      "pos": "noun",
+      "example": "A passagem de volta \u00e9 cara.",
+      "exampleTranslation": "The return ticket is expensive."
+    },
+    {
+      "word": "escala",
+      "translation": "layover, connecting flight",
+      "pos": "noun",
+      "example": "A escala dura quatro horas.",
+      "exampleTranslation": "The layover is four hours."
+    },
+    {
+      "word": " lentokone",
+      "translation": "airplane",
+      "pos": "noun",
+      "example": "O avi\u00e3o \u00e9 grande.",
+      "exampleTranslation": "The airplane is large."
+    },
+    {
+      "word": "passageiro",
+      "translation": "passenger",
+      "pos": "noun",
+      "example": "O passageiro est\u00e1 esperando.",
+      "exampleTranslation": "The passenger is waiting."
+    },
+    {
+      "word": "piloto",
+      "translation": "pilot",
+      "pos": "noun",
+      "example": "O piloto \u00e9 profissional.",
+      "exampleTranslation": "The pilot is a professional."
+    },
+    {
+      "word": "viajar",
+      "translation": "to travel",
+      "pos": "verb",
+      "example": "Viajo frequentemente.",
+      "exampleTranslation": "I travel often."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Para qual porta?",
+      "translation": "To which gate?",
+      "context": "Asking for gate"
+    },
+    {
+      "phrase": "Onde \u00e9 o balc\u00e3o?",
+      "translation": "Where is the counter?",
+      "context": "Finding check-in"
+    },
+    {
+      "phrase": "Posso sentar aqui?",
+      "translation": "Can I sit here?",
+      "context": "At the gate"
+    },
+    {
+      "phrase": "Onde s\u00e3o as escadas rolantes?",
+      "translation": "Where are the escalators?",
+      "context": "Navigating airport"
+    },
+    {
+      "phrase": "Posso falar ao telefone?",
+      "translation": "Can I talk on the phone?",
+      "context": "Phone etiquette"
+    },
+    {
+      "phrase": "Seu voo est\u00e1 no hor\u00e1rio?",
+      "translation": "Is your flight on schedule?",
+      "context": "Asking about delays"
+    },
+    {
+      "phrase": "Preciso de ajuda com minha mala.",
+      "translation": "I need help with my suitcase.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "O que posso trazer no avi\u00e3o?",
+      "translation": "What can I bring on the plane?",
+      "context": "Luggage rules"
+    },
+    {
+      "phrase": "N\u00e3o consigo encontrar meu passaporte.",
+      "translation": "I cannot find my passport.",
+      "context": "Lost items"
+    },
+    {
+      "phrase": "Onde \u00e9 a chegada?",
+      "translation": "Where is arrivals?",
+      "context": "Finding arrivals"
+    },
+    {
+      "phrase": "Gostaria de mudar meu voo.",
+      "translation": "I would like to change my flight.",
+      "context": "Changing flights"
+    },
+    {
+      "phrase": "Tem comida aqui?",
+      "translation": "Is there food here?",
+      "context": "Finding food"
+    },
+    {
+      "phrase": "Minha mala se perdeu.",
+      "translation": "My suitcase is lost.",
+      "context": "Lost luggage"
+    },
+    {
+      "phrase": "Preciso de um t\u00e1xi.",
+      "translation": "I need a taxi.",
+      "context": "Getting transportation"
+    },
+    {
+      "phrase": "Quanto tempo dura?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Obrigado pela sua ajuda.",
+      "translation": "Thank you for your help.",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bem-vindo ao aeroporto!",
+      "translation": "Welcome to the airport!"
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado. Onde \u00e9 o balc\u00e3o?",
+      "translation": "Thank you. Where is the counter?"
+    },
+    {
+      "speaker": "A",
+      "text": "O balc\u00e3o est\u00e1 ali \u00e0 direita.",
+      "translation": "The counter is over there on the right."
+    },
+    {
+      "speaker": "B",
+      "text": "Para qual porta devo ir?",
+      "translation": "Which gate do I need to go to?"
+    },
+    {
+      "speaker": "A",
+      "text": "Porta oito, no segundo andar.",
+      "translation": "Gate eight, on the second floor."
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado. Quando seu voo sai?",
+      "translation": "Thank you. When does your flight leave?"
+    },
+    {
+      "speaker": "A",
+      "text": "O voo sai \u00e0s oito horas.",
+      "translation": "The flight leaves at eight o'clock."
+    },
+    {
+      "speaker": "B",
+      "text": "Tem escala?",
+      "translation": "Is there a layover?"
+    },
+    {
+      "speaker": "A",
+      "text": "Sim, uma escala de quatro horas em Estocolmo.",
+      "translation": "Yes, a four-hour layover in Stockholm."
+    },
+    {
+      "speaker": "B",
+      "text": "\u00c9 uma escala longa.",
+      "translation": "That is a long layover."
+    },
+    {
+      "speaker": "A",
+      "text": "Podemos usar a sala de espera?",
+      "translation": "Can we use the waiting hall?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, l\u00e1 tamb\u00e9m tem cafeteria.",
+      "translation": "Yes, there is also a caf\u00e9 there."
+    },
+    {
+      "speaker": "A",
+      "text": "\u00a1Genial! O que voc\u00eas recomendam?",
+      "translation": "Great! What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "Experimente a sopa de peixe finlandesa.",
+      "translation": "Try the Finnish fish soup."
+    },
+    {
+      "speaker": "A",
+      "text": "Parece delicioso!",
+      "translation": "Sounds delicious!"
+    },
+    {
+      "speaker": "B",
+      "text": "Bom passeio!",
+      "translation": "Have a good trip!"
+    }
+  ]
+}

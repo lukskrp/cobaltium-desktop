@@ -1,0 +1,342 @@
+{
+  "id": "business_meeting",
+  "title": "\u0130\u015f Toplant\u0131s\u0131",
+  "description": "Finnish i\u015f toplant\u0131s\u0131n\u0131 \u00f6\u011frenme",
+  "category": "BUSINESS",
+  "icon": "BusinessCenter",
+  "languagePair": "fi-tr",
+  "vocabulary": [
+    {
+      "word": "anahtar",
+      "translation": "key",
+      "pos": "noun",
+      "example": "Anahtar masan\u0131n \u00fcst\u00fcnde.",
+      "exampleTranslation": "The key is on the table."
+    },
+    {
+      "word": "toplant\u0131",
+      "translation": "meeting",
+      "pos": "noun",
+      "example": "Toplant\u0131 saat onda ba\u015fl\u0131yor.",
+      "exampleTranslation": "The meeting starts at ten o'clock."
+    },
+    {
+      "word": "takvim",
+      "translation": "calendar",
+      "pos": "noun",
+      "example": "Takvimi kontrol et.",
+      "exampleTranslation": "Check the calendar."
+    },
+    {
+      "word": "mevcut",
+      "translation": "present, in attendance",
+      "pos": "adjective",
+      "example": "Toplant\u0131da mevcudum.",
+      "exampleTranslation": "I am present at the meeting."
+    },
+    {
+      "word": "masa",
+      "translation": "table",
+      "pos": "noun",
+      "example": "Masan\u0131n etraf\u0131na otural\u0131m.",
+      "exampleTranslation": "Let us sit around the table."
+    },
+    {
+      "word": "sandalye",
+      "translation": "chair",
+      "pos": "noun",
+      "example": "Sandalye rahat.",
+      "exampleTranslation": "The chair is comfortable."
+    },
+    {
+      "word": "proje",
+      "translation": "project",
+      "pos": "noun",
+      "example": "Proje iyi ilerliyor.",
+      "exampleTranslation": "The project is progressing well."
+    },
+    {
+      "word": "rapor",
+      "translation": "report",
+      "pos": "noun",
+      "example": "Rapor haz\u0131r.",
+      "exampleTranslation": "The report is ready."
+    },
+    {
+      "word": "g\u00f6rev",
+      "translation": "task, duty",
+      "pos": "noun",
+      "example": "G\u00f6rev \u00f6nemli.",
+      "exampleTranslation": "The task is important."
+    },
+    {
+      "word": "sonu\u00e7",
+      "translation": "result",
+      "pos": "noun",
+      "example": "Sonu\u00e7 beklendi\u011fi gibi.",
+      "exampleTranslation": "The result is expected."
+    },
+    {
+      "word": "randevu",
+      "translation": "meeting, appointment",
+      "pos": "noun",
+      "example": "Randevu yar\u0131n.",
+      "exampleTranslation": "The meeting is tomorrow."
+    },
+    {
+      "word": "i\u015f",
+      "translation": "work",
+      "pos": "noun",
+      "example": "\u0130\u015f \u00f6nemli.",
+      "exampleTranslation": "Work is important."
+    },
+    {
+      "word": "sunmak",
+      "translation": "to present",
+      "pos": "verb",
+      "example": "Bir fikir sunmak istiyorum.",
+      "exampleTranslation": "I would like to present an idea."
+    },
+    {
+      "word": "kontrol etmek",
+      "translation": "to check",
+      "pos": "verb",
+      "example": "Belgeyi kontrol et.",
+      "exampleTranslation": "Check the document."
+    },
+    {
+      "word": "planlamak",
+      "translation": "to plan",
+      "pos": "verb",
+      "example": "Yeni bir proje planl\u0131yoruz.",
+      "exampleTranslation": "We are planning a new project."
+    },
+    {
+      "word": "karar vermek",
+      "translation": "to decide",
+      "pos": "verb",
+      "example": "P\u00e4\u00e4tt\u00e4\u00e4mme kokouksessa.",
+      "exampleTranslation": "We decide at the meeting."
+    },
+    {
+      "word": "\u00f6neri",
+      "translation": "proposal, suggestion",
+      "pos": "noun",
+      "example": "Bu iyi bir \u00f6neri.",
+      "exampleTranslation": "This is a good proposal."
+    },
+    {
+      "word": "b\u00fct\u00e7e",
+      "translation": "budget",
+      "pos": "noun",
+      "example": "B\u00fct\u00e7e s\u0131n\u0131rl\u0131.",
+      "exampleTranslation": "The budget is limited."
+    },
+    {
+      "word": "zamanlama",
+      "translation": "schedule, timetable",
+      "pos": "noun",
+      "example": "Zamanlama s\u0131k\u0131.",
+      "exampleTranslation": "The schedule is tight."
+    },
+    {
+      "word": "i\u015fbirli\u011fi",
+      "translation": "cooperation",
+      "pos": "noun",
+      "example": "\u0130\u015fbirli\u011fi \u00f6nemli.",
+      "exampleTranslation": "Cooperation is important."
+    },
+    {
+      "word": "sorumlu",
+      "translation": "responsible",
+      "pos": "adjective",
+      "example": "Bu konuda sorumluyum.",
+      "exampleTranslation": "I am responsible for this."
+    },
+    {
+      "word": "hedef",
+      "translation": "goal, target",
+      "pos": "noun",
+      "example": "Hedef a\u00e7\u0131k.",
+      "exampleTranslation": "The goal is clear."
+    },
+    {
+      "word": "geri bildirim vermek",
+      "translation": "to give feedback",
+      "pos": "verb",
+      "example": "Bu konuda geri bildirim verebilir miyim?",
+      "exampleTranslation": "Can I give feedback on this?"
+    },
+    {
+      "word": "d\u00fczenlemek",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "Bir randevu d\u00fczenliyoruz.",
+      "exampleTranslation": "We are organizing a meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Toplant\u0131y\u0131 ba\u015flatal\u0131m m\u0131?",
+      "translation": "Shall we start the meeting?",
+      "context": "Starting a meeting"
+    },
+    {
+      "phrase": "Ne d\u00fc\u015f\u00fcn\u00fcyorsunuz?",
+      "translation": "What do you think?",
+      "context": "Asking for opinions"
+    },
+    {
+      "phrase": "\u00d6nerim...",
+      "translation": "I suggest that...",
+      "context": "Making a suggestion"
+    },
+    {
+      "phrase": "Ayn\u0131 fikirdeyiz.",
+      "translation": "We agree.",
+      "context": "Expressing agreement"
+    },
+    {
+      "phrase": "Daha fazla zamana ihtiyac\u0131m\u0131z var.",
+      "translation": "We need more time.",
+      "context": "Requesting time"
+    },
+    {
+      "phrase": "Soru \u00f6nemli.",
+      "translation": "The question is important.",
+      "context": "Emphasizing importance"
+    },
+    {
+      "phrase": "\u015eimdi karar verebilir miyiz?",
+      "translation": "Can we decide now?",
+      "context": "Pushing for decision"
+    },
+    {
+      "phrase": "Hepinize te\u015fekk\u00fcrler.",
+      "translation": "Thank you everyone.",
+      "context": "Ending a meeting"
+    },
+    {
+      "phrase": "Bir sonraki noktay\u0131 sunay\u0131m.",
+      "translation": "I will present the next point.",
+      "context": "Moving to next topic"
+    },
+    {
+      "phrase": "Soru var m\u0131?",
+      "translation": "Are there any questions?",
+      "context": "Opening for questions"
+    },
+    {
+      "phrase": "Bu konuya daha sonra d\u00f6nelim.",
+      "translation": "Let us return to this later.",
+      "context": "Deferring discussion"
+    },
+    {
+      "phrase": "Bu daha yak\u0131ndan inceleme gerektiriyor.",
+      "translation": "This requires closer examination.",
+      "context": "Requesting more analysis"
+    },
+    {
+      "phrase": "Zamanlamaya uyuyoruz.",
+      "translation": "We are on schedule.",
+      "context": "Status update"
+    },
+    {
+      "phrase": "\u00c7al\u0131\u015fma grubu bunu s\u00fcrd\u00fcr\u00fcyor.",
+      "translation": "The working group will continue this.",
+      "context": "Delegating task"
+    },
+    {
+      "phrase": "Sonraki toplant\u0131 gelecek hafta.",
+      "translation": "The next meeting is next week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "G\u00fczel sohbet i\u00e7in \u00e7ok te\u015fekk\u00fcrler.",
+      "translation": "Thank you for the good discussion.",
+      "context": "Closing remark"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Herkese iyi g\u00fcnler. Ba\u015flayal\u0131m m\u0131?",
+      "translation": "Good morning everyone. Shall we start?"
+    },
+    {
+      "speaker": "B",
+      "text": "Evet, haz\u0131r\u0131z.",
+      "translation": "Yes, we are ready."
+    },
+    {
+      "speaker": "A",
+      "text": "Bug\u00fcn yeni projeyi tart\u0131\u015faca\u011f\u0131z.",
+      "translation": "Today we will discuss the new project."
+    },
+    {
+      "speaker": "B",
+      "text": "Projenin hedefi nedir?",
+      "translation": "What is the goal of the project?"
+    },
+    {
+      "speaker": "A",
+      "text": "Hedef m\u00fc\u015fteri memnuniyetini art\u0131rmak.",
+      "translation": "The goal is to improve customer satisfaction."
+    },
+    {
+      "speaker": "B",
+      "text": "Zamanlama nas\u0131l?",
+      "translation": "What is the schedule?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u00dc\u00e7 ayda bitirmek istiyoruz.",
+      "translation": "We want to have it ready in three months."
+    },
+    {
+      "speaker": "B",
+      "text": "Bu s\u0131k\u0131 bir zamanlama.",
+      "translation": "That is a tight schedule."
+    },
+    {
+      "speaker": "A",
+      "text": "Daha fazla kayna\u011fa ihtiyac\u0131m\u0131z var.",
+      "translation": "We need more resources."
+    },
+    {
+      "speaker": "B",
+      "text": "Bir sonraki \u00e7eyre\u011fin b\u00fct\u00e7esini kullanabiliriz.",
+      "translation": "We can use the budget from next quarter."
+    },
+    {
+      "speaker": "A",
+      "text": "\u0130yi fikir. Proje kimin sorumlulu\u011funda?",
+      "translation": "Good idea. Who is responsible for the project?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sorumlulu\u011fu \u00fcstlenebilirim.",
+      "translation": "I can take responsibility."
+    },
+    {
+      "speaker": "A",
+      "text": "M\u00fckemmel. Bir sonraki toplant\u0131y\u0131 gelecek hafta yapal\u0131m.",
+      "translation": "Excellent. Let us hold the next meeting next week."
+    },
+    {
+      "speaker": "B",
+      "text": "Tamam. Hepinize te\u015fekk\u00fcrler.",
+      "translation": "Agreed. Thank you everyone."
+    },
+    {
+      "speaker": "A",
+      "text": "Herkese iyi g\u00fcnler.",
+      "translation": "Have a good day everyone."
+    },
+    {
+      "speaker": "B",
+      "text": "Te\u015fekk\u00fcrler, size de.",
+      "translation": "Thank you, you too."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "food_restaurant",
+  "title": "Restoran",
+  "description": "Pesan makanan dan bersantap di restoran Finlandia",
+  "category": "DINING",
+  "icon": "Restaurant",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "porsi",
+      "translation": "portion, serving",
+      "pos": "noun",
+      "example": "Porsinya besar.",
+      "exampleTranslation": "The portion is large."
+    },
+    {
+      "word": "hidangan",
+      "translation": "meal",
+      "pos": "noun",
+      "example": "Hidangannya siap.",
+      "exampleTranslation": "The meal is ready."
+    },
+    {
+      "word": "aroma",
+      "translation": "smell, aroma",
+      "pos": "noun",
+      "example": "Aromanya lezat.",
+      "exampleTranslation": "The aroma is delicious."
+    },
+    {
+      "word": "selai",
+      "translation": "jam, preserve",
+      "pos": "noun",
+      "example": "Selainya manis.",
+      "exampleTranslation": "The jam is sweet."
+    },
+    {
+      "word": "ikan",
+      "translation": "fish",
+      "pos": "noun",
+      "example": "Ikannya segar.",
+      "exampleTranslation": "The fish is fresh."
+    },
+    {
+      "word": "sup",
+      "translation": "soup",
+      "pos": "noun",
+      "example": "Supnya hangat.",
+      "exampleTranslation": "The soup is warm."
+    },
+    {
+      "word": "dapur",
+      "translation": "kitchen",
+      "pos": "noun",
+      "example": "Dapurnya bersih.",
+      "exampleTranslation": "The kitchen is clean."
+    },
+    {
+      "word": "manis",
+      "translation": "sweet",
+      "pos": "adjective",
+      "example": "Pencuci mulutnya manis.",
+      "exampleTranslation": "The dessert is sweet."
+    },
+    {
+      "word": "bumbu",
+      "translation": "spice, seasoning",
+      "pos": "noun",
+      "example": "Bumbunya segar.",
+      "exampleTranslation": "The spices are fresh."
+    },
+    {
+      "word": "makanan",
+      "translation": "food",
+      "pos": "noun",
+      "example": "Makanannya lezat.",
+      "exampleTranslation": "The food is delicious."
+    },
+    {
+      "word": "asin",
+      "translation": "salty",
+      "pos": "adjective",
+      "example": "Makanannya asin.",
+      "exampleTranslation": "The food is salty."
+    },
+    {
+      "word": "milik rumah",
+      "translation": "house, of the house",
+      "pos": "noun",
+      "example": "Hidangan khas rumah adalah sup salmon.",
+      "exampleTranslation": "The house specialty is salmon soup."
+    },
+    {
+      "word": "memesan",
+      "translation": "to order",
+      "pos": "verb",
+      "example": "Saya ingin memesan.",
+      "exampleTranslation": "I would like to order."
+    },
+    {
+      "word": "valmistaa",
+      "translation": "to prepare, to make",
+      "pos": "verb",
+      "example": "Dapur menyiapkan makanan.",
+      "exampleTranslation": "The kitchen prepares food."
+    },
+    {
+      "word": "merasakan",
+      "translation": "to taste",
+      "pos": "verb",
+      "example": "Bisakah saya mencoba?",
+      "exampleTranslation": "Can I taste?"
+    },
+    {
+      "word": "menawarkan",
+      "translation": "to offer, to serve",
+      "pos": "verb",
+      "example": "Kami menawarkan hidangan hari ini.",
+      "exampleTranslation": "We offer the daily special."
+    },
+    {
+      "word": "tagihan",
+      "translation": "bill, check",
+      "pos": "noun",
+      "example": "Saya mau tagihannya.",
+      "exampleTranslation": "I would like the bill."
+    },
+    {
+      "word": "pencuci mulut",
+      "translation": "dessert",
+      "pos": "noun",
+      "example": "Pencuci mulutnya sempurna.",
+      "exampleTranslation": "The dessert is perfect."
+    },
+    {
+      "word": "anggur",
+      "translation": "wine",
+      "pos": "noun",
+      "example": "Anggurnya enak.",
+      "exampleTranslation": "The wine is good."
+    },
+    {
+      "word": "roti",
+      "translation": "bread",
+      "pos": "noun",
+      "example": "Rotinya segar.",
+      "exampleTranslation": "The bread is fresh."
+    },
+    {
+      "word": "lauk pauk",
+      "translation": "side dish",
+      "pos": "noun",
+      "example": "Lauk pauknya kentang.",
+      "exampleTranslation": "The side dish is potato."
+    },
+    {
+      "word": "hidangan",
+      "translation": "meal",
+      "pos": "noun",
+      "example": "Hidangan harganya sepuluh euro.",
+      "exampleTranslation": "The meal cost ten euros."
+    },
+    {
+      "word": "menu",
+      "translation": "menu",
+      "pos": "noun",
+      "example": "Ini menunya.",
+      "exampleTranslation": "Here is the menu."
+    },
+    {
+      "word": "meng reservasi",
+      "translation": "to reserve",
+      "pos": "verb",
+      "example": "Saya ingin meng reservasi meja.",
+      "exampleTranslation": "I would like to reserve a table."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Saya ingin memesan.",
+      "translation": "I would like to order.",
+      "context": "When ready to order"
+    },
+    {
+      "phrase": "Apa yang Anda rekomendasikan?",
+      "translation": "What do you recommend?",
+      "context": "Asking for recommendations"
+    },
+    {
+      "phrase": "Bisakah saya mendapatkan tagihannya?",
+      "translation": "Could I get the bill?",
+      "context": "When ready to pay"
+    },
+    {
+      "phrase": "Makanannya lezat.",
+      "translation": "The food was delicious.",
+      "context": "Complimenting the meal"
+    },
+    {
+      "phrase": "Apakah ada daging di sini?",
+      "translation": "Is there meat in this?",
+      "context": "Checking ingredients"
+    },
+    {
+      "phrase": "Saya ingin sesuatu yang manis.",
+      "translation": "I would like something sweet.",
+      "context": "Ordering dessert"
+    },
+    {
+      "phrase": "Bisakah saya dapat air lebih?",
+      "translation": "Could I get more water?",
+      "context": "Asking for a refill"
+    },
+    {
+      "phrase": "Pesanan sudah siap.",
+      "translation": "The order is ready.",
+      "context": "When your food arrives"
+    },
+    {
+      "phrase": "Saya ingin hidangan vegetarian.",
+      "translation": "I would like a vegetarian dish.",
+      "context": "Dietary preference"
+    },
+    {
+      "phrase": "Apakah ada yang bebas gluten di sini?",
+      "translation": "Is there gluten-free here?",
+      "context": "Dietary restriction"
+    },
+    {
+      "phrase": "Apakah hari ini ada yang baru?",
+      "translation": "Do you have something new today?",
+      "context": "Asking for specials"
+    },
+    {
+      "phrase": "Saya bisa menghangatkannya.",
+      "translation": "I can have it heated.",
+      "context": "Requesting heated food"
+    },
+    {
+      "phrase": "Saya mau air tanpa pemanis.",
+      "translation": "I would like water without sweetener.",
+      "context": "Ordering drink"
+    },
+    {
+      "phrase": "Makanannya luar biasa enak.",
+      "translation": "The food was exceptionally good.",
+      "context": "Complimenting the meal"
+    },
+    {
+      "phrase": "Bisakah saya membawanya pulang?",
+      "translation": "Can I take it home?",
+      "context": "Requesting leftovers"
+    },
+    {
+      "phrase": "Ini diet saya.",
+      "translation": "This is my diet.",
+      "context": "Explaining dietary needs"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Selamat datang! Untuk dua orang?",
+      "translation": "Welcome! For two?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, terima kasih.",
+      "translation": "Yes, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Ini menunya. Apakah Anda mau minuman?",
+      "translation": "Here is the menu. Would you like drinks?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, dua gelas air.",
+      "translation": "Yes, two glasses of water."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah Anda siap memesan?",
+      "translation": "Are you ready to order?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya. Saya mau sup salmon dan bubur.",
+      "translation": "Yes. I want salmon soup and porridge."
+    },
+    {
+      "speaker": "A",
+      "text": "Pilihan bagus! Dan pencuci mulut?",
+      "translation": "Good choice! And dessert?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, pie blueberry, terima kasih.",
+      "translation": "Yes, blueberry pie, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "Apa yang Anda rekomendasikan?",
+      "translation": "What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "Coba salmonnya, enak sekali.",
+      "translation": "Try the salmon, it is excellent."
+    },
+    {
+      "speaker": "A",
+      "text": "Saya mau yang sama seperti yang kamu makan.",
+      "translation": "I want the same as what you ate."
+    },
+    {
+      "speaker": "B",
+      "text": "Itu pilihan yang bagus.",
+      "translation": "Those are good choices."
+    },
+    {
+      "speaker": "A",
+      "text": "Bisakah saya dapat air lebih?",
+      "translation": "Can I get more water?"
+    },
+    {
+      "speaker": "B",
+      "text": "Akan segera datang.",
+      "translation": "It will come shortly."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah Anda mau pencuci mulut?",
+      "translation": "Would you like dessert?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, pie blueberry!",
+      "translation": "Yes, blueberry pie!"
+    }
+  ]
+}

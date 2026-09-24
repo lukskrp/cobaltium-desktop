@@ -1,0 +1,342 @@
+{
+  "id": "social_cafe",
+  "title": "\u0915\u0948\u092b\u0947",
+  "description": "\u092a\u0947\u092f \u092e\u0902\u0917\u093e\u090f\u0902 \u0914\u0930 \u092b\u093c\u093f\u0928\u0932\u0948\u0902\u0921\u0940 \u0915\u0948\u092b\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u094b",
+  "category": "SOCIAL",
+  "icon": "LocalCafe",
+  "languagePair": "fi-hi",
+  "vocabulary": [
+    {
+      "word": "kahvila",
+      "translation": "caf\u00e9, coffee house",
+      "pos": "noun",
+      "example": "T\u00e4m\u00e4 kahvila on suosittu.",
+      "exampleTranslation": "This caf\u00e9 is popular."
+    },
+    {
+      "word": "kahvi",
+      "translation": "coffee",
+      "pos": "noun",
+      "example": "Saisin kahvin.",
+      "exampleTranslation": "I'd like a coffee."
+    },
+    {
+      "word": "tee",
+      "translation": "tea",
+      "pos": "noun",
+      "example": "Haluaisin teet\u00e4.",
+      "exampleTranslation": "I would like tea."
+    },
+    {
+      "word": "leivos",
+      "translation": "pastry, baked good",
+      "pos": "noun",
+      "example": "Leivos on tuore.",
+      "exampleTranslation": "The pastry is fresh."
+    },
+    {
+      "word": "maito",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Ilman maitoa, kiitos.",
+      "exampleTranslation": "Without milk, thank you."
+    },
+    {
+      "word": "sokeri",
+      "translation": "sugar",
+      "pos": "noun",
+      "example": "Yksi lusikka sokeria.",
+      "exampleTranslation": "One spoon of sugar."
+    },
+    {
+      "word": "pulla",
+      "translation": "sweet bun, cardamom bread",
+      "pos": "noun",
+      "example": "Pulla on herkullista.",
+      "exampleTranslation": "The sweet bun is delicious."
+    },
+    {
+      "word": "croissantti",
+      "translation": "croissant",
+      "pos": "noun",
+      "example": "Croissantti on vaihtoehto.",
+      "exampleTranslation": "The croissant is an option."
+    },
+    {
+      "word": "j\u00e4\u00e4kahvi",
+      "translation": "iced coffee",
+      "pos": "noun",
+      "example": "J\u00e4\u00e4kahvi on hyv\u00e4 kuumalla s\u00e4\u00e4ll\u00e4.",
+      "exampleTranslation": "Iced coffee is good in hot weather."
+    },
+    {
+      "word": "latte",
+      "translation": "latte",
+      "pos": "noun",
+      "example": "Saisin latte.",
+      "exampleTranslation": "I'd like a latte."
+    },
+    {
+      "word": "istua",
+      "translation": "to sit",
+      "pos": "verb",
+      "example": "Voinko istua t\u00e4ll\u00e4?",
+      "exampleTranslation": "Can I sit here?"
+    },
+    {
+      "word": "tarvita",
+      "translation": "to need",
+      "pos": "verb",
+      "example": "Tarvitsen p\u00f6yd\u00e4n.",
+      "exampleTranslation": "I need a table."
+    },
+    {
+      "word": "baari",
+      "translation": "bar",
+      "pos": "noun",
+      "example": "Baari on avoinna.",
+      "exampleTranslation": "The bar is open."
+    },
+    {
+      "word": "vuoro",
+      "translation": "shift",
+      "pos": "noun",
+      "example": "Vuoro alkaa kello yhdeks\u00e4n.",
+      "exampleTranslation": "The shift starts at nine."
+    },
+    {
+      "word": "tipu",
+      "translation": "tip, gratuity",
+      "pos": "noun",
+      "example": "J\u00e4t\u00e4 tipu p\u00f6yd\u00e4st\u00e4.",
+      "exampleTranslation": "I left the tip on the table."
+    },
+    {
+      "word": "ilmoitus",
+      "translation": "notification, announcement",
+      "pos": "noun",
+      "example": "Sain ilmoituksen.",
+      "exampleTranslation": "I got the notification."
+    },
+    {
+      "word": "yst\u00e4v\u00e4llisyys",
+      "translation": "friendliness",
+      "pos": "noun",
+      "example": "Yst\u00e4v\u00e4llisyys on t\u00e4ll\u00e4 tavallista.",
+      "exampleTranslation": "Friendliness is common here."
+    },
+    {
+      "word": "ilta",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "Iltap\u00e4iv\u00e4 on kaunis.",
+      "exampleTranslation": "The afternoon is beautiful."
+    },
+    {
+      "word": "juhla",
+      "translation": "party, celebration",
+      "pos": "noun",
+      "example": "Juhla oli mahtava.",
+      "exampleTranslation": "The party was wonderful."
+    },
+    {
+      "word": "seurata",
+      "translation": "to keep company",
+      "pos": "verb",
+      "example": "Seuraamme yst\u00e4v\u00e4mme.",
+      "exampleTranslation": "We keep company with our friend."
+    },
+    {
+      "word": "k\u00e4yd\u00e4",
+      "translation": "to visit",
+      "pos": "verb",
+      "example": "K\u00e4yd\u00e4\u00e4n usein t\u00e4ss\u00e4 kahvilassa.",
+      "exampleTranslation": "I often visit this caf\u00e9."
+    },
+    {
+      "word": "keskustella",
+      "translation": "to discuss",
+      "pos": "verb",
+      "example": "Keskustellaan my\u00f6hemmin.",
+      "exampleTranslation": "Let us discuss later."
+    },
+    {
+      "word": "iloinen",
+      "translation": "happy, cheerful",
+      "pos": "adjective",
+      "example": "H\u00e4n on iloinen t\u00e4n\u00e4n.",
+      "exampleTranslation": "He is happy today."
+    },
+    {
+      "word": "j\u00e4rjest\u00e4\u00e4",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "J\u00e4rjest\u00e4mme tapaamisen.",
+      "exampleTranslation": "We will organize the meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Saisin kahvin, kiitos.",
+      "translation": "I'd like a coffee, please.",
+      "context": "Ordering at the counter"
+    },
+    {
+      "phrase": "Mik\u00e4 on p\u00e4iv\u00e4n tarjous?",
+      "translation": "What is today's special?",
+      "context": "Asking about specials"
+    },
+    {
+      "phrase": "Voinko istua t\u00e4ll\u00e4?",
+      "translation": "Can I sit here?",
+      "context": "Finding a seat"
+    },
+    {
+      "phrase": "Onko t\u00e4ll\u00e4 Wi-Fi?",
+      "translation": "Is there Wi-Fi here?",
+      "context": "At a caf\u00e9"
+    },
+    {
+      "phrase": "Saisin lis\u00e4\u00e4 kahvia.",
+      "translation": "I'd like more coffee.",
+      "context": "Refill request"
+    },
+    {
+      "phrase": "Leivos on herkullinen.",
+      "translation": "The pastry is delicious.",
+      "context": "Complimenting the food"
+    },
+    {
+      "phrase": "Kahvi on hyv\u00e4\u00e4.",
+      "translation": "The coffee is good.",
+      "context": "Complimenting the drink"
+    },
+    {
+      "phrase": "Kiitos paljon!",
+      "translation": "Thank you very much!",
+      "context": "After receiving order"
+    },
+    {
+      "phrase": "Tervetuloa kahvilaamme!",
+      "translation": "Welcome to our caf\u00e9!",
+      "context": "Greeting a customer"
+    },
+    {
+      "phrase": "Haluaisin istua ikkunan \u00e4\u00e4reen.",
+      "translation": "I would like to sit by the window.",
+      "context": "Choosing a seat"
+    },
+    {
+      "phrase": "Onko t\u00e4ll\u00e4 l\u00e4mp\u00f6\u00e4?",
+      "translation": "Is there a blanket here?",
+      "context": "Asking for warmth"
+    },
+    {
+      "phrase": "Pit\u00e4\u00e4k\u00f6 meid\u00e4n tehd\u00e4 varaus?",
+      "translation": "Should we make a reservation?",
+      "context": "Planning ahead"
+    },
+    {
+      "phrase": "Saisin pullon vett\u00e4?",
+      "translation": "Can I get a bottle of water?",
+      "context": "Requesting a drink"
+    },
+    {
+      "phrase": "Jatkan t\u00e4n\u00e4n viel\u00e4.",
+      "translation": "I will continue today.",
+      "context": "Staying longer"
+    },
+    {
+      "phrase": "T\u00e4n\u00e4n on iltajuha.",
+      "translation": "Today is an evening party.",
+      "context": "Announcing an event"
+    },
+    {
+      "phrase": "Kiitos, ett\u00e4 tulitte!",
+      "translation": "Thanks for coming!",
+      "context": "Thanking guests"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Tervetuloa! Mit\u00e4 haluaisitte?",
+      "translation": "Welcome! What would you like?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saisin latte ja croissantin.",
+      "translation": "I'd like a latte and a croissant."
+    },
+    {
+      "speaker": "A",
+      "text": "Haluatteko maidon vai vegaanista maidon?",
+      "translation": "Do you want milk or vegan milk?"
+    },
+    {
+      "speaker": "B",
+      "text": "Oat milk, ole hyv\u00e4.",
+      "translation": "Oat milk, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Mit\u00e4 muuta?",
+      "translation": "Anything else?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ei kiitos, se riitt\u00e4\u00e4.",
+      "translation": "No thanks, that's enough."
+    },
+    {
+      "speaker": "A",
+      "text": "Hienoa! T\u00e4ss\u00e4 on numerosi.",
+      "translation": "Great! Here's your number."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos!",
+      "translation": "Thank you!"
+    },
+    {
+      "speaker": "A",
+      "text": "Tervetuloa! Mit\u00e4 juot?",
+      "translation": "Welcome! What are you drinking?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saisin teet\u00e4 ja pullan.",
+      "translation": "I will have tea and a pastry."
+    },
+    {
+      "speaker": "A",
+      "text": "Istutaan t\u00e4h\u00e4n ylh\u00e4lle.",
+      "translation": "Let us sit up here."
+    },
+    {
+      "speaker": "B",
+      "text": "Hyv\u00e4\u00e4, n\u00e4hd\u00e4\u00e4n my\u00f6hemmin.",
+      "translation": "Good, see you later."
+    },
+    {
+      "speaker": "A",
+      "text": "Haluatko liitty\u00e4 meihin?",
+      "translation": "Do you want to join us?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, varmasti!",
+      "translation": "Yes, definitely!"
+    },
+    {
+      "speaker": "A",
+      "text": "Meid\u00e4n tulisi l\u00e4hte\u00e4 kohta.",
+      "translation": "We should leave soon."
+    },
+    {
+      "speaker": "B",
+      "text": "Odotan v\u00e4h\u00e4n pidemm\u00e4n.",
+      "translation": "I will wait a bit longer."
+    }
+  ]
+}

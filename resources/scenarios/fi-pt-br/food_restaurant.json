@@ -1,0 +1,342 @@
+{
+  "id": "food_restaurant",
+  "title": "Restaurante",
+  "description": "Pedir comida e jantar em um restaurante finland\u00eas",
+  "category": "DINING",
+  "icon": "Restaurant",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "por\u00e7\u00e3o",
+      "translation": "portion, serving",
+      "pos": "noun",
+      "example": "A por\u00e7\u00e3o \u00e9 grande.",
+      "exampleTranslation": "The portion is large."
+    },
+    {
+      "word": "refei\u00e7\u00e3o",
+      "translation": "meal",
+      "pos": "noun",
+      "example": "A refei\u00e7\u00e3o est\u00e1 pronta.",
+      "exampleTranslation": "The meal is ready."
+    },
+    {
+      "word": "aroma",
+      "translation": "smell, aroma",
+      "pos": "noun",
+      "example": "O aroma \u00e9 delicioso.",
+      "exampleTranslation": "The aroma is delicious."
+    },
+    {
+      "word": "geleia",
+      "translation": "jam, preserve",
+      "pos": "noun",
+      "example": "A geleia \u00e9 doce.",
+      "exampleTranslation": "The jam is sweet."
+    },
+    {
+      "word": "peixe",
+      "translation": "fish",
+      "pos": "noun",
+      "example": "O peixe est\u00e1 fresco.",
+      "exampleTranslation": "The fish is fresh."
+    },
+    {
+      "word": "sopa",
+      "translation": "soup",
+      "pos": "noun",
+      "example": "A sopa est\u00e1 quente.",
+      "exampleTranslation": "The soup is warm."
+    },
+    {
+      "word": "cozinha",
+      "translation": "kitchen",
+      "pos": "noun",
+      "example": "A cozinha est\u00e1 limpa.",
+      "exampleTranslation": "The kitchen is clean."
+    },
+    {
+      "word": "doce",
+      "translation": "sweet",
+      "pos": "adjective",
+      "example": "A sobremesa \u00e9 doce.",
+      "exampleTranslation": "The dessert is sweet."
+    },
+    {
+      "word": "especiaria",
+      "translation": "spice, seasoning",
+      "pos": "noun",
+      "example": "As especiarias est\u00e3o frescas.",
+      "exampleTranslation": "The spices are fresh."
+    },
+    {
+      "word": "comida",
+      "translation": "food",
+      "pos": "noun",
+      "example": "A comida \u00e9 deliciosa.",
+      "exampleTranslation": "The food is delicious."
+    },
+    {
+      "word": "salgado",
+      "translation": "salty",
+      "pos": "adjective",
+      "example": "A comida \u00e9 salgada.",
+      "exampleTranslation": "The food is salty."
+    },
+    {
+      "word": "da casa",
+      "translation": "house, of the house",
+      "pos": "noun",
+      "example": "O prato da casa \u00e9 sopa de salm\u00e3o.",
+      "exampleTranslation": "The house specialty is salmon soup."
+    },
+    {
+      "word": "pedir",
+      "translation": "to order",
+      "pos": "verb",
+      "example": "Gostaria de pedir.",
+      "exampleTranslation": "I would like to order."
+    },
+    {
+      "word": "preparar",
+      "translation": "to prepare, to make",
+      "pos": "verb",
+      "example": "A cozinha prepara comida.",
+      "exampleTranslation": "The kitchen prepares food."
+    },
+    {
+      "word": "experimentar",
+      "translation": "to taste",
+      "pos": "verb",
+      "example": "Posso experimentar?",
+      "exampleTranslation": "Can I taste?"
+    },
+    {
+      "word": "oferecer",
+      "translation": "to offer, to serve",
+      "pos": "verb",
+      "example": "Oferecemos o prato do dia.",
+      "exampleTranslation": "We offer the daily special."
+    },
+    {
+      "word": "conta",
+      "translation": "bill, check",
+      "pos": "noun",
+      "example": "Gostaria da conta.",
+      "exampleTranslation": "I would like the bill."
+    },
+    {
+      "word": "sobremesa",
+      "translation": "dessert",
+      "pos": "noun",
+      "example": "A sobremesa \u00e9 perfeita.",
+      "exampleTranslation": "The dessert is perfect."
+    },
+    {
+      "word": "vinho",
+      "translation": "wine",
+      "pos": "noun",
+      "example": "O vinho \u00e9 bom.",
+      "exampleTranslation": "The wine is good."
+    },
+    {
+      "word": "p\u00e3o",
+      "translation": "bread",
+      "pos": "noun",
+      "example": "O p\u00e3o est\u00e1 fresco.",
+      "exampleTranslation": "The bread is fresh."
+    },
+    {
+      "word": "acompanhamento",
+      "translation": "side dish",
+      "pos": "noun",
+      "example": "O acompanhamento \u00e9 batata.",
+      "exampleTranslation": "The side dish is potato."
+    },
+    {
+      "word": "refei\u00e7\u00e3o",
+      "translation": "meal",
+      "pos": "noun",
+      "example": "A refei\u00e7\u00e3o custou dez euros.",
+      "exampleTranslation": "The meal cost ten euros."
+    },
+    {
+      "word": "card\u00e1pio",
+      "translation": "menu",
+      "pos": "noun",
+      "example": "Aqui est\u00e1 o card\u00e1pio.",
+      "exampleTranslation": "Here is the menu."
+    },
+    {
+      "word": "reservar",
+      "translation": "to reserve",
+      "pos": "verb",
+      "example": "Gostaria de reservar uma mesa.",
+      "exampleTranslation": "I would like to reserve a table."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Gostaria de pedir.",
+      "translation": "I would like to order.",
+      "context": "When ready to order"
+    },
+    {
+      "phrase": "O que voc\u00eam recomendam?",
+      "translation": "What do you recommend?",
+      "context": "Asking for recommendations"
+    },
+    {
+      "phrase": "Poderia trazer a conta?",
+      "translation": "Could I get the bill?",
+      "context": "When ready to pay"
+    },
+    {
+      "phrase": "A comida estava deliciosa.",
+      "translation": "The food was delicious.",
+      "context": "Complimenting the meal"
+    },
+    {
+      "phrase": "Tem carne aqui?",
+      "translation": "Is there meat in this?",
+      "context": "Checking ingredients"
+    },
+    {
+      "phrase": "Gostaria de algo doce.",
+      "translation": "I would like something sweet.",
+      "context": "Ordering dessert"
+    },
+    {
+      "phrase": "Poderia trazer mais \u00e1gua?",
+      "translation": "Could I get more water?",
+      "context": "Asking for a refill"
+    },
+    {
+      "phrase": "O pedido est\u00e1 pronto.",
+      "translation": "The order is ready.",
+      "context": "When your food arrives"
+    },
+    {
+      "phrase": "Gostaria de um prato vegetariano.",
+      "translation": "I would like a vegetarian dish.",
+      "context": "Dietary preference"
+    },
+    {
+      "phrase": "Tem sem gl\u00fatem aqui?",
+      "translation": "Is there gluten-free here?",
+      "context": "Dietary restriction"
+    },
+    {
+      "phrase": "Voc\u00ea oferece algo novo hoje?",
+      "translation": "Do you have something new today?",
+      "context": "Asking for specials"
+    },
+    {
+      "phrase": "Posso servir aquecido.",
+      "translation": "I can have it heated.",
+      "context": "Requesting heated food"
+    },
+    {
+      "phrase": "Gostaria de \u00e1gua sem ado\u00e7ante.",
+      "translation": "I would like water without sweetener.",
+      "context": "Ordering drink"
+    },
+    {
+      "phrase": "A comida estava excepcionalmente boa.",
+      "translation": "The food was exceptionally good.",
+      "context": "Complimenting the meal"
+    },
+    {
+      "phrase": "Posso levar para casa?",
+      "translation": "Can I take it home?",
+      "context": "Requesting leftovers"
+    },
+    {
+      "phrase": "Esta \u00e9 minha dieta.",
+      "translation": "This is my diet.",
+      "context": "Explaining dietary needs"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bem-vindo! Para dois?",
+      "translation": "Welcome! For two?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, por favor.",
+      "translation": "Yes, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Aqui est\u00e1 o card\u00e1pio. Querem bebidas?",
+      "translation": "Here is the menu. Would you like drinks?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, dois copos de \u00e1gua.",
+      "translation": "Yes, two glasses of water."
+    },
+    {
+      "speaker": "A",
+      "text": "Est\u00e3o prontos para pedir?",
+      "translation": "Are you ready to order?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim. Quero sopa de salm\u00e3o e mingau.",
+      "translation": "Yes. I want salmon soup and porridge."
+    },
+    {
+      "speaker": "A",
+      "text": "\u00a1Boa escolha! E sobremesa?",
+      "translation": "Good choice! And dessert?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, torta de amora, por favor.",
+      "translation": "Yes, blueberry pie, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "O que voc\u00ea recomenda?",
+      "translation": "What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "Experimente o salm\u00e3o, \u00e9 excelente.",
+      "translation": "Try the salmon, it is excellent."
+    },
+    {
+      "speaker": "A",
+      "text": "Quero o mesmo que voc\u00ea.",
+      "translation": "I want the same as what you ate."
+    },
+    {
+      "speaker": "B",
+      "text": "S\u00e3o boas escolhas.",
+      "translation": "Those are good choices."
+    },
+    {
+      "speaker": "A",
+      "text": "Posso ter mais \u00e1gua?",
+      "translation": "Can I get more water?"
+    },
+    {
+      "speaker": "B",
+      "text": "Chega em breve.",
+      "translation": "It will come shortly."
+    },
+    {
+      "speaker": "A",
+      "text": "Querem sobremesa?",
+      "translation": "Would you like dessert?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, \u00a1torta de amora!",
+      "translation": "Yes, blueberry pie!"
+    }
+  ]
+}

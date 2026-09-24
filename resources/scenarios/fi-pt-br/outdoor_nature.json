@@ -1,0 +1,342 @@
+{
+  "id": "outdoor_nature",
+  "title": "Natureza",
+  "description": "Explorar a natureza finlandesa e atividades ao ar livre",
+  "category": "OUTDOOR",
+  "icon": "Forest",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "floresta",
+      "translation": "forest",
+      "pos": "noun",
+      "example": "A floresta \u00e9 bonita.",
+      "exampleTranslation": "The forest is beautiful."
+    },
+    {
+      "word": "lago",
+      "translation": "lake",
+      "pos": "noun",
+      "example": "O lago \u00e9 claro.",
+      "exampleTranslation": "The lake is clear."
+    },
+    {
+      "word": "trilha",
+      "translation": "trail, path",
+      "pos": "noun",
+      "example": "A trilha \u00e9 longa.",
+      "exampleTranslation": "The trail is long."
+    },
+    {
+      "word": "caminhada",
+      "translation": "hiking",
+      "pos": "noun",
+      "example": "A caminhada \u00e9 popular.",
+      "exampleTranslation": "Hiking is popular."
+    },
+    {
+      "word": "tenda",
+      "translation": "tent",
+      "pos": "noun",
+      "example": "A tenda est\u00e9 montada.",
+      "exampleTranslation": "The tent is set up."
+    },
+    {
+      "word": "fogueira",
+      "translation": "campfire",
+      "pos": "noun",
+      "example": "A fogueira aquece.",
+      "exampleTranslation": "The campfire warms."
+    },
+    {
+      "word": "prote\u00e7\u00e3o",
+      "translation": "protection, shelter",
+      "pos": "noun",
+      "example": "A prote\u00e7\u00e3o \u00e9 importante.",
+      "exampleTranslation": "Protection is important."
+    },
+    {
+      "word": "clima",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "O clima \u00e9 bom.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "montanha",
+      "translation": "mountain, hill",
+      "pos": "noun",
+      "example": "A montanha \u00e9 alta.",
+      "exampleTranslation": "The mountain is tall."
+    },
+    {
+      "word": "rio",
+      "translation": "river",
+      "pos": "noun",
+      "example": "O rio \u00e9 r\u00e1pido.",
+      "exampleTranslation": "The river is fast."
+    },
+    {
+      "word": "pedra",
+      "translation": "stone, rock",
+      "pos": "noun",
+      "example": "A pedra \u00e9 grande.",
+      "exampleTranslation": "The stone is large."
+    },
+    {
+      "word": "\u00e1rvore",
+      "translation": "tree",
+      "pos": "noun",
+      "example": "A \u00e1rvore \u00e9 velha.",
+      "exampleTranslation": "The tree is old."
+    },
+    {
+      "word": "p\u00e1ssaro",
+      "translation": "bird",
+      "pos": "noun",
+      "example": "O p\u00e1ssaro canta.",
+      "exampleTranslation": "The bird sings."
+    },
+    {
+      "word": "peixe",
+      "translation": "fish",
+      "pos": "noun",
+      "example": "O peixe pula na \u00e1gua.",
+      "exampleTranslation": "The fish jumps in the water."
+    },
+    {
+      "word": "cogumelo",
+      "translation": "mushroom",
+      "pos": "noun",
+      "example": "O cogumelo cresce na floresta.",
+      "exampleTranslation": "The mushroom grows in the forest."
+    },
+    {
+      "word": "fruta vermelha",
+      "translation": "berry",
+      "pos": "noun",
+      "example": "A fruta vermelha \u00e9 vermelha.",
+      "exampleTranslation": "The berry is red."
+    },
+    {
+      "word": "neve",
+      "translation": "snow",
+      "pos": "noun",
+      "example": "A neve \u00e9 branca.",
+      "exampleTranslation": "The snow is white."
+    },
+    {
+      "word": "gelo",
+      "translation": "ice",
+      "pos": "noun",
+      "example": "O gelo \u00e9 fino.",
+      "exampleTranslation": "The ice is thin."
+    },
+    {
+      "word": "sol",
+      "translation": "sun",
+      "pos": "noun",
+      "example": "O sol brilha.",
+      "exampleTranslation": "The sun shines."
+    },
+    {
+      "word": "lua",
+      "translation": "moon",
+      "pos": "noun",
+      "example": "A lua est\u00e1 cheia.",
+      "exampleTranslation": "The moon is full."
+    },
+    {
+      "word": "estrela",
+      "translation": "star",
+      "pos": "noun",
+      "example": "As estrelas brilham.",
+      "exampleTranslation": "The stars shine."
+    },
+    {
+      "word": "tarde",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "A tarde \u00e9 bonita.",
+      "exampleTranslation": "The evening is beautiful."
+    },
+    {
+      "word": "manh\u00e3",
+      "translation": "morning",
+      "pos": "noun",
+      "example": "A manh\u00e3 \u00e9 fresca.",
+      "exampleTranslation": "The morning is fresh."
+    },
+    {
+      "word": "ver\u00e3o",
+      "translation": "summer",
+      "pos": "noun",
+      "example": "O ver\u00e3o \u00e9 quente.",
+      "exampleTranslation": "The summer is warm."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Vamos fazer uma caminhada!",
+      "translation": "Let us go on a hike!",
+      "context": "Suggesting a hike"
+    },
+    {
+      "phrase": "A trilha \u00e9 dif\u00edcil?",
+      "translation": "Is the trail difficult?",
+      "context": "Asking about difficulty"
+    },
+    {
+      "phrase": "Onde \u00e9 o lago mais pr\u00f3ximo?",
+      "translation": "Where is the nearest lake?",
+      "context": "Finding a lake"
+    },
+    {
+      "phrase": "Posso acampar aqui?",
+      "translation": "Can I camp here?",
+      "context": "Asking about camping"
+    },
+    {
+      "phrase": "Posso fazer fogueira?",
+      "translation": "Can I have a campfire?",
+      "context": "Campfire rules"
+    },
+    {
+      "phrase": "Tem natureza aqui?",
+      "translation": "Is there wilderness here?",
+      "context": "Asking about nature"
+    },
+    {
+      "phrase": "Gostaria de pescar.",
+      "translation": "I would like to fish.",
+      "context": "Fishing"
+    },
+    {
+      "phrase": "Onde \u00e9 a trilha?",
+      "translation": "Where is the hiking trail?",
+      "context": "Finding trails"
+    },
+    {
+      "phrase": "Quanto tempo dura a trilha?",
+      "translation": "How long is the trail?",
+      "context": "Trail length"
+    },
+    {
+      "phrase": "Tem camping aqui?",
+      "translation": "Is there a campsite here?",
+      "context": "Finding campsite"
+    },
+    {
+      "phrase": "Preciso de um mapa.",
+      "translation": "I need a map.",
+      "context": "Navigation"
+    },
+    {
+      "phrase": "Posso colher frutas vermelhas?",
+      "translation": "Can I pick berries?",
+      "context": "Foraging"
+    },
+    {
+      "phrase": "Tem perigos aqui?",
+      "translation": "Are there dangers here?",
+      "context": "Safety"
+    },
+    {
+      "phrase": "Quanto tempo dura?",
+      "translation": "How long does it take?",
+      "context": "Duration"
+    },
+    {
+      "phrase": "Vou levar lanches.",
+      "translation": "I will bring snacks.",
+      "context": "Preparing"
+    },
+    {
+      "phrase": "Obrigado pela natureza!",
+      "translation": "Thank you for the nature!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Clima incr\u00edvel hoje!",
+      "translation": "Great weather today!"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim! Quer ir caminhar?",
+      "translation": "Yes! Do you want to go hiking?"
+    },
+    {
+      "speaker": "A",
+      "text": "Sim! Onde \u00e9 a trilha?",
+      "translation": "Yes! Where is the trail?"
+    },
+    {
+      "speaker": "B",
+      "text": "Come\u00e7a na borda da floresta ali.",
+      "translation": "It starts from the edge of the forest there."
+    },
+    {
+      "speaker": "A",
+      "text": "\u00a1Genial! Vou levar a tenda.",
+      "translation": "Great! I will bring the tent."
+    },
+    {
+      "speaker": "B",
+      "text": "Boa ideia. Tamb\u00e9m temos equipamento de fogueira.",
+      "translation": "Good idea. We also have campfire equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "Podemos pescar no lago?",
+      "translation": "Can we fish at the lake?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, voc\u00ea precisa de uma licen\u00e7a.",
+      "translation": "Yes, you need a permit."
+    },
+    {
+      "speaker": "A",
+      "text": "Onde consigo uma licen\u00e7a?",
+      "translation": "Where can I get a permit?"
+    },
+    {
+      "speaker": "B",
+      "text": "Na loja local.",
+      "translation": "From the local store."
+    },
+    {
+      "speaker": "A",
+      "text": "Tem frutas vermelhas aqui?",
+      "translation": "Are there berries here?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, tem muitas mirtilos.",
+      "translation": "Yes, there are many blueberries."
+    },
+    {
+      "speaker": "A",
+      "text": "\u00a1Genial! Vou levar uma cesta.",
+      "translation": "Great! I will bring a basket."
+    },
+    {
+      "speaker": "B",
+      "text": "Lembre-se de beber \u00e1gua.",
+      "translation": "Remember to drink water."
+    },
+    {
+      "speaker": "A",
+      "text": "Obrigado pela dica! Isso \u00e9 incr\u00edvel.",
+      "translation": "Thank you for the tip! This is great."
+    },
+    {
+      "speaker": "B",
+      "text": "Estamos quase no camping.",
+      "translation": "We are almost at the campsite."
+    }
+  ]
+}

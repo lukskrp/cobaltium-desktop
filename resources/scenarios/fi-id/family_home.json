@@ -1,0 +1,342 @@
+{
+  "id": "family_home",
+  "title": "Kehidupan Rumah",
+  "description": "Membahas kehidupan keluarga dan rutinitas rumah tangga dalam bahasa Finlandia",
+  "category": "FAMILY",
+  "icon": "FamilyRestroom",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "keluarga",
+      "translation": "family",
+      "pos": "noun",
+      "example": "Keluarganya besar.",
+      "exampleTranslation": "The family is large."
+    },
+    {
+      "word": "ibu",
+      "translation": "mother",
+      "pos": "noun",
+      "example": "Ibunya perhatian.",
+      "exampleTranslation": "The mother is caring."
+    },
+    {
+      "word": "ayah",
+      "translation": "father",
+      "pos": "noun",
+      "example": "Ayahnya kuat.",
+      "exampleTranslation": "The father is strong."
+    },
+    {
+      "word": "anak",
+      "translation": "child",
+      "pos": "noun",
+      "example": "Anaknya bermain.",
+      "exampleTranslation": "The child is playing."
+    },
+    {
+      "word": "rumah",
+      "translation": "home",
+      "pos": "noun",
+      "example": "Rumahnya hangat.",
+      "exampleTranslation": "The home is warm."
+    },
+    {
+      "word": "dapur",
+      "translation": "kitchen",
+      "pos": "noun",
+      "example": "Dapurnya bersih.",
+      "exampleTranslation": "The kitchen is clean."
+    },
+    {
+      "word": "kamar tidur",
+      "translation": "bedroom",
+      "pos": "noun",
+      "example": "Kamar tidurnya tenang.",
+      "exampleTranslation": "The bedroom is peaceful."
+    },
+    {
+      "word": "ruang tamu",
+      "translation": "living room",
+      "pos": "noun",
+      "example": "Ruang tamunya luas.",
+      "exampleTranslation": "The living room is spacious."
+    },
+    {
+      "word": "kamar mandi",
+      "translation": "bathroom",
+      "pos": "noun",
+      "example": "Kamar mandinya bersih.",
+      "exampleTranslation": "The bathroom is clean."
+    },
+    {
+      "word": "halaman",
+      "translation": "garden, yard",
+      "pos": "noun",
+      "example": "Halaman-nya indah.",
+      "exampleTranslation": "The garden is beautiful."
+    },
+    {
+      "word": "perabotan",
+      "translation": "furniture",
+      "pos": "noun",
+      "example": "Perabotannya baru.",
+      "exampleTranslation": "The furniture is new."
+    },
+    {
+      "word": "mesin cuci",
+      "translation": "washing machine",
+      "pos": "noun",
+      "example": "Mesin cucinya berjalan.",
+      "exampleTranslation": "The washing machine is running."
+    },
+    {
+      "word": "mesin pencuci piring",
+      "translation": "dishwasher",
+      "pos": "noun",
+      "example": "Mesin pencuci piringnya penuh.",
+      "exampleTranslation": "The dishwasher is full."
+    },
+    {
+      "word": "kulkas",
+      "translation": "refrigerator",
+      "pos": "noun",
+      "example": "Kulkasnya kosong.",
+      "exampleTranslation": "The refrigerator is empty."
+    },
+    {
+      "word": "lemari",
+      "translation": "cupboard, closet",
+      "pos": "noun",
+      "example": "Di lemari ada makanan.",
+      "exampleTranslation": "There is food in the cupboard."
+    },
+    {
+      "word": "pakaian",
+      "translation": "laundry",
+      "pos": "noun",
+      "example": "Pakaian sudah selesai.",
+      "exampleTranslation": "The laundry is done."
+    },
+    {
+      "word": "kebersihan",
+      "translation": "cleaning",
+      "pos": "noun",
+      "example": "Kebersihan itu penting.",
+      "exampleTranslation": "Cleaning is important."
+    },
+    {
+      "word": "memasak",
+      "translation": "cooking",
+      "pos": "noun",
+      "example": "Memasak itu menyenangkan.",
+      "exampleTranslation": "Cooking is fun."
+    },
+    {
+      "word": "pekerjaan rumah",
+      "translation": "chore, household task",
+      "pos": "noun",
+      "example": "Pekerjaan rumah selesai.",
+      "exampleTranslation": "The chores are done."
+    },
+    {
+      "word": "hari kerja",
+      "translation": "weekday, everyday life",
+      "pos": "noun",
+      "example": "Hari kerja sibuk.",
+      "exampleTranslation": "Weekdays are busy."
+    },
+    {
+      "word": "akhir pekan",
+      "translation": "weekend",
+      "pos": "noun",
+      "example": "Akhir pekan santai.",
+      "exampleTranslation": "The weekend is relaxing."
+    },
+    {
+      "word": "sarapan",
+      "translation": "breakfast",
+      "pos": "noun",
+      "example": "Sarapannya siap.",
+      "exampleTranslation": "Breakfast is ready."
+    },
+    {
+      "word": "makan siang",
+      "translation": "lunch",
+      "pos": "noun",
+      "example": "Makan siangnya lezat.",
+      "exampleTranslation": "Lunch is delicious."
+    },
+    {
+      "word": "makan malam",
+      "translation": "dinner",
+      "pos": "noun",
+      "example": "Makan malamnya dinanti.",
+      "exampleTranslation": "Dinner is awaited."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Tolong bantu bersih-bersih.",
+      "translation": "Help with cleaning.",
+      "context": "Asking for help"
+    },
+    {
+      "phrase": "Hari ini makanannya apa?",
+      "translation": "What is food today?",
+      "context": "Asking about meals"
+    },
+    {
+      "phrase": "Cuci piringnya.",
+      "translation": "Wash the dishes.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Bersihkan kamarnya.",
+      "translation": "Clean the room.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Buang sampahnya ke luar.",
+      "translation": "Take the trash out.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Siapa yang masak?",
+      "translation": "Who is cooking?",
+      "context": "Meal preparation"
+    },
+    {
+      "phrase": "Saya butuh bantuan di dapur.",
+      "translation": "I need help in the kitchen.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Kapan makanannya siap?",
+      "translation": "When is the food ready?",
+      "context": "Asking about timing"
+    },
+    {
+      "phrase": "Saya ingin membantu.",
+      "translation": "I would like to help.",
+      "context": "Offering help"
+    },
+    {
+      "phrase": "Apakah ada sesuatu di kulkas?",
+      "translation": "Is there something in the fridge?",
+      "context": "Looking for food"
+    },
+    {
+      "phrase": "Lap mejanya.",
+      "translation": "Wipe the table.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Melipat pakaiannya selesai.",
+      "translation": "The laundry folding is done.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Taruh makanan di piringnya.",
+      "translation": "Put food on the plate.",
+      "context": "Meal preparation"
+    },
+    {
+      "phrase": "Terima kasih atas bantuannya!",
+      "translation": "Thank you for your help!",
+      "context": "Expressing gratitude"
+    },
+    {
+      "phrase": "Rapikan tempat tidurmu.",
+      "translation": "Make your bed.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Kita tim yang bagus.",
+      "translation": "We are a good team.",
+      "context": "Expressing teamwork"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Apakah kamu mau membantu bersih-bersih?",
+      "translation": "Do you want to help with cleaning?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, tentu saja! Saya harus apa?",
+      "translation": "Yes, of course! What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Lap mejanya dan masukkan piring ke mesinnya.",
+      "translation": "Wipe the table and put the dishes in the machine."
+    },
+    {
+      "speaker": "B",
+      "text": "Okei! Saya lakukan sekarang.",
+      "translation": "Clear! I will do it right away."
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih! Pakaian juga menunggu.",
+      "translation": "Thank you! The laundry is also waiting."
+    },
+    {
+      "speaker": "B",
+      "text": "Saya lakukan nanti.",
+      "translation": "I will take it later."
+    },
+    {
+      "speaker": "A",
+      "text": "Hari ini makan siangnya apa?",
+      "translation": "What is for lunch today?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saya mau masak sup dan roti.",
+      "translation": "I will make soup and bread."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagus! Saya suka sup.",
+      "translation": "Great! I love soup."
+    },
+    {
+      "speaker": "B",
+      "text": "Ambil lebih kalau mau.",
+      "translation": "Take more if you want."
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih! Ini lezat.",
+      "translation": "Thank you! This is delicious."
+    },
+    {
+      "speaker": "B",
+      "text": "Saya senang kamu suka.",
+      "translation": "I am glad that you like it."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah kamu mau keluar ke halaman?",
+      "translation": "Do you want to go outside to the garden?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, ayo bermain.",
+      "translation": "Yes, let us go play."
+    },
+    {
+      "speaker": "A",
+      "text": "Ide bagus! Bawa embernya.",
+      "translation": "Good idea! Bring a bucket."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih ibu! Ini bagus.",
+      "translation": "Thank you mother! This is great."
+    }
+  ]
+}

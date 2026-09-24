@@ -1,0 +1,342 @@
+{
+  "id": "daily_mall",
+  "title": "Shopping",
+  "description": "Orientarsi nei centri commerciali e negozi finlandesi",
+  "category": "HOME",
+  "icon": "ShoppingCart",
+  "languagePair": "fi-it",
+  "vocabulary": [
+    {
+      "word": "cliente",
+      "translation": "customer",
+      "pos": "noun",
+      "example": "Il cliente \u00e8 soddisfatto.",
+      "exampleTranslation": "The customer is satisfied."
+    },
+    {
+      "word": "prezzo",
+      "translation": "price",
+      "pos": "noun",
+      "example": "Il prezzo \u00e8 ragionevole.",
+      "exampleTranslation": "The price is reasonable."
+    },
+    {
+      "word": "negozio",
+      "translation": "store, shop",
+      "pos": "noun",
+      "example": "Il negozio apre dalle otto.",
+      "exampleTranslation": "The store is open from eight."
+    },
+    {
+      "word": "riciclo",
+      "translation": "recycling",
+      "pos": "noun",
+      "example": "Il riciclo \u00e8 importante.",
+      "exampleTranslation": "Recycling is important."
+    },
+    {
+      "word": "cane",
+      "translation": "dog",
+      "pos": "noun",
+      "example": "Il cane \u00e8 fuori.",
+      "exampleTranslation": "The dog is outside."
+    },
+    {
+      "word": "venditore",
+      "translation": "salesperson",
+      "pos": "noun",
+      "example": "Il venditore \u00e8 disponibile.",
+      "exampleTranslation": "The salesperson is helpful."
+    },
+    {
+      "word": "comprare",
+      "translation": "to buy",
+      "pos": "verb",
+      "example": "Voglio comprare questo.",
+      "exampleTranslation": "I want to buy this."
+    },
+    {
+      "word": "acquisto",
+      "translation": "purchase, shopping",
+      "pos": "noun",
+      "example": "L'acquisto \u00e8 fatto.",
+      "exampleTranslation": "The purchase is done."
+    },
+    {
+      "word": "restituire",
+      "translation": "to return, to give back",
+      "pos": "verb",
+      "example": "Vorrei restituire il prodotto.",
+      "exampleTranslation": "I would like to return the product."
+    },
+    {
+      "word": "testa",
+      "translation": "head",
+      "pos": "noun",
+      "example": "Mi fa male la testa.",
+      "exampleTranslation": "My head hurts."
+    },
+    {
+      "word": "riva",
+      "translation": "shore, beach",
+      "pos": "noun",
+      "example": "La riva \u00e8 bella.",
+      "exampleTranslation": "The shore is beautiful."
+    },
+    {
+      "word": "merci",
+      "translation": "goods, items",
+      "pos": "noun",
+      "example": "Le merci sono di qualit\u00e0.",
+      "exampleTranslation": "The goods are high quality."
+    },
+    {
+      "word": "alla cassa",
+      "translation": "to the checkout",
+      "pos": "noun",
+      "example": "Andiamo alla cassa.",
+      "exampleTranslation": "Let us go to the checkout."
+    },
+    {
+      "word": "offerta",
+      "translation": "offer, deal",
+      "pos": "noun",
+      "example": "L'offerta \u00e8 buona.",
+      "exampleTranslation": "The offer is good."
+    },
+    {
+      "word": "taglia",
+      "translation": "size",
+      "pos": "noun",
+      "example": "Quale taglia?",
+      "exampleTranslation": "What size?"
+    },
+    {
+      "word": "colore",
+      "translation": "color",
+      "pos": "noun",
+      "example": "Quale colore?",
+      "exampleTranslation": "What color?"
+    },
+    {
+      "word": "per cento",
+      "translation": "percent",
+      "pos": "noun",
+      "example": "Lo sconto \u00e8 del dieci per cento.",
+      "exampleTranslation": "The discount is ten percent."
+    },
+    {
+      "word": "terminale carta",
+      "translation": "card terminal",
+      "pos": "noun",
+      "example": "Il terminale carta non funziona.",
+      "exampleTranslation": "The card terminal is not working."
+    },
+    {
+      "word": "tasca",
+      "translation": "pocket",
+      "pos": "noun",
+      "example": "Le chiavi sono in tasca.",
+      "exampleTranslation": "The keys are in the pocket."
+    },
+    {
+      "word": "portafoglio",
+      "translation": "wallet",
+      "pos": "noun",
+      "example": "Il portafoglio \u00e8 pieno di carte.",
+      "exampleTranslation": "The wallet is full of cards."
+    },
+    {
+      "word": "scaffale",
+      "translation": "shelf",
+      "pos": "noun",
+      "example": "Il prodotto \u00e8 sullo scaffale.",
+      "exampleTranslation": "The product is on the shelf."
+    },
+    {
+      "word": "cesto",
+      "translation": "basket, cart",
+      "pos": "noun",
+      "example": "Prendi un cesto.",
+      "exampleTranslation": "Take a basket."
+    },
+    {
+      "word": "marca",
+      "translation": "brand",
+      "pos": "noun",
+      "example": "Quale marca?",
+      "exampleTranslation": "What brand?"
+    },
+    {
+      "word": "diritto di reso",
+      "translation": "right of return",
+      "pos": "noun",
+      "example": "Il diritto di reso \u00e8 di 30 giorni.",
+      "exampleTranslation": "The right of return is 30 days."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Dov'\u00e8 la cassa?",
+      "translation": "Where is the checkout?",
+      "context": "Finding checkout"
+    },
+    {
+      "phrase": "Posso comprare questo?",
+      "translation": "Can I buy this?",
+      "context": "Confirming purchase"
+    },
+    {
+      "phrase": "C'\u00e8 uno sconto?",
+      "translation": "Is there a discount?",
+      "context": "Asking about discounts"
+    },
+    {
+      "phrase": "Vorrei restituire il prodotto.",
+      "translation": "I would like to return the product.",
+      "context": "Returning an item"
+    },
+    {
+      "phrase": "Qual \u00e8 il prezzo?",
+      "translation": "What is the price?",
+      "context": "Asking price"
+    },
+    {
+      "phrase": "Posso pagare con carta?",
+      "translation": "Can I pay by card?",
+      "context": "Payment method"
+    },
+    {
+      "phrase": "\u00c8 l'ultimo?",
+      "translation": "Is this the last one?",
+      "context": "Checking stock"
+    },
+    {
+      "phrase": "Ho bisogno di una taglia pi\u00f9 grande.",
+      "translation": "I need a larger size.",
+      "context": "Changing size"
+    },
+    {
+      "phrase": "Questo prodotto \u00e8 disponibile?",
+      "translation": "Is this product available?",
+      "context": "Checking availability"
+    },
+    {
+      "phrase": "Posso vedere un'altra opzione?",
+      "translation": "Can I see another option?",
+      "context": "Asking for alternatives"
+    },
+    {
+      "phrase": "Grazie, non ho bisogno di un sacchetto.",
+      "translation": "Thank you, I don't need a bag.",
+      "context": "Declining bag"
+    },
+    {
+      "phrase": "\u00c8 un regalo.",
+      "translation": "This is a gift.",
+      "context": "Gift wrapping"
+    },
+    {
+      "phrase": "C'\u00e8 sconto per aziende?",
+      "translation": "Is there a business customer discount?",
+      "context": "Business discount"
+    },
+    {
+      "phrase": "Quanto dura il diritto di reso?",
+      "translation": "How long does the return right last?",
+      "context": "Return policy"
+    },
+    {
+      "phrase": "\u00c8 stato un buon acquisto.",
+      "translation": "This was a good purchase.",
+      "context": "Expressing satisfaction"
+    },
+    {
+      "phrase": "Grazie per il tuo aiuto!",
+      "translation": "Thank you for your help!",
+      "context": "Thanking staff"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Benvenuto nel negozio!",
+      "translation": "Welcome to the store!"
+    },
+    {
+      "speaker": "B",
+      "text": "Grazie. Cerco una camicia nuova.",
+      "translation": "Thank you. I'm looking for a new shirt."
+    },
+    {
+      "speaker": "A",
+      "text": "Che tipo cerchi?",
+      "translation": "What kind are you looking for?"
+    },
+    {
+      "speaker": "B",
+      "text": "Blu, taglia M.",
+      "translation": "Blue, size M."
+    },
+    {
+      "speaker": "A",
+      "text": "Ecco qualche opzione.",
+      "translation": "Here are a few options."
+    },
+    {
+      "speaker": "B",
+      "text": "Fantastico! Qual \u00e8 il prezzo?",
+      "translation": "Great! What is the price?"
+    },
+    {
+      "speaker": "A",
+      "text": "Il prezzo \u00e8 trenta euro.",
+      "translation": "The price is thirty euros."
+    },
+    {
+      "speaker": "B",
+      "text": "C'\u00e8 uno sconto?",
+      "translation": "Is there a discount?"
+    },
+    {
+      "speaker": "A",
+      "text": "S\u00ec, oggi c'\u00e8 il dieci per cento di sconto.",
+      "translation": "Yes, today there is a ten percent discount."
+    },
+    {
+      "speaker": "B",
+      "text": "Meraviglioso! Lo prendo.",
+      "translation": "Wonderful! I'll take this."
+    },
+    {
+      "speaker": "A",
+      "text": "Vuoi un sacchetto?",
+      "translation": "Do you want a bag?"
+    },
+    {
+      "speaker": "B",
+      "text": "No grazie, i miei sacchetti bastano.",
+      "translation": "No thanks, my own bags are enough."
+    },
+    {
+      "speaker": "A",
+      "text": "Bene! Grazie per l'acquisto.",
+      "translation": "Good! Thank you for your purchase."
+    },
+    {
+      "speaker": "B",
+      "text": "Grazie! Buona giornata!",
+      "translation": "Thank you! Have a good day."
+    },
+    {
+      "speaker": "A",
+      "text": "Anche a te! Torna quando vuoi.",
+      "translation": "You too! Welcome back."
+    },
+    {
+      "speaker": "B",
+      "text": "Grazie, sicuramente torner\u00f2.",
+      "translation": "Thank you, I will definitely come."
+    }
+  ]
+}

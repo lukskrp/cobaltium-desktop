@@ -1,0 +1,342 @@
+{
+  "id": "outdoor_nature",
+  "title": "Natur",
+  "description": "Die finnische Natur und Outdoor-Aktivit\u00e4ten erkunden",
+  "category": "OUTDOOR",
+  "icon": "Forest",
+  "languagePair": "fi-de",
+  "vocabulary": [
+    {
+      "word": "Wald",
+      "translation": "forest",
+      "pos": "noun",
+      "example": "Der Wald ist sch\u00f6n.",
+      "exampleTranslation": "The forest is beautiful."
+    },
+    {
+      "word": "See",
+      "translation": "lake",
+      "pos": "noun",
+      "example": "Der See ist klar.",
+      "exampleTranslation": "The lake is clear."
+    },
+    {
+      "word": "Weg",
+      "translation": "trail, path",
+      "pos": "noun",
+      "example": "Der Weg ist lang.",
+      "exampleTranslation": "The trail is long."
+    },
+    {
+      "word": "Wandern",
+      "translation": "hiking",
+      "pos": "noun",
+      "example": "Wandern ist beliebt.",
+      "exampleTranslation": "Hiking is popular."
+    },
+    {
+      "word": "Zelt",
+      "translation": "tent",
+      "pos": "noun",
+      "example": "Das Zelt ist aufgebaut.",
+      "exampleTranslation": "The tent is set up."
+    },
+    {
+      "word": "Lagerfeuer",
+      "translation": "campfire",
+      "pos": "noun",
+      "example": "Das Lagerfeuer w\u00e4rmt.",
+      "exampleTranslation": "The campfire warms."
+    },
+    {
+      "word": "Schutz",
+      "translation": "protection, shelter",
+      "pos": "noun",
+      "example": "Schutz ist wichtig.",
+      "exampleTranslation": "Protection is important."
+    },
+    {
+      "word": "Wetter",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "Das Wetter ist gut.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "Berg",
+      "translation": "mountain, hill",
+      "pos": "noun",
+      "example": "Der Berg ist hoch.",
+      "exampleTranslation": "The mountain is tall."
+    },
+    {
+      "word": "Fluss",
+      "translation": "river",
+      "pos": "noun",
+      "example": "Der Fluss ist schnell.",
+      "exampleTranslation": "The river is fast."
+    },
+    {
+      "word": "Stein",
+      "translation": "stone, rock",
+      "pos": "noun",
+      "example": "Der Stein ist gro\u00df.",
+      "exampleTranslation": "The stone is large."
+    },
+    {
+      "word": "Baum",
+      "translation": "tree",
+      "pos": "noun",
+      "example": "Der Baum ist alt.",
+      "exampleTranslation": "The tree is old."
+    },
+    {
+      "word": "Vogel",
+      "translation": "bird",
+      "pos": "noun",
+      "example": "Der Vogel singt.",
+      "exampleTranslation": "The bird sings."
+    },
+    {
+      "word": "Fisch",
+      "translation": "fish",
+      "pos": "noun",
+      "example": "Der Fisch springt im Wasser.",
+      "exampleTranslation": "The fish jumps in the water."
+    },
+    {
+      "word": "Pilz",
+      "translation": "mushroom",
+      "pos": "noun",
+      "example": "Der Pilz w\u00e4chst im Wald.",
+      "exampleTranslation": "The mushroom grows in the forest."
+    },
+    {
+      "word": "Beere",
+      "translation": "berry",
+      "pos": "noun",
+      "example": "Die Beere ist rot.",
+      "exampleTranslation": "The berry is red."
+    },
+    {
+      "word": "Schnee",
+      "translation": "snow",
+      "pos": "noun",
+      "example": "Der Schnee ist wei\u00df.",
+      "exampleTranslation": "The snow is white."
+    },
+    {
+      "word": "Eis",
+      "translation": "ice",
+      "pos": "noun",
+      "example": "Das Eis ist d\u00fcnn.",
+      "exampleTranslation": "The ice is thin."
+    },
+    {
+      "word": "Sonne",
+      "translation": "sun",
+      "pos": "noun",
+      "example": "Die Sonne scheint.",
+      "exampleTranslation": "The sun shines."
+    },
+    {
+      "word": "Mond",
+      "translation": "moon",
+      "pos": "noun",
+      "example": "Der Mond ist voll.",
+      "exampleTranslation": "The moon is full."
+    },
+    {
+      "word": "Stern",
+      "translation": "star",
+      "pos": "noun",
+      "example": "Die Sterne leuchten.",
+      "exampleTranslation": "The stars shine."
+    },
+    {
+      "word": "Abend",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "Der Abend ist sch\u00f6n.",
+      "exampleTranslation": "The evening is beautiful."
+    },
+    {
+      "word": "Morgen",
+      "translation": "morning",
+      "pos": "noun",
+      "example": "Der Morgen ist frisch.",
+      "exampleTranslation": "The morning is fresh."
+    },
+    {
+      "word": "Sommer",
+      "translation": "summer",
+      "pos": "noun",
+      "example": "Der Sommer ist warm.",
+      "exampleTranslation": "The summer is warm."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Lassen wir wandern!",
+      "translation": "Let us go on a hike!",
+      "context": "Suggesting a hike"
+    },
+    {
+      "phrase": "Ist der Weg schwierig?",
+      "translation": "Is the trail difficult?",
+      "context": "Asking about difficulty"
+    },
+    {
+      "phrase": "Wo ist der n\u00e4chste See?",
+      "translation": "Where is the nearest lake?",
+      "context": "Finding a lake"
+    },
+    {
+      "phrase": "Darf ich hier zelten?",
+      "translation": "Can I camp here?",
+      "context": "Asking about camping"
+    },
+    {
+      "phrase": "Darf man ein Lagerfeuer machen?",
+      "translation": "Can I have a campfire?",
+      "context": "Campfire rules"
+    },
+    {
+      "phrase": "Gibt es hier Natur?",
+      "translation": "Is there wilderness here?",
+      "context": "Asking about nature"
+    },
+    {
+      "phrase": "Ich m\u00f6chte angeln.",
+      "translation": "I would like to fish.",
+      "context": "Fishing"
+    },
+    {
+      "phrase": "Wo ist der Wanderweg?",
+      "translation": "Where is the hiking trail?",
+      "context": "Finding trails"
+    },
+    {
+      "phrase": "Wie lang ist der Weg?",
+      "translation": "How long is the trail?",
+      "context": "Trail length"
+    },
+    {
+      "phrase": "Gibt es hier einen Campingplatz?",
+      "translation": "Is there a campsite here?",
+      "context": "Finding campsite"
+    },
+    {
+      "phrase": "Ich brauche eine Karte.",
+      "translation": "I need a map.",
+      "context": "Navigation"
+    },
+    {
+      "phrase": "Darf man Beeren pfl\u00fccken?",
+      "translation": "Can I pick berries?",
+      "context": "Foraging"
+    },
+    {
+      "phrase": "Gibt es hier Gefahren?",
+      "translation": "Are there dangers here?",
+      "context": "Safety"
+    },
+    {
+      "phrase": "Wie lange dauert es?",
+      "translation": "How long does it take?",
+      "context": "Duration"
+    },
+    {
+      "phrase": "Ich nehme Snacks mit.",
+      "translation": "I will bring snacks.",
+      "context": "Preparing"
+    },
+    {
+      "phrase": "Danke f\u00fc r die Natur!",
+      "translation": "Thank you for the nature!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Tolles Wetter heute!",
+      "translation": "Great weather today!"
+    },
+    {
+      "speaker": "B",
+      "text": "Ja! M\u00f6chten Sie wandern?",
+      "translation": "Yes! Do you want to go hiking?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ja! Wo ist der Weg?",
+      "translation": "Yes! Where is the trail?"
+    },
+    {
+      "speaker": "B",
+      "text": "Er beginnt dort am Waldrand.",
+      "translation": "It starts from the edge of the forest there."
+    },
+    {
+      "speaker": "A",
+      "text": "Super! Ich nehme das Zelt mit.",
+      "translation": "Great! I will bring the tent."
+    },
+    {
+      "speaker": "B",
+      "text": "Gute Idee. Wir haben auch Lagfeuer-Ausr\u00fcbung.",
+      "translation": "Good idea. We also have campfire equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "K\u00f6nnen wir am See angeln?",
+      "translation": "Can we fish at the lake?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ja, Sie brauchen eine Genehmigung.",
+      "translation": "Yes, you need a permit."
+    },
+    {
+      "speaker": "A",
+      "text": "Wo bekomme ich eine Genehmigung?",
+      "translation": "Where can I get a permit?"
+    },
+    {
+      "speaker": "B",
+      "text": "Aus dem lokalen Gesch\u00e4ft.",
+      "translation": "From the local store."
+    },
+    {
+      "speaker": "A",
+      "text": "Gibt es hier Beeren?",
+      "translation": "Are there berries here?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ja, es wachsen viele Heidelbeeren.",
+      "translation": "Yes, there are many blueberries."
+    },
+    {
+      "speaker": "A",
+      "text": "Super! Ich nehme einen Korb mit.",
+      "translation": "Great! I will bring a basket."
+    },
+    {
+      "speaker": "B",
+      "text": "Vergessen Sie nicht, Wasser zu trinken.",
+      "translation": "Remember to drink water."
+    },
+    {
+      "speaker": "A",
+      "text": "Danke f\u00fc r den Tipp! Das ist super.",
+      "translation": "Thank you for the tip! This is great."
+    },
+    {
+      "speaker": "B",
+      "text": "Wir sind fast am Campingplatz.",
+      "translation": "We are almost at the campsite."
+    }
+  ]
+}

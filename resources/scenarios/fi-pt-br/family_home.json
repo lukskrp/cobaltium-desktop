@@ -1,0 +1,342 @@
+{
+  "id": "family_home",
+  "title": "Vida em casa",
+  "description": "Discutir a vida familiar e rotinas dom\u00e9sticas em finland\u00eas",
+  "category": "FAMILY",
+  "icon": "FamilyRestroom",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "fam\u00edlia",
+      "translation": "family",
+      "pos": "noun",
+      "example": "A fam\u00edlia \u00e9 grande.",
+      "exampleTranslation": "The family is large."
+    },
+    {
+      "word": "m\u00e3e",
+      "translation": "mother",
+      "pos": "noun",
+      "example": "A m\u00e3e \u00e9 carinhosa.",
+      "exampleTranslation": "The mother is caring."
+    },
+    {
+      "word": "pai",
+      "translation": "father",
+      "pos": "noun",
+      "example": "O pai \u00e9 forte.",
+      "exampleTranslation": "The father is strong."
+    },
+    {
+      "word": "crian\u00e7a",
+      "translation": "child",
+      "pos": "noun",
+      "example": "A crian\u00e7a est\u00e1 brincando.",
+      "exampleTranslation": "The child is playing."
+    },
+    {
+      "word": "lar",
+      "translation": "home",
+      "pos": "noun",
+      "example": "O lar \u00e9 acolhedor.",
+      "exampleTranslation": "The home is warm."
+    },
+    {
+      "word": "cozinha",
+      "translation": "kitchen",
+      "pos": "noun",
+      "example": "A cozinha est\u00e1 limpa.",
+      "exampleTranslation": "The kitchen is clean."
+    },
+    {
+      "word": "quarto",
+      "translation": "bedroom",
+      "pos": "noun",
+      "example": "O quarto \u00e9 tranquilo.",
+      "exampleTranslation": "The bedroom is peaceful."
+    },
+    {
+      "word": "sala",
+      "translation": "living room",
+      "pos": "noun",
+      "example": "A sala \u00e9 espa\u00e7osa.",
+      "exampleTranslation": "The living room is spacious."
+    },
+    {
+      "word": "banheiro",
+      "translation": "bathroom",
+      "pos": "noun",
+      "example": "O banheiro est\u00e1 limpo.",
+      "exampleTranslation": "The bathroom is clean."
+    },
+    {
+      "word": "quintal",
+      "translation": "garden, yard",
+      "pos": "noun",
+      "example": "O quintal \u00e9 bonito.",
+      "exampleTranslation": "The garden is beautiful."
+    },
+    {
+      "word": "m\u00f3vel",
+      "translation": "furniture",
+      "pos": "noun",
+      "example": "Os m\u00f3veis s\u00e3o novos.",
+      "exampleTranslation": "The furniture is new."
+    },
+    {
+      "word": "m\u00e1quina de lavar",
+      "translation": "washing machine",
+      "pos": "noun",
+      "example": "A m\u00e1quina de lavar est\u00e1 funcionando.",
+      "exampleTranslation": "The washing machine is running."
+    },
+    {
+      "word": "m\u00e1quina de lou\u00e7a",
+      "translation": "dishwasher",
+      "pos": "noun",
+      "example": "A m\u00e1quina de lou\u00e7a est\u00e1 cheia.",
+      "exampleTranslation": "The dishwasher is full."
+    },
+    {
+      "word": "geladeira",
+      "translation": "refrigerator",
+      "pos": "noun",
+      "example": "A geladeira est\u00e1 vazia.",
+      "exampleTranslation": "The refrigerator is empty."
+    },
+    {
+      "word": "arm\u00e1rio",
+      "translation": "cupboard, closet",
+      "pos": "noun",
+      "example": "Tem comida no arm\u00e1rio.",
+      "exampleTranslation": "There is food in the cupboard."
+    },
+    {
+      "word": "roupa",
+      "translation": "laundry",
+      "pos": "noun",
+      "example": "A roupa est\u00e1 lavada.",
+      "exampleTranslation": "The laundry is done."
+    },
+    {
+      "word": "limpeza",
+      "translation": "cleaning",
+      "pos": "noun",
+      "example": "A limpeza \u00e9 importante.",
+      "exampleTranslation": "Cleaning is important."
+    },
+    {
+      "word": "cozinhar",
+      "translation": "cooking",
+      "pos": "noun",
+      "example": "Cozinhar \u00e9 divertido.",
+      "exampleTranslation": "Cooking is fun."
+    },
+    {
+      "word": "tarefa dom\u00e9stica",
+      "translation": "chore, household task",
+      "pos": "noun",
+      "example": "As tarefas dom\u00e9sticas est\u00e3o feitas.",
+      "exampleTranslation": "The chores are done."
+    },
+    {
+      "word": "semana",
+      "translation": "weekday, everyday life",
+      "pos": "noun",
+      "example": "A semana \u00e9 corrida.",
+      "exampleTranslation": "Weekdays are busy."
+    },
+    {
+      "word": "fim de semana",
+      "translation": "weekend",
+      "pos": "noun",
+      "example": "O fim de semana \u00e9 relaxante.",
+      "exampleTranslation": "The weekend is relaxing."
+    },
+    {
+      "word": "caf\u00e9 da manh\u00e3",
+      "translation": "breakfast",
+      "pos": "noun",
+      "example": "O caf\u00e9 da manh\u00e3 est\u00e1 pronto.",
+      "exampleTranslation": "Breakfast is ready."
+    },
+    {
+      "word": "almo\u00e7o",
+      "translation": "lunch",
+      "pos": "noun",
+      "example": "O almo\u00e7o \u00e9 delicioso.",
+      "exampleTranslation": "Lunch is delicious."
+    },
+    {
+      "word": "jantar",
+      "translation": "dinner",
+      "pos": "noun",
+      "example": "O jantar \u00e9 esperado.",
+      "exampleTranslation": "Dinner is awaited."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Ajude com a limpeza.",
+      "translation": "Help with cleaning.",
+      "context": "Asking for help"
+    },
+    {
+      "phrase": "O que vamos comer hoje?",
+      "translation": "What is food today?",
+      "context": "Asking about meals"
+    },
+    {
+      "phrase": "Lave a lou\u00e7a.",
+      "translation": "Wash the dishes.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Limpe o quarto.",
+      "translation": "Clean the room.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Tire o lixo.",
+      "translation": "Take the trash out.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Quem cozinha?",
+      "translation": "Who is cooking?",
+      "context": "Meal preparation"
+    },
+    {
+      "phrase": "Preciso de ajuda na cozinha.",
+      "translation": "I need help in the kitchen.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Quando a comida est\u00e1 pronta?",
+      "translation": "When is the food ready?",
+      "context": "Asking about timing"
+    },
+    {
+      "phrase": "Gostaria de ajudar.",
+      "translation": "I would like to help.",
+      "context": "Offering help"
+    },
+    {
+      "phrase": "Tem algo na geladeira?",
+      "translation": "Is there something in the fridge?",
+      "context": "Looking for food"
+    },
+    {
+      "phrase": "Limpe a mesa.",
+      "translation": "Wipe the table.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "A dobra da roupa est\u00e1 feita.",
+      "translation": "The laundry folding is done.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Coloque comida no prato.",
+      "translation": "Put food on the plate.",
+      "context": "Meal preparation"
+    },
+    {
+      "phrase": "Obrigado pela sua ajuda!",
+      "translation": "Thank you for your help!",
+      "context": "Expressing gratitude"
+    },
+    {
+      "phrase": "Arrume sua cama.",
+      "translation": "Make your bed.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Somos uma boa equipe.",
+      "translation": "We are a good team.",
+      "context": "Expressing teamwork"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Quer ajudar com a limpeza?",
+      "translation": "Do you want to help with cleaning?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, claro! O que fa\u00e7o?",
+      "translation": "Yes, of course! What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Limpe a mesa e coloque a lou\u00e7a na m\u00e1quina.",
+      "translation": "Wipe the table and put the dishes in the machine."
+    },
+    {
+      "speaker": "B",
+      "text": "Tudo certo! Vou fazer agora.",
+      "translation": "Clear! I will do it right away."
+    },
+    {
+      "speaker": "A",
+      "text": "Obrigado! A roupa tamb\u00e9m espera.",
+      "translation": "Thank you! The laundry is also waiting."
+    },
+    {
+      "speaker": "B",
+      "text": "Vou fazer isso mais tarde.",
+      "translation": "I will take it later."
+    },
+    {
+      "speaker": "A",
+      "text": "O que tem para almo\u00e7ar hoje?",
+      "translation": "What is for lunch today?"
+    },
+    {
+      "speaker": "B",
+      "text": "Keit\u00e4\u00e4n keitto\u00e4 ja leip\u00e4\u00e4.",
+      "translation": "I will make soup and bread."
+    },
+    {
+      "speaker": "A",
+      "text": "\u00a1Genial! Adoro sopa.",
+      "translation": "Great! I love soup."
+    },
+    {
+      "speaker": "B",
+      "text": "Coma mais se quiser.",
+      "translation": "Take more if you want."
+    },
+    {
+      "speaker": "A",
+      "text": "Obrigado! Est\u00e1 delicioso.",
+      "translation": "Thank you! This is delicious."
+    },
+    {
+      "speaker": "B",
+      "text": "Fico feliz que voc\u00ea goste.",
+      "translation": "I am glad that you like it."
+    },
+    {
+      "speaker": "A",
+      "text": "Quer sair l\u00e1 fora no quintal?",
+      "translation": "Do you want to go outside to the garden?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, vamos brincar.",
+      "translation": "Yes, let us go play."
+    },
+    {
+      "speaker": "A",
+      "text": "Boa ideia! Leve um balde.",
+      "translation": "Good idea! Bring a bucket."
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado, m\u00e3e! Isso \u00e9 incr\u00edvel.",
+      "translation": "Thank you mother! This is great."
+    }
+  ]
+}

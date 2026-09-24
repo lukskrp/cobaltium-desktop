@@ -1,0 +1,342 @@
+{
+  "id": "daily_doctor",
+  "title": "Visita medica",
+  "description": "Visitare un medico e parlare di salute in finlandese",
+  "category": "MEDICAL",
+  "icon": "LocalHospital",
+  "languagePair": "fi-it",
+  "vocabulary": [
+    {
+      "word": "vita",
+      "translation": "life",
+      "pos": "noun",
+      "example": "La vita \u00e8 bella.",
+      "exampleTranslation": "Life is beautiful."
+    },
+    {
+      "word": "curare",
+      "translation": "to treat, to care for",
+      "pos": "verb",
+      "example": "Il medico cura il paziente.",
+      "exampleTranslation": "The doctor treats the patient."
+    },
+    {
+      "word": "trattamento",
+      "translation": "treatment, care",
+      "pos": "noun",
+      "example": "Il trattamento \u00e8 importante.",
+      "exampleTranslation": "Treatment is important."
+    },
+    {
+      "word": "dolore",
+      "translation": "pain",
+      "pos": "noun",
+      "example": "Il dolore \u00e8 forte.",
+      "exampleTranslation": "The pain is bad."
+    },
+    {
+      "word": "farmaco",
+      "translation": "medicine",
+      "pos": "noun",
+      "example": "Il farmaco aiuta.",
+      "exampleTranslation": "The medicine helps."
+    },
+    {
+      "word": "medico",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "Il medico \u00e8 un professionista.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "stomaco",
+      "translation": "stomach",
+      "pos": "noun",
+      "example": "Mi fa male lo stomaco.",
+      "exampleTranslation": "My stomach hurts."
+    },
+    {
+      "word": "latte",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Il latte \u00e8 salutare.",
+      "exampleTranslation": "Milk is healthy."
+    },
+    {
+      "word": "collo",
+      "translation": "neck",
+      "pos": "noun",
+      "example": "Il collo \u00e8 rigido.",
+      "exampleTranslation": "The neck is stiff."
+    },
+    {
+      "word": "mangiare",
+      "translation": "to eat",
+      "pos": "verb",
+      "example": "Si dovrebbe mangiare in modo salutare.",
+      "exampleTranslation": "You should eat healthily."
+    },
+    {
+      "word": "glicemia",
+      "translation": "blood sugar",
+      "pos": "noun",
+      "example": "La glicemia \u00e8 alta.",
+      "exampleTranslation": "The blood sugar is high."
+    },
+    {
+      "word": "settimana",
+      "translation": "week",
+      "pos": "noun",
+      "example": "Una settimana \u00e8 un lungo periodo.",
+      "exampleTranslation": "A week is a long time."
+    },
+    {
+      "word": "paziente",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "Il paziente sta aspettando.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "visitato",
+      "translation": "visited",
+      "pos": "participle",
+      "example": "Ho visitato il medico.",
+      "exampleTranslation": "I have visited the doctor."
+    },
+    {
+      "word": "circolazione sanguigna",
+      "translation": "blood circulation",
+      "pos": "noun",
+      "example": "La circolazione sanguigna \u00e8 buona.",
+      "exampleTranslation": "Blood circulation is good."
+    },
+    {
+      "word": "dose",
+      "translation": "dose",
+      "pos": "noun",
+      "example": "La dose \u00e8 corretta.",
+      "exampleTranslation": "The dose is correct."
+    },
+    {
+      "word": "sintomo",
+      "translation": "symptom",
+      "pos": "noun",
+      "example": "Il sintomo appare al mattino.",
+      "exampleTranslation": "The symptom appears in the morning."
+    },
+    {
+      "word": "diagnosi",
+      "translation": "diagnosis",
+      "pos": "noun",
+      "example": "La diagnosi \u00e8 chiara.",
+      "exampleTranslation": "The diagnosis is clear."
+    },
+    {
+      "word": "salute",
+      "translation": "health",
+      "pos": "noun",
+      "example": "La salute \u00e8 importante.",
+      "exampleTranslation": "Health is important."
+    },
+    {
+      "word": "riposo",
+      "translation": "rest",
+      "pos": "noun",
+      "example": "Il riposo \u00e8 necessario.",
+      "exampleTranslation": "Rest is needed."
+    },
+    {
+      "word": "sangue",
+      "translation": "blood",
+      "pos": "noun",
+      "example": "Il sangue \u00e8 rosso.",
+      "exampleTranslation": "Blood is red."
+    },
+    {
+      "word": "temperatura corporea",
+      "translation": "body temperature",
+      "pos": "noun",
+      "example": "La temperatura corporea \u00e8 normale.",
+      "exampleTranslation": "Body temperature is normal."
+    },
+    {
+      "word": "raggi X",
+      "translation": "x-ray",
+      "pos": "noun",
+      "example": "La radiografia \u00e8 stata fatta.",
+      "exampleTranslation": "The x-ray has been taken."
+    },
+    {
+      "word": "sano",
+      "translation": "healthy",
+      "pos": "adjective",
+      "example": "Sono sano.",
+      "exampleTranslation": "I am healthy."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Ho mal di testa.",
+      "translation": "I have a headache.",
+      "context": "Describing symptom"
+    },
+    {
+      "phrase": "Dove fa male?",
+      "translation": "Where does it hurt?",
+      "context": "Doctor asking"
+    },
+    {
+      "phrase": "Prendi il farmaco due volte al giorno.",
+      "translation": "Take the medicine twice a day.",
+      "context": "Doctor's instruction"
+    },
+    {
+      "phrase": "Vieni al controllo tra una settimana.",
+      "translation": "Come for a check-up in a week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "Ho la influenza.",
+      "translation": "I have the flu.",
+      "context": "Describing illness"
+    },
+    {
+      "phrase": "Ho bisogno di certificato medico.",
+      "translation": "I need sick leave.",
+      "context": "Requesting sick leave"
+    },
+    {
+      "phrase": "Questo farmaco \u00e8 sicuro?",
+      "translation": "Is this medicine safe?",
+      "context": "Asking about medicine"
+    },
+    {
+      "phrase": "Ho un'allergia.",
+      "translation": "I have an allergy.",
+      "context": "Mentioning allergy"
+    },
+    {
+      "phrase": "Quanto dura il trattamento?",
+      "translation": "How long does the treatment last?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Ho dolore al petto.",
+      "translation": "I have pain in my chest.",
+      "context": "Describing pain"
+    },
+    {
+      "phrase": "Ho bisogno di una ricetta.",
+      "translation": "I need a prescription.",
+      "context": "Requesting prescription"
+    },
+    {
+      "phrase": "Ho insonnia.",
+      "translation": "I have insomnia.",
+      "context": "Describing sleep issues"
+    },
+    {
+      "phrase": "Ci sono altre opzioni?",
+      "translation": "Are there other options?",
+      "context": "Asking about alternatives"
+    },
+    {
+      "phrase": "Ho ipertensione.",
+      "translation": "I have high blood pressure.",
+      "context": "Describing condition"
+    },
+    {
+      "phrase": "Grazie per il tuo consiglio.",
+      "translation": "Thank you for your advice.",
+      "context": "Thanking doctor"
+    },
+    {
+      "phrase": "Torner\u00f2 tra un mese.",
+      "translation": "I will come again in a month.",
+      "context": "Scheduling next visit"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Buongiorno! Qual \u00e8 il problema?",
+      "translation": "Good morning! What is the problem?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ho mal di testa da un giorno.",
+      "translation": "I have had a headache for a day."
+    },
+    {
+      "speaker": "A",
+      "text": "Dove fa male?",
+      "translation": "Where does it hurt?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sulla fronte e sulla nuca.",
+      "translation": "On the forehead and back of the head."
+    },
+    {
+      "speaker": "A",
+      "text": "Ci sono altri sintomi?",
+      "translation": "Are there other symptoms?"
+    },
+    {
+      "speaker": "B",
+      "text": "S\u00ec, ho anche la febbre.",
+      "translation": "Yes, I also have a fever."
+    },
+    {
+      "speaker": "A",
+      "text": "Misuriamo la temperatura.",
+      "translation": "Let us measure the temperature."
+    },
+    {
+      "speaker": "B",
+      "text": "S\u00ec, per favore.",
+      "translation": "Yes, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "La temperatura \u00e8 38,5 gradi. Ha la influenza.",
+      "translation": "The temperature is 38.5 degrees. You have the flu."
+    },
+    {
+      "speaker": "B",
+      "text": "Cosa dovrei fare?",
+      "translation": "What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Riposa a casa e bevi molta acqua.",
+      "translation": "Rest at home and drink plenty of water."
+    },
+    {
+      "speaker": "B",
+      "text": "Ho bisogno di farmaci?",
+      "translation": "Do I need medicine?"
+    },
+    {
+      "speaker": "A",
+      "text": "S\u00ec, ti dar\u00f2 una ricetta.",
+      "translation": "Yes, I will give you a prescription."
+    },
+    {
+      "speaker": "B",
+      "text": "Grazie, dottore.",
+      "translation": "Thank you, doctor."
+    },
+    {
+      "speaker": "A",
+      "text": "Torna se non migliora.",
+      "translation": "Come back if it doesn't get better."
+    },
+    {
+      "speaker": "B",
+      "text": "Grazie per la tua cura!",
+      "translation": "Thank you for your care!"
+    }
+  ]
+}

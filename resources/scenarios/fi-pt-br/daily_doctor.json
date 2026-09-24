@@ -1,0 +1,342 @@
+{
+  "id": "daily_doctor",
+  "title": "Consulta m\u00e9dica",
+  "description": "Visitar um m\u00e9dico e falar de sa\u00fade em finland\u00eas",
+  "category": "MEDICAL",
+  "icon": "LocalHospital",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "vida",
+      "translation": "life",
+      "pos": "noun",
+      "example": "A vida \u00e9 bonita.",
+      "exampleTranslation": "Life is beautiful."
+    },
+    {
+      "word": "tratar",
+      "translation": "to treat, to care for",
+      "pos": "verb",
+      "example": "O m\u00e9dico trata o paciente.",
+      "exampleTranslation": "The doctor treats the patient."
+    },
+    {
+      "word": "tratamento",
+      "translation": "treatment, care",
+      "pos": "noun",
+      "example": "O tratamento \u00e9 importante.",
+      "exampleTranslation": "Treatment is important."
+    },
+    {
+      "word": "dor",
+      "translation": "pain",
+      "pos": "noun",
+      "example": "A dor \u00e9 forte.",
+      "exampleTranslation": "The pain is bad."
+    },
+    {
+      "word": "medicamento",
+      "translation": "medicine",
+      "pos": "noun",
+      "example": "O medicamento ajuda.",
+      "exampleTranslation": "The medicine helps."
+    },
+    {
+      "word": "m\u00e9dico",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "O m\u00e9dico \u00e9 profissional.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "est\u00f4mago",
+      "translation": "stomach",
+      "pos": "noun",
+      "example": "Meu est\u00f4mago d\u00f3i.",
+      "exampleTranslation": "My stomach hurts."
+    },
+    {
+      "word": "leite",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "O leite \u00e9 saud\u00e1vel.",
+      "exampleTranslation": "Milk is healthy."
+    },
+    {
+      "word": "pesco\u00e7o",
+      "translation": "neck",
+      "pos": "noun",
+      "example": "O pesco\u00e7o est\u00e1 r\u00edgido.",
+      "exampleTranslation": "The neck is stiff."
+    },
+    {
+      "word": "comer",
+      "translation": "to eat",
+      "pos": "verb",
+      "example": "Deve-se comer de forma saud\u00e1vel.",
+      "exampleTranslation": "You should eat healthily."
+    },
+    {
+      "word": "glicemia",
+      "translation": "blood sugar",
+      "pos": "noun",
+      "example": "A glicemia est\u00e1 alta.",
+      "exampleTranslation": "The blood sugar is high."
+    },
+    {
+      "word": "semana",
+      "translation": "week",
+      "pos": "noun",
+      "example": "Uma semana \u00e9 muito tempo.",
+      "exampleTranslation": "A week is a long time."
+    },
+    {
+      "word": "paciente",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "O paciente est\u00e1 esperando.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "visitado",
+      "translation": "visited",
+      "pos": "participle",
+      "example": "Visitei o m\u00e9dico.",
+      "exampleTranslation": "I have visited the doctor."
+    },
+    {
+      "word": "circula\u00e7\u00e3o sangu\u00ednea",
+      "translation": "blood circulation",
+      "pos": "noun",
+      "example": "A circula\u00e7\u00e3o sangu\u00ednea \u00e9 boa.",
+      "exampleTranslation": "Blood circulation is good."
+    },
+    {
+      "word": "dose",
+      "translation": "dose",
+      "pos": "noun",
+      "example": "A dose \u00e9 correta.",
+      "exampleTranslation": "The dose is correct."
+    },
+    {
+      "word": "sintoma",
+      "translation": "symptom",
+      "pos": "noun",
+      "example": "O sintoma aparece de manh\u00e3.",
+      "exampleTranslation": "The symptom appears in the morning."
+    },
+    {
+      "word": "diagn\u00f3stico",
+      "translation": "diagnosis",
+      "pos": "noun",
+      "example": "O diagn\u00f3stico \u00e9 claro.",
+      "exampleTranslation": "The diagnosis is clear."
+    },
+    {
+      "word": "sa\u00fade",
+      "translation": "health",
+      "pos": "noun",
+      "example": "A sa\u00fade \u00e9 importante.",
+      "exampleTranslation": "Health is important."
+    },
+    {
+      "word": "descanso",
+      "translation": "rest",
+      "pos": "noun",
+      "example": "O descanso \u00e9 necess\u00e1rio.",
+      "exampleTranslation": "Rest is needed."
+    },
+    {
+      "word": "sangue",
+      "translation": "blood",
+      "pos": "noun",
+      "example": "O sangue \u00e9 vermelho.",
+      "exampleTranslation": "Blood is red."
+    },
+    {
+      "word": "temperatura corporal",
+      "translation": "body temperature",
+      "pos": "noun",
+      "example": "A temperatura corporal est\u00e1 normal.",
+      "exampleTranslation": "Body temperature is normal."
+    },
+    {
+      "word": "raio-x",
+      "translation": "x-ray",
+      "pos": "noun",
+      "example": "O raio-x foi feito.",
+      "exampleTranslation": "The x-ray has been taken."
+    },
+    {
+      "word": "saud\u00e1vel",
+      "translation": "healthy",
+      "pos": "adjective",
+      "example": "Estou saud\u00e1vel.",
+      "exampleTranslation": "I am healthy."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Tenho dor de cabe\u00e7a.",
+      "translation": "I have a headache.",
+      "context": "Describing symptom"
+    },
+    {
+      "phrase": "Onde doi?",
+      "translation": "Where does it hurt?",
+      "context": "Doctor asking"
+    },
+    {
+      "phrase": "Tome o medicamento duas vezes ao dia.",
+      "translation": "Take the medicine twice a day.",
+      "context": "Doctor's instruction"
+    },
+    {
+      "phrase": "Venha ao controle em uma semana.",
+      "translation": "Come for a check-up in a week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "Estou com gripe.",
+      "translation": "I have the flu.",
+      "context": "Describing illness"
+    },
+    {
+      "phrase": "Preciso de atestado m\u00e9dico.",
+      "translation": "I need sick leave.",
+      "context": "Requesting sick leave"
+    },
+    {
+      "phrase": "Este medicamento \u00e9 seguro?",
+      "translation": "Is this medicine safe?",
+      "context": "Asking about medicine"
+    },
+    {
+      "phrase": "Tenho alergia.",
+      "translation": "I have an allergy.",
+      "context": "Mentioning allergy"
+    },
+    {
+      "phrase": "Quanto tempo dura o tratamento?",
+      "translation": "How long does the treatment last?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Tenho dor no peito.",
+      "translation": "I have pain in my chest.",
+      "context": "Describing pain"
+    },
+    {
+      "phrase": "Preciso de uma receita.",
+      "translation": "I need a prescription.",
+      "context": "Requesting prescription"
+    },
+    {
+      "phrase": "Tenho ins\u00f4nia.",
+      "translation": "I have insomnia.",
+      "context": "Describing sleep issues"
+    },
+    {
+      "phrase": "H\u00e1 outras op\u00e7\u00f5es?",
+      "translation": "Are there other options?",
+      "context": "Asking about alternatives"
+    },
+    {
+      "phrase": "Tenho hipertens\u00e3o.",
+      "translation": "I have high blood pressure.",
+      "context": "Describing condition"
+    },
+    {
+      "phrase": "Obrigado pelo seu conselho.",
+      "translation": "Thank you for your advice.",
+      "context": "Thanking doctor"
+    },
+    {
+      "phrase": "Voltarei em um m\u00eas.",
+      "translation": "I will come again in a month.",
+      "context": "Scheduling next visit"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bom dia! Qual \u00e9 o problema?",
+      "translation": "Good morning! What is the problem?"
+    },
+    {
+      "speaker": "B",
+      "text": "Tenho dor de cabe\u00e7a h\u00e1 um dia.",
+      "translation": "I have had a headache for a day."
+    },
+    {
+      "speaker": "A",
+      "text": "Onde doi?",
+      "translation": "Where does it hurt?"
+    },
+    {
+      "speaker": "B",
+      "text": "Na testa e na nuca.",
+      "translation": "On the forehead and back of the head."
+    },
+    {
+      "speaker": "A",
+      "text": "H\u00e1 outros sintomas?",
+      "translation": "Are there other symptoms?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, tamb\u00e9m tenho febre.",
+      "translation": "Yes, I also have a fever."
+    },
+    {
+      "speaker": "A",
+      "text": "Vamos medir a temperatura.",
+      "translation": "Let us measure the temperature."
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, por favor.",
+      "translation": "Yes, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "A temperatura \u00e9 38,5 graus. Voc\u00ea tem gripe.",
+      "translation": "The temperature is 38.5 degrees. You have the flu."
+    },
+    {
+      "speaker": "B",
+      "text": "O que devo fazer?",
+      "translation": "What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Descanse em casa e beba muita \u00e1gua.",
+      "translation": "Rest at home and drink plenty of water."
+    },
+    {
+      "speaker": "B",
+      "text": "Preciso de medicamento?",
+      "translation": "Do I need medicine?"
+    },
+    {
+      "speaker": "A",
+      "text": "Sim, vou dar uma receita.",
+      "translation": "Yes, I will give you a prescription."
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado, doutor.",
+      "translation": "Thank you, doctor."
+    },
+    {
+      "speaker": "A",
+      "text": "Volte se n\u00e3o melhorar.",
+      "translation": "Come back if it doesn't get better."
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado pelo seu cuidado!",
+      "translation": "Thank you for your care!"
+    }
+  ]
+}

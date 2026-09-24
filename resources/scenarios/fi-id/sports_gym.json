@@ -1,0 +1,342 @@
+{
+  "id": "sports_gym",
+  "title": "Gym",
+  "description": "Berolahraga dan membahas olahraga dalam bahasa Finlandia",
+  "category": "FITNESS",
+  "icon": "FitnessCenter",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "lari",
+      "translation": "running",
+      "pos": "noun",
+      "example": "Lari itu latihan yang bagus.",
+      "exampleTranslation": "Running is good exercise."
+    },
+    {
+      "word": "kebugaran",
+      "translation": "fitness, condition",
+      "pos": "noun",
+      "example": "Kebugaranmu terlihat bagus.",
+      "exampleTranslation": "Your fitness looks good."
+    },
+    {
+      "word": "otot",
+      "translation": "muscle",
+      "pos": "noun",
+      "example": "Ototnya tegang.",
+      "exampleTranslation": "The muscle is tense."
+    },
+    {
+      "word": "pemulihan",
+      "translation": "recovery",
+      "pos": "noun",
+      "example": "Pemulihan itu penting.",
+      "exampleTranslation": "Recovery is important."
+    },
+    {
+      "word": "berat",
+      "translation": "weight",
+      "pos": "noun",
+      "example": "Beratnya terlalu banyak.",
+      "exampleTranslation": "The weight is too much."
+    },
+    {
+      "word": "lemak",
+      "translation": "fat",
+      "pos": "noun",
+      "example": "Lemaknya sudah berkurang.",
+      "exampleTranslation": "Fat has decreased."
+    },
+    {
+      "word": "permen masin",
+      "translation": "salty licorice",
+      "pos": "noun",
+      "example": "Permen masin populer di Finlandia.",
+      "exampleTranslation": "Salty licorice is popular in Finland."
+    },
+    {
+      "word": "penampilan",
+      "translation": "performance",
+      "pos": "noun",
+      "example": "Penampilannya bagus.",
+      "exampleTranslation": "The performance was good."
+    },
+    {
+      "word": "berlatih",
+      "translation": "to train",
+      "pos": "verb",
+      "example": "Saya berlatih setiap hari.",
+      "exampleTranslation": "I train every day."
+    },
+    {
+      "word": "latihan",
+      "translation": "training, workout",
+      "pos": "noun",
+      "example": "Latihan dimulai pukul enam.",
+      "exampleTranslation": "The workout started at six."
+    },
+    {
+      "word": "pelatihan",
+      "translation": "coaching",
+      "pos": "noun",
+      "example": "Pelatihannya bagus.",
+      "exampleTranslation": "The coaching is good."
+    },
+    {
+      "word": "peralatan",
+      "translation": "equipment",
+      "pos": "noun",
+      "example": "Peralatannya baru.",
+      "exampleTranslation": "The equipment is new."
+    },
+    {
+      "word": "gym",
+      "translation": "gym, fitness center",
+      "pos": "noun",
+      "example": "Gym buka di pagi hari.",
+      "exampleTranslation": "The gym is open in the mornings."
+    },
+    {
+      "word": "sirkuit",
+      "translation": "circuit",
+      "pos": "adjective",
+      "example": "Latihan sirkuit efektif.",
+      "exampleTranslation": "Circuit training is effective."
+    },
+    {
+      "word": "bicep",
+      "translation": "bicep",
+      "pos": "noun",
+      "example": "Bicepnya kuat.",
+      "exampleTranslation": "The bicep is strong."
+    },
+    {
+      "word": "bahu",
+      "translation": "shoulder",
+      "pos": "noun",
+      "example": "Bahunya fleksibel.",
+      "exampleTranslation": "The shoulder is flexible."
+    },
+    {
+      "word": "palu",
+      "translation": "hammer",
+      "pos": "noun",
+      "example": "Palunya berat.",
+      "exampleTranslation": "The hammer is heavy."
+    },
+    {
+      "word": "squat",
+      "translation": "to squat",
+      "pos": "verb",
+      "example": "Saya squat dengan beban.",
+      "exampleTranslation": "I squat with weights."
+    },
+    {
+      "word": "bangku",
+      "translation": "bench",
+      "pos": "noun",
+      "example": "Bangku sedang digunakan.",
+      "exampleTranslation": "The bench is in use."
+    },
+    {
+      "word": "deadlift",
+      "translation": "deadlift",
+      "pos": "noun",
+      "example": "Deadlift itu menantang.",
+      "exampleTranslation": "The deadlift is demanding."
+    },
+    {
+      "word": "penggemar kebugaran",
+      "translation": "fitness enthusiast",
+      "pos": "noun",
+      "example": "Penggemar kebugaran termotivasi.",
+      "exampleTranslation": "The fitness enthusiast is motivated."
+    },
+    {
+      "word": "olahraga",
+      "translation": "exercise, physical activity",
+      "pos": "noun",
+      "example": "Olahraga itu penting.",
+      "exampleTranslation": "Exercise is important."
+    },
+    {
+      "word": "pijat",
+      "translation": "massage",
+      "pos": "noun",
+      "example": "Hierontaa tarvitaan.",
+      "exampleTranslation": "A massage is needed."
+    },
+    {
+      "word": "senam",
+      "translation": "exercise, gymnastics",
+      "pos": "noun",
+      "example": "Senam itu menyenangkan.",
+      "exampleTranslation": "Exercise is fun."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Dimana gymnya?",
+      "translation": "Where is the gym?",
+      "context": "Finding the gym"
+    },
+    {
+      "phrase": "Bisakah saya meminjam peralatan?",
+      "translation": "Can I borrow equipment?",
+      "context": "Borrowing equipment"
+    },
+    {
+      "phrase": "Berapa beratnya?",
+      "translation": "How much weight?",
+      "context": "Asking about weight"
+    },
+    {
+      "phrase": "Saya butuh bantuan.",
+      "translation": "I need help.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "Latihan sudah selesai.",
+      "translation": "The workout is over.",
+      "context": "Finishing workout"
+    },
+    {
+      "phrase": "Saya baru di sini.",
+      "translation": "I am new here.",
+      "context": "Introducing yourself"
+    },
+    {
+      "phrase": "Bisakah saya melakukan burpees?",
+      "translation": "Can I do burpees?",
+      "context": "Asking about exercises"
+    },
+    {
+      "phrase": "Dimana ruang gantinya?",
+      "translation": "Where is the locker room?",
+      "context": "Finding facilities"
+    },
+    {
+      "phrase": "Berapa lama waktunya?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Saya ingin meningkatkan kebugaran saya.",
+      "translation": "I want to improve my fitness.",
+      "context": "Setting goals"
+    },
+    {
+      "phrase": "Apakah ada pelatih pribadi di sini?",
+      "translation": "Is there a personal trainer here?",
+      "context": "Looking for trainer"
+    },
+    {
+      "phrase": "Hari ini saya latihan kaki.",
+      "translation": "Today I train legs.",
+      "context": "Describing workout"
+    },
+    {
+      "phrase": "Saya istirahat sebentar.",
+      "translation": "I will take a break.",
+      "context": "Taking a break"
+    },
+    {
+      "phrase": "Sekali lagi!",
+      "translation": "Last rep!",
+      "context": "During exercise"
+    },
+    {
+      "phrase": "Ayo perlambat sedikit.",
+      "translation": "Let us slow down a bit.",
+      "context": "Pacing workout"
+    },
+    {
+      "phrase": "Terima kasih atas semangatnya!",
+      "translation": "Thank you for the encouragement!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hei! Apakah kamu baru di sini?",
+      "translation": "Hi! Are you new here?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, hari ini hari pertama saya.",
+      "translation": "Yes, today is my first day."
+    },
+    {
+      "speaker": "A",
+      "text": "Selamat datang! Apakah kamu butuh bantuan?",
+      "translation": "Welcome! Do you want help?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, senang melihat peralatannya.",
+      "translation": "Yes, it would be nice to see the equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "Ini gymnya. Semua yang dibutuhkan ada di sini.",
+      "translation": "Here is the gym. Everything needed is here."
+    },
+    {
+      "speaker": "B",
+      "text": "Bagus! Peralatan mana yang harus saya fokuskan?",
+      "translation": "Great! Which equipment should I focus on?"
+    },
+    {
+      "speaker": "A",
+      "text": "Mulai dari bangku dan deadlift.",
+      "translation": "Start with the bench and deadlift."
+    },
+    {
+      "speaker": "B",
+      "text": "Berapa berat yang Anda rekomendasikan?",
+      "translation": "How much weight do you recommend?"
+    },
+    {
+      "speaker": "A",
+      "text": "Mulai ringan dan tingkatkan bertahap.",
+      "translation": "Start light and increase gradually."
+    },
+    {
+      "speaker": "B",
+      "text": "Ide bagus. Bagaimana dengan treadmill?",
+      "translation": "Good idea. What about the treadmill?"
+    },
+    {
+      "speaker": "A",
+      "text": "Treadmill ada di sana. Kamu bisa menggunakannya untuk pemanasan.",
+      "translation": "The treadmill is over there. You can use it for warming up."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih! Apakah kamu sering berlatih?",
+      "translation": "Thank you! Do you train often?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ya, tiga kali seminggu.",
+      "translation": "Yes, three times a week."
+    },
+    {
+      "speaker": "B",
+      "text": "Itu rutinitas yang bagus.",
+      "translation": "That is a good routine."
+    },
+    {
+      "speaker": "A",
+      "text": "Ya. Kami hampir selesai.",
+      "translation": "Yes. We are almost ready."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih atas bantuannya! Rasanya enak.",
+      "translation": "Thank you for your help! It feels good."
+    }
+  ]
+}

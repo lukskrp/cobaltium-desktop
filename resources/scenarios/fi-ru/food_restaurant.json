@@ -1,0 +1,342 @@
+{
+  "id": "food_restaurant",
+  "title": "\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d",
+  "description": "\u0417\u0430\u043a\u0430\u0437 \u0435\u0434\u044b \u0432 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0435",
+  "category": "DINING",
+  "icon": "Restaurant",
+  "languagePair": "fi-ru",
+  "vocabulary": [
+    {
+      "word": "\u043f\u043e\u0440\u0446\u0438\u044f",
+      "translation": "portion, serving",
+      "pos": "noun",
+      "example": "Annos on iso.",
+      "exampleTranslation": "The portion is large."
+    },
+    {
+      "word": "ateria",
+      "translation": "meal",
+      "pos": "noun",
+      "example": "Ateria on valmis.",
+      "exampleTranslation": "The meal is ready."
+    },
+    {
+      "word": "haju",
+      "translation": "smell, aroma",
+      "pos": "noun",
+      "example": "Haju on herkullinen.",
+      "exampleTranslation": "The aroma is delicious."
+    },
+    {
+      "word": "hillo",
+      "translation": "jam, preserve",
+      "pos": "noun",
+      "example": "Hillo on makeaa.",
+      "exampleTranslation": "The jam is sweet."
+    },
+    {
+      "word": "kala",
+      "translation": "fish",
+      "pos": "noun",
+      "example": "Kala on tuoretta.",
+      "exampleTranslation": "The fish is fresh."
+    },
+    {
+      "word": "keitto",
+      "translation": "soup",
+      "pos": "noun",
+      "example": "Keitto on l\u00e4mmint\u00e4.",
+      "exampleTranslation": "The soup is warm."
+    },
+    {
+      "word": "keitti\u00f6",
+      "translation": "kitchen",
+      "pos": "noun",
+      "example": "Keitti\u00f6 on siisti.",
+      "exampleTranslation": "The kitchen is clean."
+    },
+    {
+      "word": "\u0441\u043b\u0430\u0434\u043a\u0438\u0439",
+      "translation": "sweet",
+      "pos": "adjective",
+      "example": "J\u00e4lkiruoka on makeaa.",
+      "exampleTranslation": "The dessert is sweet."
+    },
+    {
+      "word": "mauste",
+      "translation": "spice, seasoning",
+      "pos": "noun",
+      "example": "Mausteet ovat tuoreita.",
+      "exampleTranslation": "The spices are fresh."
+    },
+    {
+      "word": "\u0435\u0434\u0430",
+      "translation": "food",
+      "pos": "noun",
+      "example": "\u0415\u0434\u0430 \u0432\u043a\u0443\u0441\u043d\u0430\u044f.",
+      "exampleTranslation": "The food is delicious."
+    },
+    {
+      "word": "\u0441\u043e\u043b\u0451\u043d\u044b\u0439",
+      "translation": "salty",
+      "pos": "adjective",
+      "example": "Ruoka on suolaista.",
+      "exampleTranslation": "The food is salty."
+    },
+    {
+      "word": "talon",
+      "translation": "house, of the house",
+      "pos": "noun",
+      "example": "Talon erikoisuus on lohikeitto.",
+      "exampleTranslation": "The house specialty is salmon soup."
+    },
+    {
+      "word": "\u0437\u0430\u043a\u0430\u0437\u0430\u0442\u044c",
+      "translation": "to order",
+      "pos": "verb",
+      "example": "Haluaisin tilata.",
+      "exampleTranslation": "I would like to order."
+    },
+    {
+      "word": "valmistaa",
+      "translation": "to prepare, to make",
+      "pos": "verb",
+      "example": "Keitti\u00f6 valmistaa ruokaa.",
+      "exampleTranslation": "The kitchen prepares food."
+    },
+    {
+      "word": "maistaa",
+      "translation": "to taste",
+      "pos": "verb",
+      "example": "Voinko maistaa?",
+      "exampleTranslation": "Can I taste?"
+    },
+    {
+      "word": "tarjota",
+      "translation": "to offer, to serve",
+      "pos": "verb",
+      "example": "Tarjoamme p\u00e4iv\u00e4n annoksen.",
+      "exampleTranslation": "We offer the daily special."
+    },
+    {
+      "word": "\u0441\u0447\u0451\u0442",
+      "translation": "bill, check",
+      "pos": "noun",
+      "example": "Saisin laskun.",
+      "exampleTranslation": "I would like the bill."
+    },
+    {
+      "word": "j\u00e4lkiruoka",
+      "translation": "dessert",
+      "pos": "noun",
+      "example": "J\u00e4lkiruoka on t\u00e4ydellinen.",
+      "exampleTranslation": "The dessert is perfect."
+    },
+    {
+      "word": "\u0432\u0438\u043d\u043e",
+      "translation": "wine",
+      "pos": "noun",
+      "example": "\u0412\u0438\u043d\u043e \u0445\u043e\u0440\u043e\u0448\u0435\u0435.",
+      "exampleTranslation": "The wine is good."
+    },
+    {
+      "word": "leip\u00e4",
+      "translation": "bread",
+      "pos": "noun",
+      "example": "Leip\u00e4 on tuoreeta.",
+      "exampleTranslation": "The bread is fresh."
+    },
+    {
+      "word": "\u0433\u0430\u0440\u043d\u0438\u0440",
+      "translation": "side dish",
+      "pos": "noun",
+      "example": "Lis\u00e4ke on perunaa.",
+      "exampleTranslation": "The side dish is potato."
+    },
+    {
+      "word": "ateria",
+      "translation": "meal",
+      "pos": "noun",
+      "example": "Ateria maksoi kymmenen euroa.",
+      "exampleTranslation": "The meal cost ten euros."
+    },
+    {
+      "word": "ervi",
+      "translation": "menu",
+      "pos": "noun",
+      "example": "T\u00e4ss\u00e4 on menu.",
+      "exampleTranslation": "Here is the menu."
+    },
+    {
+      "word": "varata",
+      "translation": "to reserve",
+      "pos": "verb",
+      "example": "Haluaisin varata p\u00f6yd\u00e4n.",
+      "exampleTranslation": "I would like to reserve a table."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Haluaisin tilata.",
+      "translation": "I would like to order.",
+      "context": "When ready to order"
+    },
+    {
+      "phrase": "Mit\u00e4 suosittelette?",
+      "translation": "What do you recommend?",
+      "context": "Asking for recommendations"
+    },
+    {
+      "phrase": "Saisin laskun?",
+      "translation": "Could I get the bill?",
+      "context": "When ready to pay"
+    },
+    {
+      "phrase": "Ruoka oli herkullista.",
+      "translation": "The food was delicious.",
+      "context": "Complimenting the meal"
+    },
+    {
+      "phrase": "Onko t\u00e4ss\u00e4 lihaa?",
+      "translation": "Is there meat in this?",
+      "context": "Checking ingredients"
+    },
+    {
+      "phrase": "Haluaisin jotain makeaa.",
+      "translation": "I would like something sweet.",
+      "context": "Ordering dessert"
+    },
+    {
+      "phrase": "Voisinko saada lis\u00e4\u00e4 vett\u00e4?",
+      "translation": "Could I get more water?",
+      "context": "Asking for a refill"
+    },
+    {
+      "phrase": "Tilaus on valmis.",
+      "translation": "The order is ready.",
+      "context": "When your food arrives"
+    },
+    {
+      "phrase": "Haluaisin kasvisannoksen.",
+      "translation": "I would like a vegetarian dish.",
+      "context": "Dietary preference"
+    },
+    {
+      "phrase": "Onko t\u00e4ss\u00e4 gluteenit\u00f6nt\u00e4?",
+      "translation": "Is there gluten-free here?",
+      "context": "Dietary restriction"
+    },
+    {
+      "phrase": "Tarjoiletk\u00f6 t\u00e4n\u00e4\u00e4n jotain uutta?",
+      "translation": "Do you have something new today?",
+      "context": "Asking for specials"
+    },
+    {
+      "phrase": "Voin antaa sen l\u00e4mmitetyn.",
+      "translation": "I can have it heated.",
+      "context": "Requesting heated food"
+    },
+    {
+      "phrase": "Haluaisin veden ilman makeutinta.",
+      "translation": "I would like water without sweetener.",
+      "context": "Ordering drink"
+    },
+    {
+      "phrase": "Ruoka oli poikkeuksellisen hyv\u00e4\u00e4.",
+      "translation": "The food was exceptionally good.",
+      "context": "Complimenting the meal"
+    },
+    {
+      "phrase": "Voin ottaa sen mukaan kotiin?",
+      "translation": "Can I take it home?",
+      "context": "Requesting leftovers"
+    },
+    {
+      "phrase": "T\u00e4m\u00e4 on ruokavalioni.",
+      "translation": "This is my diet.",
+      "context": "Explaining dietary needs"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Tervetuloa! Kahdelle?",
+      "translation": "Welcome! For two?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, kiitos.",
+      "translation": "Yes, please."
+    },
+    {
+      "speaker": "A",
+      "text": "T\u00e4ss\u00e4 on valikoima. Haluatte juomia?",
+      "translation": "Here is the menu. Would you like drinks?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, kaksi lasia vett\u00e4.",
+      "translation": "Yes, two glasses of water."
+    },
+    {
+      "speaker": "A",
+      "text": "Oletteko valmiita tilaamaan?",
+      "translation": "Are you ready to order?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4. Haluan lohikeittoa ja puuroa.",
+      "translation": "Yes. I want salmon soup and porridge."
+    },
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4 valinta! Ja j\u00e4lkiruokaa?",
+      "translation": "Good choice! And dessert?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, mustikkapiirakka, kiitos.",
+      "translation": "Yes, blueberry pie, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "Mit\u00e4 neuvotitte?",
+      "translation": "What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kokeile lohta, se on erinomaista.",
+      "translation": "Try the salmon, it is excellent."
+    },
+    {
+      "speaker": "A",
+      "text": "Haluan saman, mink\u00e4 sin\u00e4 s\u00f6it.",
+      "translation": "I want the same as what you ate."
+    },
+    {
+      "speaker": "B",
+      "text": "Siin\u00e4 on hyvi\u00e4 valintoja.",
+      "translation": "Those are good choices."
+    },
+    {
+      "speaker": "A",
+      "text": "Voinko saada enemm\u00e4n vett\u00e4?",
+      "translation": "Can I get more water?"
+    },
+    {
+      "speaker": "B",
+      "text": "Tulee kohta.",
+      "translation": "It will come shortly."
+    },
+    {
+      "speaker": "A",
+      "text": "Haluatteko j\u00e4lkiruokaa?",
+      "translation": "Would you like dessert?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, mustikkapiirakka!",
+      "translation": "Yes, blueberry pie!"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "business_meeting",
+  "title": "Rapat Bisnis",
+  "description": "Menghadapi rapat bisnis Finlandia",
+  "category": "BUSINESS",
+  "icon": "BusinessCenter",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "kunci",
+      "translation": "key",
+      "pos": "noun",
+      "example": "Kunci ada di atas meja.",
+      "exampleTranslation": "The key is on the table."
+    },
+    {
+      "word": "rapat",
+      "translation": "meeting",
+      "pos": "noun",
+      "example": "Rapat dimulai pukul sepuluh.",
+      "exampleTranslation": "The meeting starts at ten o'clock."
+    },
+    {
+      "word": "kalender",
+      "translation": "calendar",
+      "pos": "noun",
+      "example": "Periksa kalender.",
+      "exampleTranslation": "Check the calendar."
+    },
+    {
+      "word": "hadir",
+      "translation": "present, in attendance",
+      "pos": "adjective",
+      "example": "Saya hadir dalam rapat.",
+      "exampleTranslation": "I am present at the meeting."
+    },
+    {
+      "word": "meja",
+      "translation": "table",
+      "pos": "noun",
+      "example": "Ayo duduk di sekeliling meja.",
+      "exampleTranslation": "Let us sit around the table."
+    },
+    {
+      "word": "kursi",
+      "translation": "chair",
+      "pos": "noun",
+      "example": "Kursinya nyaman.",
+      "exampleTranslation": "The chair is comfortable."
+    },
+    {
+      "word": "proyek",
+      "translation": "project",
+      "pos": "noun",
+      "example": "Proyek berjalan baik.",
+      "exampleTranslation": "The project is progressing well."
+    },
+    {
+      "word": "laporan",
+      "translation": "report",
+      "pos": "noun",
+      "example": "Laporan sudah selesai.",
+      "exampleTranslation": "The report is ready."
+    },
+    {
+      "word": "tugas",
+      "translation": "task, duty",
+      "pos": "noun",
+      "example": "Tugasnya penting.",
+      "exampleTranslation": "The task is important."
+    },
+    {
+      "word": "hasil",
+      "translation": "result",
+      "pos": "noun",
+      "example": "Hasilnya sesuai harapan.",
+      "exampleTranslation": "The result is expected."
+    },
+    {
+      "word": "pertemuan",
+      "translation": "meeting, appointment",
+      "pos": "noun",
+      "example": "Pertemuan besok.",
+      "exampleTranslation": "The meeting is tomorrow."
+    },
+    {
+      "word": "pekerjaan",
+      "translation": "work",
+      "pos": "noun",
+      "example": "Pekerjaan itu penting.",
+      "exampleTranslation": "Work is important."
+    },
+    {
+      "word": "menyajikan",
+      "translation": "to present",
+      "pos": "verb",
+      "example": "Saya ingin menyajikan sebuah ide.",
+      "exampleTranslation": "I would like to present an idea."
+    },
+    {
+      "word": "memeriksa",
+      "translation": "to check",
+      "pos": "verb",
+      "example": "Periksa dokumennya.",
+      "exampleTranslation": "Check the document."
+    },
+    {
+      "word": "merencanakan",
+      "translation": "to plan",
+      "pos": "verb",
+      "example": "Kami merencanakan proyek baru.",
+      "exampleTranslation": "We are planning a new project."
+    },
+    {
+      "word": "memutuskan",
+      "translation": "to decide",
+      "pos": "verb",
+      "example": "Kami memutuskan dalam rapat.",
+      "exampleTranslation": "We decide at the meeting."
+    },
+    {
+      "word": "usulan",
+      "translation": "proposal, suggestion",
+      "pos": "noun",
+      "example": "Ini adalah usulan yang bagus.",
+      "exampleTranslation": "This is a good proposal."
+    },
+    {
+      "word": "anggaran",
+      "translation": "budget",
+      "pos": "noun",
+      "example": "Anggarannya terbatas.",
+      "exampleTranslation": "The budget is limited."
+    },
+    {
+      "word": "jadwal",
+      "translation": "schedule, timetable",
+      "pos": "noun",
+      "example": "Jadwalnya ketat.",
+      "exampleTranslation": "The schedule is tight."
+    },
+    {
+      "word": "kerja sama",
+      "translation": "cooperation",
+      "pos": "noun",
+      "example": "Kerja sama itu penting.",
+      "exampleTranslation": "Cooperation is important."
+    },
+    {
+      "word": "bertanggung jawab",
+      "translation": "responsible",
+      "pos": "adjective",
+      "example": "Saya bertanggung jawab untuk ini.",
+      "exampleTranslation": "I am responsible for this."
+    },
+    {
+      "word": "tujuan",
+      "translation": "goal, target",
+      "pos": "noun",
+      "example": "Tujuannya jelas.",
+      "exampleTranslation": "The goal is clear."
+    },
+    {
+      "word": "memberi umpan balik",
+      "translation": "to give feedback",
+      "pos": "verb",
+      "example": "Bisakah saya memberi umpan balik tentang ini?",
+      "exampleTranslation": "Can I give feedback on this?"
+    },
+    {
+      "word": "mengorganisasi",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "Kami mengorganisasi pertemuan.",
+      "exampleTranslation": "We are organizing a meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Apakah kita mulai rapatnya?",
+      "translation": "Shall we start the meeting?",
+      "context": "Starting a meeting"
+    },
+    {
+      "phrase": "Bagaimana pendapat Anda?",
+      "translation": "What do you think?",
+      "context": "Asking for opinions"
+    },
+    {
+      "phrase": "Saya usulkan agar...",
+      "translation": "I suggest that...",
+      "context": "Making a suggestion"
+    },
+    {
+      "phrase": "Kami sependapat.",
+      "translation": "We agree.",
+      "context": "Expressing agreement"
+    },
+    {
+      "phrase": "Kami butuh waktu lebih.",
+      "translation": "We need more time.",
+      "context": "Requesting time"
+    },
+    {
+      "phrase": "Pertanyaannya penting.",
+      "translation": "The question is important.",
+      "context": "Emphasizing importance"
+    },
+    {
+      "phrase": "Bisakah kita memutuskan sekarang?",
+      "translation": "Can we decide now?",
+      "context": "Pushing for decision"
+    },
+    {
+      "phrase": "Terima kasih semuanya.",
+      "translation": "Thank you everyone.",
+      "context": "Ending a meeting"
+    },
+    {
+      "phrase": "Saya akan menyajikan poin berikutnya.",
+      "translation": "I will present the next point.",
+      "context": "Moving to next topic"
+    },
+    {
+      "phrase": "Apakah ada pertanyaan?",
+      "translation": "Are there any questions?",
+      "context": "Opening for questions"
+    },
+    {
+      "phrase": "Kita kembali ke masalah ini nanti.",
+      "translation": "Let us return to this later.",
+      "context": "Deferring discussion"
+    },
+    {
+      "phrase": "Ini memerlukan pemeriksaan lebih lanjut.",
+      "translation": "This requires closer examination.",
+      "context": "Requesting more analysis"
+    },
+    {
+      "phrase": "Kita sesuai jadwal.",
+      "translation": "We are on schedule.",
+      "context": "Status update"
+    },
+    {
+      "phrase": "Tim kerja akan melanjutkan ini.",
+      "translation": "The working group will continue this.",
+      "context": "Delegating task"
+    },
+    {
+      "phrase": "Rapat berikutnya minggu depan.",
+      "translation": "The next meeting is next week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "Terima kasih atas diskusi yang baik.",
+      "translation": "Thank you for the good discussion.",
+      "context": "Closing remark"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Selamat pagi semuanya. Apakah kita mulai?",
+      "translation": "Good morning everyone. Shall we start?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, kami sudah siap.",
+      "translation": "Yes, we are ready."
+    },
+    {
+      "speaker": "A",
+      "text": "Hari ini kita membahas proyek baru.",
+      "translation": "Today we will discuss the new project."
+    },
+    {
+      "speaker": "B",
+      "text": "Apa tujuan proyek ini?",
+      "translation": "What is the goal of the project?"
+    },
+    {
+      "speaker": "A",
+      "text": "Tujuannya adalah meningkatkan kepuasan pelanggan.",
+      "translation": "The goal is to improve customer satisfaction."
+    },
+    {
+      "speaker": "B",
+      "text": "Apa jadwalnya?",
+      "translation": "What is the schedule?"
+    },
+    {
+      "speaker": "A",
+      "text": "Kami ingin menyelesaikannya dalam tiga bulan.",
+      "translation": "We want to have it ready in three months."
+    },
+    {
+      "speaker": "B",
+      "text": "Itu jadwal yang ketat.",
+      "translation": "That is a tight schedule."
+    },
+    {
+      "speaker": "A",
+      "text": "Kami butuh sumber daya lebih.",
+      "translation": "We need more resources."
+    },
+    {
+      "speaker": "B",
+      "text": "Kami bisa menggunakan anggaran dari kuartal berikutnya.",
+      "translation": "We can use the budget from next quarter."
+    },
+    {
+      "speaker": "A",
+      "text": "Ide bagus. Siapa yang bertanggung jawab atas proyek ini?",
+      "translation": "Good idea. Who is responsible for the project?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saya bisa mengambil tanggung jawab.",
+      "translation": "I can take responsibility."
+    },
+    {
+      "speaker": "A",
+      "text": "Luar biasa. Kita adakan rapat berikutnya minggu depan.",
+      "translation": "Excellent. Let us hold the next meeting next week."
+    },
+    {
+      "speaker": "B",
+      "text": "Setuju. Terima kasih semuanya.",
+      "translation": "Agreed. Thank you everyone."
+    },
+    {
+      "speaker": "A",
+      "text": "Selamat hari untuk semuanya.",
+      "translation": "Have a good day everyone."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih, Anda juga.",
+      "translation": "Thank you, you too."
+    }
+  ]
+}

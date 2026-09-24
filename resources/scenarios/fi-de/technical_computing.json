@@ -1,0 +1,342 @@
+{
+  "id": "technical_computing",
+  "title": "Informatik",
+  "description": "\u00dcber Technik und Informatik auf Finnisch sprechen",
+  "category": "TECHNICAL",
+  "icon": "Computer",
+  "languagePair": "fi-de",
+  "vocabulary": [
+    {
+      "word": "Computer",
+      "translation": "computer",
+      "pos": "noun",
+      "example": "Der Computer ist schnell.",
+      "exampleTranslation": "The computer is fast."
+    },
+    {
+      "word": "Bildschirm",
+      "translation": "screen, display",
+      "pos": "noun",
+      "example": "Der Bildschirm ist gro\u00df.",
+      "exampleTranslation": "The screen is large."
+    },
+    {
+      "word": "Tastatur",
+      "translation": "keyboard",
+      "pos": "noun",
+      "example": "Die Tastatur ist kabellos.",
+      "exampleTranslation": "The keyboard is wireless."
+    },
+    {
+      "word": "Maus",
+      "translation": "mouse",
+      "pos": "noun",
+      "example": "Die Maus ist ergonomisch.",
+      "exampleTranslation": "The mouse is ergonomic."
+    },
+    {
+      "word": "Datei",
+      "translation": "file",
+      "pos": "noun",
+      "example": "Die Datei wurde gespeichert.",
+      "exampleTranslation": "The file has been saved."
+    },
+    {
+      "word": "Programm",
+      "translation": "program, software",
+      "pos": "noun",
+      "example": "Das Programm ist installiert.",
+      "exampleTranslation": "The program is installed."
+    },
+    {
+      "word": "Datenbank",
+      "translation": "database",
+      "pos": "noun",
+      "example": "Die Datenbank ist gro\u00df.",
+      "exampleTranslation": "The database is large."
+    },
+    {
+      "word": "Netzwerk",
+      "translation": "network",
+      "pos": "noun",
+      "example": "Das Netzwerk ist schnell.",
+      "exampleTranslation": "The network is fast."
+    },
+    {
+      "word": "Server",
+      "translation": "server",
+      "pos": "noun",
+      "example": "Der Server l\u00e4uft.",
+      "exampleTranslation": "The server is running."
+    },
+    {
+      "word": "Programmierung",
+      "translation": "programming",
+      "pos": "noun",
+      "example": "Programmierung ist anspruchsvoll.",
+      "exampleTranslation": "Programming is challenging."
+    },
+    {
+      "word": "Code",
+      "translation": "code",
+      "pos": "noun",
+      "example": "Der Code ist sauber.",
+      "exampleTranslation": "The code is clean."
+    },
+    {
+      "word": "Fehler",
+      "translation": "error, bug",
+      "pos": "noun",
+      "example": "Im Code ist ein Fehler.",
+      "exampleTranslation": "There is a bug in the code."
+    },
+    {
+      "word": "installieren",
+      "translation": "to install",
+      "pos": "verb",
+      "example": "Ich installiere das Programm.",
+      "exampleTranslation": "I will install the program."
+    },
+    {
+      "word": "aktualisieren",
+      "translation": "to update",
+      "pos": "verb",
+      "example": "Ich aktualisiere das System.",
+      "exampleTranslation": "I will update the system."
+    },
+    {
+      "word": "verbinden",
+      "translation": "to connect",
+      "pos": "verb",
+      "example": "Ich verbinde mich mit dem Netzwerk.",
+      "exampleTranslation": "I connect to the network."
+    },
+    {
+      "word": "speichern",
+      "translation": "to save",
+      "pos": "verb",
+      "example": "Ich speichere die Datei.",
+      "exampleTranslation": "I save the file."
+    },
+    {
+      "word": "starten",
+      "translation": "to start, to launch",
+      "pos": "verb",
+      "example": "Ich starte den Computer.",
+      "exampleTranslation": "I start the computer."
+    },
+    {
+      "word": "schlie\u00dfen",
+      "translation": "to close",
+      "pos": "verb",
+      "example": "Ichschlie\u00dfe das Programm.",
+      "exampleTranslation": "I close the program."
+    },
+    {
+      "word": "importieren",
+      "translation": "to import",
+      "pos": "verb",
+      "example": "Ich importiere die Datei.",
+      "exampleTranslation": "I import the file."
+    },
+    {
+      "word": "exportieren",
+      "translation": "to export",
+      "pos": "verb",
+      "example": "Ich exportiere die Datei.",
+      "exampleTranslation": "I export the file."
+    },
+    {
+      "word": "Drucker",
+      "translation": "printer",
+      "pos": "noun",
+      "example": "Der Drucker funktioniert nicht.",
+      "exampleTranslation": "The printer is not working."
+    },
+    {
+      "word": "Laufwerk",
+      "translation": "disk, drive",
+      "pos": "noun",
+      "example": "Das Laufwerk ist voll.",
+      "exampleTranslation": "The disk is full."
+    },
+    {
+      "word": "Speicher",
+      "translation": "memory, RAM",
+      "pos": "noun",
+      "example": "Der Speicher reicht aus.",
+      "exampleTranslation": "The memory is sufficient."
+    },
+    {
+      "word": "Prozessor",
+      "translation": "processor, CPU",
+      "pos": "noun",
+      "example": "Der Prozessor ist schnell.",
+      "exampleTranslation": "The processor is fast."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Mein Computer startet nicht.",
+      "translation": "My computer won't start.",
+      "context": "Troubleshooting"
+    },
+    {
+      "phrase": "Darf ich das Programm herunterladen?",
+      "translation": "Can I download the program?",
+      "context": "Asking about software"
+    },
+    {
+      "phrase": "Gibt es hier eine Wi-Fi-Verbindung?",
+      "translation": "Is there a Wi-Fi connection here?",
+      "context": "Connecting to network"
+    },
+    {
+      "phrase": "Ich brauche IT-Unterst\u00fctzung.",
+      "translation": "I need IT support.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Wie aktualisiere ich das System?",
+      "translation": "How do I update the system?",
+      "context": "Asking for instructions"
+    },
+    {
+      "phrase": "Die Datei ist zu gro\u00df.",
+      "translation": "The file is too large.",
+      "context": "File issues"
+    },
+    {
+      "phrase": "Kann ich in der Cloud speichern?",
+      "translation": "Can I save to the cloud?",
+      "context": "Cloud storage"
+    },
+    {
+      "phrase": "Das Programm st\u00fcrzt st\u00e4ndig ab.",
+      "translation": "The program keeps crashing.",
+      "context": "Reporting a problem"
+    },
+    {
+      "phrase": "Ich brauche ein neues Passwort.",
+      "translation": "I need a new password.",
+      "context": "Security"
+    },
+    {
+      "phrase": "Was ist ein VPN?",
+      "translation": "What is a VPN?",
+      "context": "Networking question"
+    },
+    {
+      "phrase": "Der Drucker druckt nicht.",
+      "translation": "The printer won't print.",
+      "context": "Printer issues"
+    },
+    {
+      "phrase": "Kann ich mich mit einem externen Laufwerk verbinden?",
+      "translation": "Can I connect to an external drive?",
+      "context": "Hardware"
+    },
+    {
+      "phrase": "Der Code kompiliert nicht.",
+      "translation": "The code won't compile.",
+      "context": "Programming"
+    },
+    {
+      "phrase": "Datenbankverbindung fehlgeschlagen.",
+      "translation": "Database connection failed.",
+      "context": "Database issues"
+    },
+    {
+      "phrase": "Die Aktualisierung ist fertig.",
+      "translation": "The update is ready.",
+      "context": "System update"
+    },
+    {
+      "phrase": "Danke f\u00fc r die schnelle Hilfe!",
+      "translation": "Thank you for the quick help!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hallo, mein Computer ist langsamer geworden.",
+      "translation": "Hi, my computer has slowed down."
+    },
+    {
+      "speaker": "B",
+      "text": "Kontaktieren Sie den IT-Support.",
+      "translation": "Contact IT support."
+    },
+    {
+      "speaker": "A",
+      "text": "Wie kann ich das beheben?",
+      "translation": "How can I fix it?"
+    },
+    {
+      "speaker": "B",
+      "text": "Starten Sie es zuerst neu.",
+      "translation": "Restart it first."
+    },
+    {
+      "speaker": "A",
+      "text": "Das hat nicht geholfen.",
+      "translation": "That didn't help."
+    },
+    {
+      "speaker": "B",
+      "text": "\u00dcberpr\u00fcfen Sie den Speicherplatz.",
+      "translation": "Check the disk space."
+    },
+    {
+      "speaker": "A",
+      "text": "Das Laufwerk ist voll.",
+      "translation": "The disk is full."
+    },
+    {
+      "speaker": "B",
+      "text": "L\u00f6schen Sie unn\u00f6tige Dateien.",
+      "translation": "Delete unnecessary files."
+    },
+    {
+      "speaker": "A",
+      "text": "Kann ich ein externes Laufwerk verwenden?",
+      "translation": "Can I use an external drive?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ja, verbinden Sie es mit dem USB-Port.",
+      "translation": "Yes, connect it to the USB port."
+    },
+    {
+      "speaker": "A",
+      "text": "Danke! Mein Computer funktioniert wieder.",
+      "translation": "Thank you! My computer works again."
+    },
+    {
+      "speaker": "B",
+      "text": "Super! Vergessen Sie nicht, das System zu aktualisieren.",
+      "translation": "Great! Remember to update the system."
+    },
+    {
+      "speaker": "A",
+      "text": "Ja, ich mache das sofort.",
+      "translation": "Yes, I will do it right away."
+    },
+    {
+      "speaker": "B",
+      "text": "Viel Erfolg bei der Arbeit!",
+      "translation": "Happy working!"
+    },
+    {
+      "speaker": "A",
+      "text": "Danke, gleichfalls!",
+      "translation": "Thank you, same to you!"
+    },
+    {
+      "speaker": "B",
+      "text": "Melden Sie sich, wenn Sie mehr Hilfe brauchen.",
+      "translation": "Reach out if you need more help."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "daily_mall",
+  "title": "Belanja",
+  "description": "Menavigasi pusat perbelanjaan dan toko Finlandia",
+  "category": "HOME",
+  "icon": "ShoppingCart",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "pelanggan",
+      "translation": "customer",
+      "pos": "noun",
+      "example": "Pelanggan puas.",
+      "exampleTranslation": "The customer is satisfied."
+    },
+    {
+      "word": "harga",
+      "translation": "price",
+      "pos": "noun",
+      "example": "Harganya wajar.",
+      "exampleTranslation": "The price is reasonable."
+    },
+    {
+      "word": "toko",
+      "translation": "store, shop",
+      "pos": "noun",
+      "example": "Toko buka dari pukul delapan.",
+      "exampleTranslation": "The store is open from eight."
+    },
+    {
+      "word": "daur ulang",
+      "translation": "recycling",
+      "pos": "noun",
+      "example": "Daur ulang itu penting.",
+      "exampleTranslation": "Recycling is important."
+    },
+    {
+      "word": "anjing",
+      "translation": "dog",
+      "pos": "noun",
+      "example": "Anjingnya di luar.",
+      "exampleTranslation": "The dog is outside."
+    },
+    {
+      "word": "penjual",
+      "translation": "salesperson",
+      "pos": "noun",
+      "example": "Penjualnya membantu.",
+      "exampleTranslation": "The salesperson is helpful."
+    },
+    {
+      "word": "membeli",
+      "translation": "to buy",
+      "pos": "verb",
+      "example": "Saya ingin membeli ini.",
+      "exampleTranslation": "I want to buy this."
+    },
+    {
+      "word": "belanja",
+      "translation": "purchase, shopping",
+      "pos": "noun",
+      "example": "Belanjanya selesai.",
+      "exampleTranslation": "The purchase is done."
+    },
+    {
+      "word": "mengembalikan",
+      "translation": "to return, to give back",
+      "pos": "verb",
+      "example": "Saya ingin mengembalikan produk.",
+      "exampleTranslation": "I would like to return the product."
+    },
+    {
+      "word": "kepala",
+      "translation": "head",
+      "pos": "noun",
+      "example": "Kepala saya sakit.",
+      "exampleTranslation": "My head hurts."
+    },
+    {
+      "word": "pantai",
+      "translation": "shore, beach",
+      "pos": "noun",
+      "example": "Pantainya indah.",
+      "exampleTranslation": "The shore is beautiful."
+    },
+    {
+      "word": "barang",
+      "translation": "goods, items",
+      "pos": "noun",
+      "example": "Barangnya berkualitas.",
+      "exampleTranslation": "The goods are high quality."
+    },
+    {
+      "word": "ke kasir",
+      "translation": "to the checkout",
+      "pos": "noun",
+      "example": "Ayo ke kasir.",
+      "exampleTranslation": "Let us go to the checkout."
+    },
+    {
+      "word": "penawaran",
+      "translation": "offer, deal",
+      "pos": "noun",
+      "example": "Penawarannya bagus.",
+      "exampleTranslation": "The offer is good."
+    },
+    {
+      "word": "ukuran",
+      "translation": "size",
+      "pos": "noun",
+      "example": "Ukuran berapa?",
+      "exampleTranslation": "What size?"
+    },
+    {
+      "word": "warna",
+      "translation": "color",
+      "pos": "noun",
+      "example": "Warna apa?",
+      "exampleTranslation": "What color?"
+    },
+    {
+      "word": "persen",
+      "translation": "percent",
+      "pos": "noun",
+      "example": "Diskonnya sepuluh persen.",
+      "exampleTranslation": "The discount is ten percent."
+    },
+    {
+      "word": "terminal kartu",
+      "translation": "card terminal",
+      "pos": "noun",
+      "example": "Terminal kartunya tidak berfungsi.",
+      "exampleTranslation": "The card terminal is not working."
+    },
+    {
+      "word": "saku",
+      "translation": "pocket",
+      "pos": "noun",
+      "example": "Kuncinya di saku.",
+      "exampleTranslation": "The keys are in the pocket."
+    },
+    {
+      "word": "dompet",
+      "translation": "wallet",
+      "pos": "noun",
+      "example": "Dompetnya penuh kartu.",
+      "exampleTranslation": "The wallet is full of cards."
+    },
+    {
+      "word": "rak",
+      "translation": "shelf",
+      "pos": "noun",
+      "example": "Produknya di rak.",
+      "exampleTranslation": "The product is on the shelf."
+    },
+    {
+      "word": "keranjang",
+      "translation": "basket, cart",
+      "pos": "noun",
+      "example": "Ambil keranjang.",
+      "exampleTranslation": "Take a basket."
+    },
+    {
+      "word": "merek",
+      "translation": "brand",
+      "pos": "noun",
+      "example": "Merek apa?",
+      "exampleTranslation": "What brand?"
+    },
+    {
+      "word": "hak pengembalian",
+      "translation": "right of return",
+      "pos": "noun",
+      "example": "Hak pengembalian tiga puluh hari.",
+      "exampleTranslation": "The right of return is 30 days."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Dimana kasirnya?",
+      "translation": "Where is the checkout?",
+      "context": "Finding checkout"
+    },
+    {
+      "phrase": "Bisakah saya membeli ini?",
+      "translation": "Can I buy this?",
+      "context": "Confirming purchase"
+    },
+    {
+      "phrase": "Apakah ada diskon?",
+      "translation": "Is there a discount?",
+      "context": "Asking about discounts"
+    },
+    {
+      "phrase": "Saya ingin mengembalikan produk.",
+      "translation": "I would like to return the product.",
+      "context": "Returning an item"
+    },
+    {
+      "phrase": "Harganya berapa?",
+      "translation": "What is the price?",
+      "context": "Asking price"
+    },
+    {
+      "phrase": "Bisakah saya membayar dengan kartu?",
+      "translation": "Can I pay by card?",
+      "context": "Payment method"
+    },
+    {
+      "phrase": "Apakah ini yang terakhir?",
+      "translation": "Is this the last one?",
+      "context": "Checking stock"
+    },
+    {
+      "phrase": "Saya butuh ukuran lebih besar.",
+      "translation": "I need a larger size.",
+      "context": "Changing size"
+    },
+    {
+      "phrase": "Apakah produk ini tersedia?",
+      "translation": "Is this product available?",
+      "context": "Checking availability"
+    },
+    {
+      "phrase": "Bisakah saya melihat alternatif lain?",
+      "translation": "Can I see another option?",
+      "context": "Asking for alternatives"
+    },
+    {
+      "phrase": "Terima kasih, saya tidak butuh kantong.",
+      "translation": "Thank you, I don't need a bag.",
+      "context": "Declining bag"
+    },
+    {
+      "phrase": "Ini hadiah.",
+      "translation": "This is a gift.",
+      "context": "Gift wrapping"
+    },
+    {
+      "phrase": "Apakah ada diskon pelanggan bisnis?",
+      "translation": "Is there a business customer discount?",
+      "context": "Business discount"
+    },
+    {
+      "phrase": "Berapa lama hak pengembalian berlaku?",
+      "translation": "How long does the return right last?",
+      "context": "Return policy"
+    },
+    {
+      "phrase": "Ini belanja yang bagus.",
+      "translation": "This was a good purchase.",
+      "context": "Expressing satisfaction"
+    },
+    {
+      "phrase": "Terima kasih atas bantuannya!",
+      "translation": "Thank you for your help!",
+      "context": "Thanking staff"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Selamat datang di toko!",
+      "translation": "Welcome to the store!"
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih. Saya mencari kemeja baru.",
+      "translation": "Thank you. I'm looking for a new shirt."
+    },
+    {
+      "speaker": "A",
+      "text": "Seperti apa yang kamu cari?",
+      "translation": "What kind are you looking for?"
+    },
+    {
+      "speaker": "B",
+      "text": "Biru, ukuran M.",
+      "translation": "Blue, size M."
+    },
+    {
+      "speaker": "A",
+      "text": "Ini beberapa pilihan.",
+      "translation": "Here are a few options."
+    },
+    {
+      "speaker": "B",
+      "text": "Bagus! Harganya berapa?",
+      "translation": "Great! What is the price?"
+    },
+    {
+      "speaker": "A",
+      "text": "Harganya tiga puluh euro.",
+      "translation": "The price is thirty euros."
+    },
+    {
+      "speaker": "B",
+      "text": "Apakah ada diskon?",
+      "translation": "Is there a discount?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ya, hari ini diskon sepuluh persen.",
+      "translation": "Yes, today there is a ten percent discount."
+    },
+    {
+      "speaker": "B",
+      "text": "Luar biasa! Saya ambil ini.",
+      "translation": "Wonderful! I'll take this."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah kamu mau kantong?",
+      "translation": "Do you want a bag?"
+    },
+    {
+      "speaker": "B",
+      "text": "Tidak terima kasih, kantong saya cukup.",
+      "translation": "No thanks, my own bags are enough."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagus! Terima kasih atas belanja Anda.",
+      "translation": "Good! Thank you for your purchase."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih! Selamat hari.",
+      "translation": "Thank you! Have a good day."
+    },
+    {
+      "speaker": "A",
+      "text": "Anda juga! Selamat datang kembali.",
+      "translation": "You too! Welcome back."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih, saya pasti datang lagi.",
+      "translation": "Thank you, I will definitely come."
+    }
+  ]
+}

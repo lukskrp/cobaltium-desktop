@@ -1,0 +1,342 @@
+{
+  "id": "business_meeting",
+  "title": "\ube44\uc988\ub2c8\uc2a4 \ud68c\uc758",
+  "description": "\ud540\ub780\ub4dc \ube44\uc988\ub2c8\uc2a4 \ud68c\uc758\ub97c \ub9c8\uc2a4\ud130\ud558\uae30",
+  "category": "BUSINESS",
+  "icon": "BusinessCenter",
+  "languagePair": "fi-ko",
+  "vocabulary": [
+    {
+      "word": "\uc5f4\uc1e0",
+      "translation": "key",
+      "pos": "noun",
+      "example": "\uc5f4\uc1e0\uac00 \ucc45\uc0c1 \uc704\uc5d0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "exampleTranslation": "The key is on the table."
+    },
+    {
+      "word": "\ud68c\uc758",
+      "translation": "meeting",
+      "pos": "noun",
+      "example": "\ud68c\uc758\ub294 10\uc2dc\uc5d0 \uc2dc\uc791\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "The meeting starts at ten o'clock."
+    },
+    {
+      "word": "\ub2ec\ub825",
+      "translation": "calendar",
+      "pos": "noun",
+      "example": "\ub2ec\ub825\uc744 \ud655\uc778\ud558\uc138\uc694.",
+      "exampleTranslation": "Check the calendar."
+    },
+    {
+      "word": "\ucc38\uc11d",
+      "translation": "present, in attendance",
+      "pos": "adjective",
+      "example": "\ud68c\uc758\uc5d0 \ucc38\uc11d\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "exampleTranslation": "I am present at the meeting."
+    },
+    {
+      "word": "\ucc45\uc0c1",
+      "translation": "table",
+      "pos": "noun",
+      "example": "\ucc45\uc0c1 \ub458\ub7ec\uc549\uc74d\uc2dc\ub2e4.",
+      "exampleTranslation": "Let us sit around the table."
+    },
+    {
+      "word": "\uc758\uc790",
+      "translation": "chair",
+      "pos": "noun",
+      "example": "\uc758\uc790\uac00 \ud3b8\uc548\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "The chair is comfortable."
+    },
+    {
+      "word": "\ud504\ub85c\uc81d\ud2b8",
+      "translation": "project",
+      "pos": "noun",
+      "example": "\ud504\ub85c\uc81d\ud2b8\uac00 \uc798 \uc9c4\ud589\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "exampleTranslation": "The project is progressing well."
+    },
+    {
+      "word": "\ubcf4\uace0\uc11c",
+      "translation": "report",
+      "pos": "noun",
+      "example": "\ubcf4\uace0\uc11c\uac00 \uc644\uc131\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+      "exampleTranslation": "The report is ready."
+    },
+    {
+      "word": "\uacfc\uc81c",
+      "translation": "task, duty",
+      "pos": "noun",
+      "example": "\uacfc\uc81c\uac00 \uc911\uc694\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "The task is important."
+    },
+    {
+      "word": "\uacb0\uacfc",
+      "translation": "result",
+      "pos": "noun",
+      "example": "\uacb0\uacfc\ub294 \uc608\uc0c1\ub300\ub85c\uc785\ub2c8\ub2e4.",
+      "exampleTranslation": "The result is expected."
+    },
+    {
+      "word": "\uc57d\uc18d",
+      "translation": "meeting, appointment",
+      "pos": "noun",
+      "example": "\uc57d\uc18d\uc740 \ub0b4\uc77c\uc785\ub2c8\ub2e4.",
+      "exampleTranslation": "The meeting is tomorrow."
+    },
+    {
+      "word": "\uc77c",
+      "translation": "work",
+      "pos": "noun",
+      "example": "\uc77c\uc774 \uc911\uc694\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "Work is important."
+    },
+    {
+      "word": "\uc18c\uac1c\ud558\ub2e4",
+      "translation": "to present",
+      "pos": "verb",
+      "example": "\uc544\uc774\ub514\uc5b4\ub97c \uc18c\uac1c\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+      "exampleTranslation": "I would like to present an idea."
+    },
+    {
+      "word": "\ud655\uc778\ud558\ub2e4",
+      "translation": "to check",
+      "pos": "verb",
+      "example": "\ubb38\uc11c\ub97c \ud655\uc778\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "Check the document."
+    },
+    {
+      "word": "\uacc4\ud68d\ud558\ub2e4",
+      "translation": "to plan",
+      "pos": "verb",
+      "example": "\uc0c8 \ud504\ub85c\uc81d\ud2b8\ub97c \uacc4\ud68d\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "exampleTranslation": "We are planning a new project."
+    },
+    {
+      "word": "\uacb0\uc815\ud558\ub2e4",
+      "translation": "to decide",
+      "pos": "verb",
+      "example": "P\u00e4\u00e4tt\u00e4\u00e4mme kokouksessa.",
+      "exampleTranslation": "We decide at the meeting."
+    },
+    {
+      "word": "\uc81c\uc548",
+      "translation": "proposal, suggestion",
+      "pos": "noun",
+      "example": "\uc774\uac83\uc740 \uc88b\uc740 \uc81c\uc548\uc785\ub2c8\ub2e4.",
+      "exampleTranslation": "This is a good proposal."
+    },
+    {
+      "word": "\uc608\uc0b0",
+      "translation": "budget",
+      "pos": "noun",
+      "example": "\uc608\uc0b0\uc774 \uc81c\ud55c\uc801\uc785\ub2c8\ub2e4.",
+      "exampleTranslation": "The budget is limited."
+    },
+    {
+      "word": "\uc77c\uc815",
+      "translation": "schedule, timetable",
+      "pos": "noun",
+      "example": "\uc77c\uc815\uc774 \ube61\ube61\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "The schedule is tight."
+    },
+    {
+      "word": "\ud611\ub825",
+      "translation": "cooperation",
+      "pos": "noun",
+      "example": "\ud611\ub825\uc774 \uc911\uc694\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "Cooperation is important."
+    },
+    {
+      "word": "\ucc45\uc784\uc790",
+      "translation": "responsible",
+      "pos": "adjective",
+      "example": "\uc774\uac83\uc758 \ucc45\uc784\uc790\uc785\ub2c8\ub2e4.",
+      "exampleTranslation": "I am responsible for this."
+    },
+    {
+      "word": "\ubaa9\ud45c",
+      "translation": "goal, target",
+      "pos": "noun",
+      "example": "\ubaa9\ud45c\uac00 \uba85\ud655\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "The goal is clear."
+    },
+    {
+      "word": "\ud53c\ub4dc\ubc31\ud558\ub2e4",
+      "translation": "to give feedback",
+      "pos": "verb",
+      "example": "\uc774\uac83\uc5d0 \ub300\ud574 \ud53c\ub4dc\ubc31\ud574\ub3c4 \ub420\uae4c\uc694?",
+      "exampleTranslation": "Can I give feedback on this?"
+    },
+    {
+      "word": "\uc870\uc9c1\ud558\ub2e4",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "\uc57d\uc18d\uc744 \uc870\uc9c1\ud569\ub2c8\ub2e4.",
+      "exampleTranslation": "We are organizing a meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "\ud68c\uc758\ub97c \uc2dc\uc791\ud560\uae4c\uc694?",
+      "translation": "Shall we start the meeting?",
+      "context": "Starting a meeting"
+    },
+    {
+      "phrase": "\uc758\uacac\uc774 \uc5b4\ub5a0\uc138\uc694?",
+      "translation": "What do you think?",
+      "context": "Asking for opinions"
+    },
+    {
+      "phrase": "...\ud558\ub294 \uac83\uc744 \uc81c\uc548\ud569\ub2c8\ub2e4.",
+      "translation": "I suggest that...",
+      "context": "Making a suggestion"
+    },
+    {
+      "phrase": "\ub3d9\uc758\ud569\ub2c8\ub2e4.",
+      "translation": "We agree.",
+      "context": "Expressing agreement"
+    },
+    {
+      "phrase": "\ub354 \ub9ce\uc740 \uc2dc\uac04\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.",
+      "translation": "We need more time.",
+      "context": "Requesting time"
+    },
+    {
+      "phrase": "\uc9c8\ubb38\uc774 \uc911\uc694\ud569\ub2c8\ub2e4.",
+      "translation": "The question is important.",
+      "context": "Emphasizing importance"
+    },
+    {
+      "phrase": "\uc9c0\uae08 \uacb0\uc815\ud560 \uc218 \uc788\uc744\uae4c\uc694?",
+      "translation": "Can we decide now?",
+      "context": "Pushing for decision"
+    },
+    {
+      "phrase": "\uc5ec\ub7ec\ubd84 \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+      "translation": "Thank you everyone.",
+      "context": "Ending a meeting"
+    },
+    {
+      "phrase": "\ub2e4\uc74c \ud3ec\uc778\ud2b8\ub97c \uc18c\uac1c\ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+      "translation": "I will present the next point.",
+      "context": "Moving to next topic"
+    },
+    {
+      "phrase": "\uc9c8\ubb38\uc774 \uc788\uc73c\uc138\uc694?",
+      "translation": "Are there any questions?",
+      "context": "Opening for questions"
+    },
+    {
+      "phrase": "\ub098\uc911\uc5d0 \uc774 \ubb38\uc81c\ub85c \ub3cc\uc544\uac11\uc2dc\ub2e4.",
+      "translation": "Let us return to this later.",
+      "context": "Deferring discussion"
+    },
+    {
+      "phrase": "\uc774\uac83\uc740 \ub354 \uc790\uc138\ud55c \uc870\uc0ac\uac00 \ud544\uc694\ud569\ub2c8\ub2e4.",
+      "translation": "This requires closer examination.",
+      "context": "Requesting more analysis"
+    },
+    {
+      "phrase": "\uc77c\uc815\ub300\ub85c \uc9c4\ud589\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+      "translation": "We are on schedule.",
+      "context": "Status update"
+    },
+    {
+      "phrase": "\uc791\uc5c5 \ud300\uc774 \uc774\uac83\uc744 \uacc4\uc18d\ud569\ub2c8\ub2e4.",
+      "translation": "The working group will continue this.",
+      "context": "Delegating task"
+    },
+    {
+      "phrase": "\ub2e4\uc74c \ud68c\uc758\ub294 \ub2e4\uc74c \uc8fc\uc785\ub2c8\ub2e4.",
+      "translation": "The next meeting is next week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "\uc88b\uc740 \ub300\ud654 \uac10\uc0ac\ud569\ub2c8\ub2e4\u3002",
+      "translation": "Thank you for the good discussion.",
+      "context": "Closing remark"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "\uc5ec\ub7ec\ubd84 \uc548\ub155\ud558\uc138\uc694. \uc2dc\uc791\ud560\uae4c\uc694?",
+      "translation": "Good morning everyone. Shall we start?"
+    },
+    {
+      "speaker": "B",
+      "text": "\ub124, \uc900\ube44\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+      "translation": "Yes, we are ready."
+    },
+    {
+      "speaker": "A",
+      "text": "\uc624\ub298 \uc6b0\ub9ac\ub294 \uc0c8\ub85c\uc6b4 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub300\ud574 \ub17c\uc758\ud569\ub2c8\ub2e4.",
+      "translation": "Today we will discuss the new project."
+    },
+    {
+      "speaker": "B",
+      "text": "\ud504\ub85c\uc81d\ud2b8\uc758 \ubaa9\ud45c\ub294 \ubb34\uc5c7\uc785\ub2c8\uae4c?",
+      "translation": "What is the goal of the project?"
+    },
+    {
+      "speaker": "A",
+      "text": "\ubaa9\ud45c\ub294 \uace0\uac1d \ub9cc\uc871\ub3c4\ub97c \ud5a5\uc0c1\uc2dc\ud0a4\ub294 \uac83\uc785\ub2c8\ub2e4.",
+      "translation": "The goal is to improve customer satisfaction."
+    },
+    {
+      "speaker": "B",
+      "text": "\uc77c\uc815\uc740 \uc5b4\ub5a0\ud569\ub2c8\uae4c?",
+      "translation": "What is the schedule?"
+    },
+    {
+      "speaker": "A",
+      "text": "3\uac1c\uc6d4 \uc548\uc5d0 \uc644\uc131\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.",
+      "translation": "We want to have it ready in three months."
+    },
+    {
+      "speaker": "B",
+      "text": "\uadf8\uac83\uc740 \ube61\ube61\ud55c \uc77c\uc815\uc785\ub2c8\ub2e4.",
+      "translation": "That is a tight schedule."
+    },
+    {
+      "speaker": "A",
+      "text": "\ub354 \ub9ce\uc740 \uc790\uc6d0\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.",
+      "translation": "We need more resources."
+    },
+    {
+      "speaker": "B",
+      "text": "\ub2e4\uc74c \ubd84\uae30 \uc608\uc0b0\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+      "translation": "We can use the budget from next quarter."
+    },
+    {
+      "speaker": "A",
+      "text": "\uc88b\uc740 \uc544\uc774\ub514\uc5b4\uc785\ub2c8\ub2e4. \ub204\uac00 \ud504\ub85c\uc81d\ud2b8\ub97c \ucc45\uc784\uc9d1\ub2c8\uae4c?",
+      "translation": "Good idea. Who is responsible for the project?"
+    },
+    {
+      "speaker": "B",
+      "text": "\uc81c\uac00 \ucc45\uc784\uc744 \uc9c8 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+      "translation": "I can take responsibility."
+    },
+    {
+      "speaker": "A",
+      "text": "\ud6cc\ub96d\ud569\ub2c8\ub2e4. \ub2e4\uc74c \ud68c\uc758\ub294 \ub2e4\uc74c \uc8fc\uc5d0 \ud569\uc2dc\ub2e4.",
+      "translation": "Excellent. Let us hold the next meeting next week."
+    },
+    {
+      "speaker": "B",
+      "text": "\uc88b\uc2b5\ub2c8\ub2e4. \uc5ec\ub7ec\ubd84 \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+      "translation": "Agreed. Thank you everyone."
+    },
+    {
+      "speaker": "A",
+      "text": "\uc5ec\ub7ec\ubd84 \uc88b\uc740 \ud558\ub8e8 \ubcf4\ub0b4\uc138\uc694.",
+      "translation": "Have a good day everyone."
+    },
+    {
+      "speaker": "B",
+      "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4, \ub2f9\uc2e0\ub3c4.",
+      "translation": "Thank you, you too."
+    }
+  ]
+}

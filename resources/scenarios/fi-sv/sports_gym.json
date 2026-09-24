@@ -1,0 +1,342 @@
+{
+  "id": "sports_gym",
+  "title": "Tr\u00e4ningsgym",
+  "description": "Tr\u00e4ning och motion",
+  "category": "FITNESS",
+  "icon": "FitnessCenter",
+  "languagePair": "fi-sv",
+  "vocabulary": [
+    {
+      "word": "l\u00f6pning",
+      "translation": "running",
+      "pos": "noun",
+      "example": "Juoksu on hyv\u00e4\u00e4 harjoitusta.",
+      "exampleTranslation": "Running is good exercise."
+    },
+    {
+      "word": "kunto",
+      "translation": "fitness, condition",
+      "pos": "noun",
+      "example": "Kuntosi n\u00e4ytt\u00e4\u00e4 hyv\u00e4lt\u00e4.",
+      "exampleTranslation": "Your fitness looks good."
+    },
+    {
+      "word": "muskel",
+      "translation": "muscle",
+      "pos": "noun",
+      "example": "Lihas on j\u00e4nnittynyt.",
+      "exampleTranslation": "The muscle is tense."
+    },
+    {
+      "word": "palautus",
+      "translation": "recovery",
+      "pos": "noun",
+      "example": "Palautus on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Recovery is important."
+    },
+    {
+      "word": "paino",
+      "translation": "weight",
+      "pos": "noun",
+      "example": "Paino on liikaa.",
+      "exampleTranslation": "The weight is too much."
+    },
+    {
+      "word": "fett",
+      "translation": "fat",
+      "pos": "noun",
+      "example": "Rasva on v\u00e4hentynyt.",
+      "exampleTranslation": "Fat has decreased."
+    },
+    {
+      "word": "salmiakki",
+      "translation": "salty licorice",
+      "pos": "noun",
+      "example": "Salmiakki on suosittu Suomessa.",
+      "exampleTranslation": "Salty licorice is popular in Finland."
+    },
+    {
+      "word": "suoritus",
+      "translation": "performance",
+      "pos": "noun",
+      "example": "Suoritus oli hyv\u00e4.",
+      "exampleTranslation": "The performance was good."
+    },
+    {
+      "word": "treenata",
+      "translation": "to train",
+      "pos": "verb",
+      "example": "Treenaan joka p\u00e4iv\u00e4.",
+      "exampleTranslation": "I train every day."
+    },
+    {
+      "word": "treeni",
+      "translation": "training, workout",
+      "pos": "noun",
+      "example": "Treeni alkoi kello kuusi.",
+      "exampleTranslation": "The workout started at six."
+    },
+    {
+      "word": "valmennus",
+      "translation": "coaching",
+      "pos": "noun",
+      "example": "Valmennus on hyv\u00e4\u00e4.",
+      "exampleTranslation": "The coaching is good."
+    },
+    {
+      "word": "v\u00e4line",
+      "translation": "equipment",
+      "pos": "noun",
+      "example": "V\u00e4lineet ovat uusia.",
+      "exampleTranslation": "The equipment is new."
+    },
+    {
+      "word": "gym",
+      "translation": "gym, fitness center",
+      "pos": "noun",
+      "example": "Kuntosali on auki aamuisin.",
+      "exampleTranslation": "The gym is open in the mornings."
+    },
+    {
+      "word": "kiert\u00e4v\u00e4",
+      "translation": "circuit",
+      "pos": "adjective",
+      "example": "Kiert\u00e4v\u00e4 harjoitus on tehokasta.",
+      "exampleTranslation": "Circuit training is effective."
+    },
+    {
+      "word": "hauis",
+      "translation": "bicep",
+      "pos": "noun",
+      "example": "Hauis on vahva.",
+      "exampleTranslation": "The bicep is strong."
+    },
+    {
+      "word": "olkap\u00e4\u00e4",
+      "translation": "shoulder",
+      "pos": "noun",
+      "example": "Olkap\u00e4\u00e4 on joustava.",
+      "exampleTranslation": "The shoulder is flexible."
+    },
+    {
+      "word": "vasara",
+      "translation": "hammer",
+      "pos": "noun",
+      "example": "Vasara on raskas.",
+      "exampleTranslation": "The hammer is heavy."
+    },
+    {
+      "word": "kyykytt\u00e4\u00e4",
+      "translation": "to squat",
+      "pos": "verb",
+      "example": "Kyykyt\u00e4n painoja.",
+      "exampleTranslation": "I squat with weights."
+    },
+    {
+      "word": "penkki",
+      "translation": "bench",
+      "pos": "noun",
+      "example": "Penkki on k\u00e4yt\u00f6ss\u00e4.",
+      "exampleTranslation": "The bench is in use."
+    },
+    {
+      "word": "py\u00f6ristys",
+      "translation": "deadlift",
+      "pos": "noun",
+      "example": "Py\u00f6ristys on vaativa.",
+      "exampleTranslation": "The deadlift is demanding."
+    },
+    {
+      "word": "tr\u00e4nare",
+      "translation": "fitness enthusiast",
+      "pos": "noun",
+      "example": "Kuntoilija on motivoitunut.",
+      "exampleTranslation": "The fitness enthusiast is motivated."
+    },
+    {
+      "word": "r\u00f6relse",
+      "translation": "exercise, physical activity",
+      "pos": "noun",
+      "example": "Liikunta on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Exercise is important."
+    },
+    {
+      "word": " hieronta",
+      "translation": "massage",
+      "pos": "noun",
+      "example": "Hierontaa tarvitaan.",
+      "exampleTranslation": "A massage is needed."
+    },
+    {
+      "word": "gymnastik",
+      "translation": "exercise, gymnastics",
+      "pos": "noun",
+      "example": "Jumppa on hauskaa.",
+      "exampleTranslation": "Exercise is fun."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Miss\u00e4 on kuntosali?",
+      "translation": "Where is the gym?",
+      "context": "Finding the gym"
+    },
+    {
+      "phrase": "Voinko lainata laitetta?",
+      "translation": "Can I borrow equipment?",
+      "context": "Borrowing equipment"
+    },
+    {
+      "phrase": "Kuinka paljon painoja?",
+      "translation": "How much weight?",
+      "context": "Asking about weight"
+    },
+    {
+      "phrase": "Jag beh\u00f6ver hj\u00e4lp.",
+      "translation": "I need help.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "Treeni on ohi.",
+      "translation": "The workout is over.",
+      "context": "Finishing workout"
+    },
+    {
+      "phrase": "Olen uusi t\u00e4\u00e4ll\u00e4.",
+      "translation": "I am new here.",
+      "context": "Introducing yourself"
+    },
+    {
+      "phrase": "Voinko tehd\u00e4 liesis nousuja?",
+      "translation": "Can I do burpees?",
+      "context": "Asking about exercises"
+    },
+    {
+      "phrase": "Miss\u00e4 on pukuhuone?",
+      "translation": "Where is the locker room?",
+      "context": "Finding facilities"
+    },
+    {
+      "phrase": "Kuinka kauan kest\u00e4\u00e4?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Haluan parantaa kuntoani.",
+      "translation": "I want to improve my fitness.",
+      "context": "Setting goals"
+    },
+    {
+      "phrase": "Onko t\u00e4\u00e4ll\u00e4 persontraineria?",
+      "translation": "Is there a personal trainer here?",
+      "context": "Looking for trainer"
+    },
+    {
+      "phrase": "T\u00e4n\u00e4\u00e4n treenaan jalkoja.",
+      "translation": "Today I train legs.",
+      "context": "Describing workout"
+    },
+    {
+      "phrase": "Otan tauon.",
+      "translation": "I will take a break.",
+      "context": "Taking a break"
+    },
+    {
+      "phrase": "Viimeinen toisto!",
+      "translation": "Last rep!",
+      "context": "During exercise"
+    },
+    {
+      "phrase": "Hidastetaan v\u00e4h\u00e4n.",
+      "translation": "Let us slow down a bit.",
+      "context": "Pacing workout"
+    },
+    {
+      "phrase": "Kiitos kannustuksesta!",
+      "translation": "Thank you for the encouragement!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hei! Oletko uusi t\u00e4\u00e4ll\u00e4?",
+      "translation": "Hi! Are you new here?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, t\u00e4n\u00e4\u00e4n on ensimm\u00e4inen p\u00e4iv\u00e4ni.",
+      "translation": "Yes, today is my first day."
+    },
+    {
+      "speaker": "A",
+      "text": "Tervetuloa! Haluatko apua?",
+      "translation": "Welcome! Do you want help?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, olisi kiva n\u00e4hd\u00e4 laitteet.",
+      "translation": "Yes, it would be nice to see the equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "T\u00e4ss\u00e4 on kuntosali. T\u00e4\u00e4ll\u00e4 on kaikki tarpeellinen.",
+      "translation": "Here is the gym. Everything needed is here."
+    },
+    {
+      "speaker": "B",
+      "text": "Hienoa! Mihin laitteisiin pit\u00e4isi keskitty\u00e4?",
+      "translation": "Great! Which equipment should I focus on?"
+    },
+    {
+      "speaker": "A",
+      "text": "Aloita penkist\u00e4 ja py\u00f6ristyksest\u00e4.",
+      "translation": "Start with the bench and deadlift."
+    },
+    {
+      "speaker": "B",
+      "text": "Kuinka paljon painoja suosittelette?",
+      "translation": "How much weight do you recommend?"
+    },
+    {
+      "speaker": "A",
+      "text": "Aloita kevyest\u00e4 ja lis\u00e4\u00e4 v\u00e4hitellen.",
+      "translation": "Start light and increase gradually."
+    },
+    {
+      "speaker": "B",
+      "text": "Hyv\u00e4 idea. Ent\u00e4 juoksumatto?",
+      "translation": "Good idea. What about the treadmill?"
+    },
+    {
+      "speaker": "A",
+      "text": "Juoksumatto on tuolla. Voit k\u00e4ytt\u00e4\u00e4 sit\u00e4 l\u00e4mmittelyyn.",
+      "translation": "The treadmill is over there. You can use it for warming up."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos! Treenaako sin\u00e4 usein?",
+      "translation": "Thank you! Do you train often?"
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4, kolme kertaa viikossa.",
+      "translation": "Yes, three times a week."
+    },
+    {
+      "speaker": "B",
+      "text": "Se on hyv\u00e4 rutiini.",
+      "translation": "That is a good routine."
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4. Olemme l\u00e4hes valmiita.",
+      "translation": "Yes. We are almost ready."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos avustasi! Tuntuu hyv\u00e4lt\u00e4.",
+      "translation": "Thank you for your help! It feels good."
+    }
+  ]
+}

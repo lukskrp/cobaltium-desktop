@@ -1,0 +1,342 @@
+{
+  "id": "social_cafe",
+  "title": "Caf\u00e9",
+  "description": "Pedir bebidas e conversar em um caf\u00e9 finland\u00eas",
+  "category": "SOCIAL",
+  "icon": "LocalCafe",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "caf\u00e9",
+      "translation": "caf\u00e9, coffee house",
+      "pos": "noun",
+      "example": "Este caf\u00e9 \u00e9 popular.",
+      "exampleTranslation": "This caf\u00e9 is popular."
+    },
+    {
+      "word": "caf\u00e9",
+      "translation": "coffee",
+      "pos": "noun",
+      "example": "Gostaria de um caf\u00e9.",
+      "exampleTranslation": "I'd like a coffee."
+    },
+    {
+      "word": "ch\u00e1",
+      "translation": "tea",
+      "pos": "noun",
+      "example": "Gostaria de ch\u00e1.",
+      "exampleTranslation": "I would like tea."
+    },
+    {
+      "word": "confeitaria",
+      "translation": "pastry, baked good",
+      "pos": "noun",
+      "example": "A confeitaria est\u00e1 fresca.",
+      "exampleTranslation": "The pastry is fresh."
+    },
+    {
+      "word": "leite",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Sem leite, por favor.",
+      "exampleTranslation": "Without milk, thank you."
+    },
+    {
+      "word": "a\u00e7\u00facar",
+      "translation": "sugar",
+      "pos": "noun",
+      "example": "Uma colher de a\u00e7\u00facar.",
+      "exampleTranslation": "One spoon of sugar."
+    },
+    {
+      "word": "paozinho doce",
+      "translation": "sweet bun, cardamom bread",
+      "pos": "noun",
+      "example": "O paozinho \u00e9 delicioso.",
+      "exampleTranslation": "The sweet bun is delicious."
+    },
+    {
+      "word": "croissant",
+      "translation": "croissant",
+      "pos": "noun",
+      "example": "O croissant \u00e9 uma op\u00e7\u00e3o.",
+      "exampleTranslation": "The croissant is an option."
+    },
+    {
+      "word": "caf\u00e9 gelado",
+      "translation": "iced coffee",
+      "pos": "noun",
+      "example": "O caf\u00e9 gelado \u00e9 bom com calor.",
+      "exampleTranslation": "Iced coffee is good in hot weather."
+    },
+    {
+      "word": "latte",
+      "translation": "latte",
+      "pos": "noun",
+      "example": "Gostaria de um latte.",
+      "exampleTranslation": "I'd like a latte."
+    },
+    {
+      "word": "sentar",
+      "translation": "to sit",
+      "pos": "verb",
+      "example": "Posso sentar aqui?",
+      "exampleTranslation": "Can I sit here?"
+    },
+    {
+      "word": "precisar",
+      "translation": "to need",
+      "pos": "verb",
+      "example": "Preciso de uma mesa.",
+      "exampleTranslation": "I need a table."
+    },
+    {
+      "word": "bar",
+      "translation": "bar",
+      "pos": "noun",
+      "example": "O bar est\u00e1 aberto.",
+      "exampleTranslation": "The bar is open."
+    },
+    {
+      "word": "turno",
+      "translation": "shift",
+      "pos": "noun",
+      "example": "O turno come\u00e7a \u00e0s nove horas.",
+      "exampleTranslation": "The shift starts at nine."
+    },
+    {
+      "word": "gorjeta",
+      "translation": "tip, gratuity",
+      "pos": "noun",
+      "example": "Deixei a gorjeta na mesa.",
+      "exampleTranslation": "I left the tip on the table."
+    },
+    {
+      "word": "notifica\u00e7\u00e3o",
+      "translation": "notification, announcement",
+      "pos": "noun",
+      "example": "Recebi a notifica\u00e7\u00e3o.",
+      "exampleTranslation": "I got the notification."
+    },
+    {
+      "word": "amabilidade",
+      "translation": "friendliness",
+      "pos": "noun",
+      "example": "A amabilidade \u00e9 comum aqui.",
+      "exampleTranslation": "Friendliness is common here."
+    },
+    {
+      "word": "tarde",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "A tarde \u00e9 bonita.",
+      "exampleTranslation": "The afternoon is beautiful."
+    },
+    {
+      "word": "festa",
+      "translation": "party, celebration",
+      "pos": "noun",
+      "example": "A festa foi incr\u00edvel.",
+      "exampleTranslation": "The party was wonderful."
+    },
+    {
+      "word": "acompanhar",
+      "translation": "to keep company",
+      "pos": "verb",
+      "example": "Acompanhamos nosso amigo.",
+      "exampleTranslation": "We keep company with our friend."
+    },
+    {
+      "word": "visitar",
+      "translation": "to visit",
+      "pos": "verb",
+      "example": "Visito este caf\u00e9 frequentemente.",
+      "exampleTranslation": "I often visit this caf\u00e9."
+    },
+    {
+      "word": "conversar",
+      "translation": "to discuss",
+      "pos": "verb",
+      "example": "Vamos conversar mais tarde.",
+      "exampleTranslation": "Let us discuss later."
+    },
+    {
+      "word": "alegre",
+      "translation": "happy, cheerful",
+      "pos": "adjective",
+      "example": "H\u00e4n on iloinen t\u00e4n\u00e4n.",
+      "exampleTranslation": "He is happy today."
+    },
+    {
+      "word": "organizar",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "Estamos organizando um compromisso.",
+      "exampleTranslation": "We will organize the meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Gostaria de um caf\u00e9, por favor.",
+      "translation": "I'd like a coffee, please.",
+      "context": "Ordering at the counter"
+    },
+    {
+      "phrase": "Qual \u00e9 a oferta do dia?",
+      "translation": "What is today's special?",
+      "context": "Asking about specials"
+    },
+    {
+      "phrase": "Posso sentar aqui?",
+      "translation": "Can I sit here?",
+      "context": "Finding a seat"
+    },
+    {
+      "phrase": "Tem Wi-Fi aqui?",
+      "translation": "Is there Wi-Fi here?",
+      "context": "At a caf\u00e9"
+    },
+    {
+      "phrase": "Gostaria de mais caf\u00e9.",
+      "translation": "I'd like more coffee.",
+      "context": "Refill request"
+    },
+    {
+      "phrase": "A confeitaria \u00e9 deliciosa.",
+      "translation": "The pastry is delicious.",
+      "context": "Complimenting the food"
+    },
+    {
+      "phrase": "O caf\u00e9 \u00e9 bom.",
+      "translation": "The coffee is good.",
+      "context": "Complimenting the drink"
+    },
+    {
+      "phrase": "Muito obrigado!",
+      "translation": "Thank you very much!",
+      "context": "After receiving order"
+    },
+    {
+      "phrase": "Bem-vindo ao nosso caf\u00e9!",
+      "translation": "Welcome to our caf\u00e9!",
+      "context": "Greeting a customer"
+    },
+    {
+      "phrase": "Gostaria de sentar perto da janela.",
+      "translation": "I would like to sit by the window.",
+      "context": "Choosing a seat"
+    },
+    {
+      "phrase": "Tem cobertor aqui?",
+      "translation": "Is there a blanket here?",
+      "context": "Asking for warmth"
+    },
+    {
+      "phrase": "Devemos fazer uma reserva?",
+      "translation": "Should we make a reservation?",
+      "context": "Planning ahead"
+    },
+    {
+      "phrase": "Posso pedir uma garrafa de \u00e1gua?",
+      "translation": "Can I get a bottle of water?",
+      "context": "Requesting a drink"
+    },
+    {
+      "phrase": "Jatkan t\u00e4n\u00e4n viel\u00e4.",
+      "translation": "I will continue today.",
+      "context": "Staying longer"
+    },
+    {
+      "phrase": "T\u00e4n\u00e4n on iltajuha.",
+      "translation": "Today is an evening party.",
+      "context": "Announcing an event"
+    },
+    {
+      "phrase": "Obrigado por vir!",
+      "translation": "Thanks for coming!",
+      "context": "Thanking guests"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bem-vindo! O que voc\u00eam gostariam?",
+      "translation": "Welcome! What would you like?"
+    },
+    {
+      "speaker": "B",
+      "text": "Gostaria de um latte e um croissant.",
+      "translation": "I'd like a latte and a croissant."
+    },
+    {
+      "speaker": "A",
+      "text": "Voc\u00eam querem leite ou leite vegetal?",
+      "translation": "Do you want milk or vegan milk?"
+    },
+    {
+      "speaker": "B",
+      "text": "Leite de aveia, por favor.",
+      "translation": "Oat milk, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Mais alguma coisa?",
+      "translation": "Anything else?"
+    },
+    {
+      "speaker": "B",
+      "text": "N\u00e3o obrigado, \u00e9 suficiente.",
+      "translation": "No thanks, that's enough."
+    },
+    {
+      "speaker": "A",
+      "text": "\u00a1Genial! Aqui est\u00e1 seu n\u00famero.",
+      "translation": "Great! Here's your number."
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado!",
+      "translation": "Thank you!"
+    },
+    {
+      "speaker": "A",
+      "text": "Bem-vindo! O que voc\u00ea bebe?",
+      "translation": "Welcome! What are you drinking?"
+    },
+    {
+      "speaker": "B",
+      "text": "Vou tomar ch\u00e1 e um paozinho.",
+      "translation": "I will have tea and a pastry."
+    },
+    {
+      "speaker": "A",
+      "text": "Vamos sentar aqui em cima.",
+      "translation": "Let us sit up here."
+    },
+    {
+      "speaker": "B",
+      "text": "Tchau, nos vemos mais tarde.",
+      "translation": "Good, see you later."
+    },
+    {
+      "speaker": "A",
+      "text": "Quer se juntar a n\u00f3s?",
+      "translation": "Do you want to join us?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, com certeza!",
+      "translation": "Yes, definitely!"
+    },
+    {
+      "speaker": "A",
+      "text": "Deveriamos ir embora em breve.",
+      "translation": "We should leave soon."
+    },
+    {
+      "speaker": "B",
+      "text": "Vou esperar mais um pouco.",
+      "translation": "I will wait a bit longer."
+    }
+  ]
+}

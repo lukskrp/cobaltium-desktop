@@ -1,0 +1,134 @@
+/* Markdown rendering for chat replies. */
+.markdown {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  word-break: break-word;
+}
+.markdown > :first-child {
+  margin-top: 0;
+}
+.markdown > :last-child {
+  margin-bottom: 0;
+}
+.markdown p {
+  margin: 0.45em 0;
+}
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4 {
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 0.7em 0 0.35em;
+}
+.markdown h1 {
+  font-size: 1.35em;
+}
+.markdown h2 {
+  font-size: 1.2em;
+}
+.markdown h3 {
+  font-size: 1.05em;
+}
+.markdown ul {
+  list-style: disc;
+  padding-left: 1.25em;
+  margin: 0.45em 0;
+}
+.markdown ol {
+  list-style: decimal;
+  padding-left: 1.4em;
+  margin: 0.45em 0;
+}
+.markdown li {
+  margin: 0.15em 0;
+}
+.markdown a {
+  color: var(--primary);
+  text-decoration: underline;
+}
+.markdown code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.85em;
+  background: var(--muted);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+.markdown pre {
+  background: var(--muted);
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  margin: 0.6em 0;
+}
+.markdown pre code {
+  background: transparent;
+  padding: 0;
+}
+.markdown blockquote {
+  border-left: 3px solid var(--border);
+  padding-left: 0.75em;
+  margin: 0.5em 0;
+  color: var(--muted-foreground);
+}
+.markdown table {
+  border-collapse: collapse;
+  margin: 0.5em 0;
+  font-size: 0.9em;
+}
+.markdown th,
+.markdown td {
+  border: 1px solid var(--border);
+  padding: 0.3em 0.6em;
+}
+.markdown hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 0.8em 0;
+}
+
+/* Chat composer input: thin themed scrollbar that never clips the rounded
+   box. Native Windows scrollbar buttons (up/down arrows) are hidden, so a
+   single line shows no scrollbar chrome at all. */
+.composer-input {
+  scrollbar-width: thin;
+  scrollbar-color: var(--muted-foreground) transparent;
+}
+.composer-input::-webkit-scrollbar {
+  width: 8px;
+}
+.composer-input::-webkit-scrollbar-button {
+  display: none;
+}
+.composer-input::-webkit-scrollbar-track,
+.composer-input::-webkit-scrollbar-corner {
+  background: transparent;
+}
+.composer-input::-webkit-scrollbar-thumb {
+  background: var(--muted-foreground);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+
+/* Immersive/reflective flip cards. */
+.flip-scene {
+  perspective: 1200px;
+}
+.flip-card {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 320ms ease;
+}
+.flip-card[data-flipped='true'] {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.flip-face-back {
+  position: absolute;
+  inset: 0;
+  transform: rotateY(180deg);
+}

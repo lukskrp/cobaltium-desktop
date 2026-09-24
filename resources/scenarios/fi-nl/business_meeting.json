@@ -1,0 +1,342 @@
+{
+  "id": "business_meeting",
+  "title": "Zakelijke vergadering",
+  "description": "Professionele vergadering op kantoor",
+  "category": "BUSINESS",
+  "icon": "BusinessCenter",
+  "languagePair": "fi-nl",
+  "vocabulary": [
+    {
+      "word": "avain",
+      "translation": "key",
+      "pos": "noun",
+      "example": "Avain on p\u00f6yd\u00e4ll\u00e4.",
+      "exampleTranslation": "The key is on the table."
+    },
+    {
+      "word": "kokous",
+      "translation": "meeting",
+      "pos": "noun",
+      "example": "Kokous alkaa kello kymmenen.",
+      "exampleTranslation": "The meeting starts at ten o'clock."
+    },
+    {
+      "word": "kalenteri",
+      "translation": "calendar",
+      "pos": "noun",
+      "example": "Tarkista kalenteri.",
+      "exampleTranslation": "Check the calendar."
+    },
+    {
+      "word": "l\u00e4sn\u00e4",
+      "translation": "present, in attendance",
+      "pos": "adjective",
+      "example": "Olen l\u00e4sn\u00e4 kokouksessa.",
+      "exampleTranslation": "I am present at the meeting."
+    },
+    {
+      "word": "p\u00f6yt\u00e4",
+      "translation": "table",
+      "pos": "noun",
+      "example": "Istutaan p\u00f6yd\u00e4n ymp\u00e4rille.",
+      "exampleTranslation": "Let us sit around the table."
+    },
+    {
+      "word": "tuoli",
+      "translation": "chair",
+      "pos": "noun",
+      "example": "Tuoli on mukava.",
+      "exampleTranslation": "The chair is comfortable."
+    },
+    {
+      "word": "projekti",
+      "translation": "project",
+      "pos": "noun",
+      "example": "Projekti etenee hyvin.",
+      "exampleTranslation": "The project is progressing well."
+    },
+    {
+      "word": "raportti",
+      "translation": "report",
+      "pos": "noun",
+      "example": "Raportti on valmis.",
+      "exampleTranslation": "The report is ready."
+    },
+    {
+      "word": "teht\u00e4v\u00e4",
+      "translation": "task, duty",
+      "pos": "noun",
+      "example": "Teht\u00e4v\u00e4 on t\u00e4rke\u00e4.",
+      "exampleTranslation": "The task is important."
+    },
+    {
+      "word": "tulos",
+      "translation": "result",
+      "pos": "noun",
+      "example": "Tulos on odotettu.",
+      "exampleTranslation": "The result is expected."
+    },
+    {
+      "word": "tapaaminen",
+      "translation": "meeting, appointment",
+      "pos": "noun",
+      "example": "Tapaaminen on huomenna.",
+      "exampleTranslation": "The meeting is tomorrow."
+    },
+    {
+      "word": "ty\u00f6",
+      "translation": "work",
+      "pos": "noun",
+      "example": "Ty\u00f6 on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Work is important."
+    },
+    {
+      "word": "esitell\u00e4",
+      "translation": "to present",
+      "pos": "verb",
+      "example": "Haluaisin esitell\u00e4 idean.",
+      "exampleTranslation": "I would like to present an idea."
+    },
+    {
+      "word": "tarkistaa",
+      "translation": "to check",
+      "pos": "verb",
+      "example": "Tarkistaa dokumentin.",
+      "exampleTranslation": "Check the document."
+    },
+    {
+      "word": "suunnitella",
+      "translation": "to plan",
+      "pos": "verb",
+      "example": "Suunnittelemme uutta projektia.",
+      "exampleTranslation": "We are planning a new project."
+    },
+    {
+      "word": "p\u00e4\u00e4tt\u00e4\u00e4",
+      "translation": "to decide",
+      "pos": "verb",
+      "example": "P\u00e4\u00e4tt\u00e4\u00e4mme kokouksessa.",
+      "exampleTranslation": "We decide at the meeting."
+    },
+    {
+      "word": "ehdotus",
+      "translation": "proposal, suggestion",
+      "pos": "noun",
+      "example": "T\u00e4m\u00e4 on hyv\u00e4 ehdotus.",
+      "exampleTranslation": "This is a good proposal."
+    },
+    {
+      "word": "budjetti",
+      "translation": "budget",
+      "pos": "noun",
+      "example": "Budjetti on rajallinen.",
+      "exampleTranslation": "The budget is limited."
+    },
+    {
+      "word": "aikataulu",
+      "translation": "schedule, timetable",
+      "pos": "noun",
+      "example": "Aikataulu on tiukka.",
+      "exampleTranslation": "The schedule is tight."
+    },
+    {
+      "word": "yhteisty\u00f6",
+      "translation": "cooperation",
+      "pos": "noun",
+      "example": "Yhteisty\u00f6 on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Cooperation is important."
+    },
+    {
+      "word": "vastuullinen",
+      "translation": "responsible",
+      "pos": "adjective",
+      "example": "Olen vastuullinen t\u00e4st\u00e4.",
+      "exampleTranslation": "I am responsible for this."
+    },
+    {
+      "word": "tavoite",
+      "translation": "goal, target",
+      "pos": "noun",
+      "example": "Tavoite on selv\u00e4.",
+      "exampleTranslation": "The goal is clear."
+    },
+    {
+      "word": "palauttaa",
+      "translation": "to give feedback",
+      "pos": "verb",
+      "example": "Voinko palauttaa t\u00e4st\u00e4?",
+      "exampleTranslation": "Can I give feedback on this?"
+    },
+    {
+      "word": "j\u00e4rjest\u00e4\u00e4",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "J\u00e4rjest\u00e4mme tapaamisen.",
+      "exampleTranslation": "We are organizing a meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Aloitetaanko kokous?",
+      "translation": "Shall we start the meeting?",
+      "context": "Starting a meeting"
+    },
+    {
+      "phrase": "Mit\u00e4 mielt\u00e4 olette?",
+      "translation": "What do you think?",
+      "context": "Asking for opinions"
+    },
+    {
+      "phrase": "Ehdotan, ett\u00e4...",
+      "translation": "I suggest that...",
+      "context": "Making a suggestion"
+    },
+    {
+      "phrase": "Olemme samaa mielt\u00e4.",
+      "translation": "We agree.",
+      "context": "Expressing agreement"
+    },
+    {
+      "phrase": "Tarvitsemme lis\u00e4\u00e4 aikaa.",
+      "translation": "We need more time.",
+      "context": "Requesting time"
+    },
+    {
+      "phrase": "Kysymys on t\u00e4rke\u00e4.",
+      "translation": "The question is important.",
+      "context": "Emphasizing importance"
+    },
+    {
+      "phrase": "Voimmeko p\u00e4\u00e4tt\u00e4\u00e4 nyt?",
+      "translation": "Can we decide now?",
+      "context": "Pushing for decision"
+    },
+    {
+      "phrase": "Kiitos kaikille.",
+      "translation": "Thank you everyone.",
+      "context": "Ending a meeting"
+    },
+    {
+      "phrase": "Esittelen seuraavan pisteen.",
+      "translation": "I will present the next point.",
+      "context": "Moving to next topic"
+    },
+    {
+      "phrase": "Onko kysymyksi\u00e4?",
+      "translation": "Are there any questions?",
+      "context": "Opening for questions"
+    },
+    {
+      "phrase": "Palataan asiaan my\u00f6hemmin.",
+      "translation": "Let us return to this later.",
+      "context": "Deferring discussion"
+    },
+    {
+      "phrase": "T\u00e4m\u00e4 vaatii tarkempaa tutkimista.",
+      "translation": "This requires closer examination.",
+      "context": "Requesting more analysis"
+    },
+    {
+      "phrase": "Olemme aikataulussa.",
+      "translation": "We are on schedule.",
+      "context": "Status update"
+    },
+    {
+      "phrase": "Ty\u00f6ryhm\u00e4 jatkaa t\u00e4t\u00e4.",
+      "translation": "The working group will continue this.",
+      "context": "Delegating task"
+    },
+    {
+      "phrase": "Seuraava kokous on ensi viikolla.",
+      "translation": "The next meeting is next week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "Kiitos hyv\u00e4st\u00e4 keskustelusta.",
+      "translation": "Thank you for the good discussion.",
+      "context": "Closing remark"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4\u00e4 huomenta kaikille. Aloitetaanko?",
+      "translation": "Good morning everyone. Shall we start?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, olemme valmiita.",
+      "translation": "Yes, we are ready."
+    },
+    {
+      "speaker": "A",
+      "text": "T\u00e4n\u00e4\u00e4n k\u00e4sittelemme uutta projektia.",
+      "translation": "Today we will discuss the new project."
+    },
+    {
+      "speaker": "B",
+      "text": "Mik\u00e4 on projektin tavoite?",
+      "translation": "What is the goal of the project?"
+    },
+    {
+      "speaker": "A",
+      "text": "Tavoite on parantaa asiakastyytyv\u00e4isyytt\u00e4.",
+      "translation": "The goal is to improve customer satisfaction."
+    },
+    {
+      "speaker": "B",
+      "text": "Mik\u00e4 on aikataulu?",
+      "translation": "What is the schedule?"
+    },
+    {
+      "speaker": "A",
+      "text": "Haluamme saada valmiiksi kolmessa kuukaudessa.",
+      "translation": "We want to have it ready in three months."
+    },
+    {
+      "speaker": "B",
+      "text": "Se on tiukka aikataulu.",
+      "translation": "That is a tight schedule."
+    },
+    {
+      "speaker": "A",
+      "text": "Tarvitsemme lis\u00e4\u00e4 resursseja.",
+      "translation": "We need more resources."
+    },
+    {
+      "speaker": "B",
+      "text": "Voimme k\u00e4ytt\u00e4\u00e4 budjettia seuraavasta kvartaalista.",
+      "translation": "We can use the budget from next quarter."
+    },
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4 idea. Kuka vastaa projektista?",
+      "translation": "Good idea. Who is responsible for the project?"
+    },
+    {
+      "speaker": "B",
+      "text": "Min\u00e4 voin ottaa vastuun.",
+      "translation": "I can take responsibility."
+    },
+    {
+      "speaker": "A",
+      "text": "Erinomaista. Pidet\u00e4\u00e4n seuraava kokous ensi viikolla.",
+      "translation": "Excellent. Let us hold the next meeting next week."
+    },
+    {
+      "speaker": "B",
+      "text": "Sopii. Kiitos kaikille.",
+      "translation": "Agreed. Thank you everyone."
+    },
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4\u00e4 p\u00e4iv\u00e4n jatkoa kaikille.",
+      "translation": "Have a good day everyone."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos, sinullekin.",
+      "translation": "Thank you, you too."
+    }
+  ]
+}

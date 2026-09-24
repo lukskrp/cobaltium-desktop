@@ -1,0 +1,342 @@
+{
+  "id": "education_classroom",
+  "title": "Salle de classe",
+  "description": "\u00c9tudier et apprendre dans une salle de classe finlandaise",
+  "category": "EDUCATION",
+  "icon": "School",
+  "languagePair": "fi-fr",
+  "vocabulary": [
+    {
+      "word": "note",
+      "translation": "grade",
+      "pos": "noun",
+      "example": "La note est bonne.",
+      "exampleTranslation": "The grade is good."
+    },
+    {
+      "word": "cours",
+      "translation": "course",
+      "pos": "noun",
+      "example": "Le cours est int\u00e9ressant.",
+      "exampleTranslation": "The course is interesting."
+    },
+    {
+      "word": "liste de cours",
+      "translation": "lecture list",
+      "pos": "noun",
+      "example": "La liste de cours est longue.",
+      "exampleTranslation": "The lecture list is long."
+    },
+    {
+      "word": "lyc\u00e9e",
+      "translation": "high school",
+      "pos": "noun",
+      "example": "Le lyc\u00e9e est exigeant.",
+      "exampleTranslation": "High school is demanding."
+    },
+    {
+      "word": "se souvenir",
+      "translation": "to remember",
+      "pos": "verb",
+      "example": "Me souviens-je de tout ?",
+      "exampleTranslation": "Do I remember everything?"
+    },
+    {
+      "word": "\u00e9l\u00e8ve",
+      "translation": "student",
+      "pos": "noun",
+      "example": "L'\u00e9l\u00e8ve est diligent.",
+      "exampleTranslation": "The student is diligent."
+    },
+    {
+      "word": "cours",
+      "translation": "lesson",
+      "pos": "noun",
+      "example": "Le cours commence \u00e0 neuf heures.",
+      "exampleTranslation": "The lesson starts at nine."
+    },
+    {
+      "word": "\u00e9tudier",
+      "translation": "to study",
+      "pos": "verb",
+      "example": "Opiskelen kiele\u00e4.",
+      "exampleTranslation": "I study a language."
+    },
+    {
+      "word": "apprendre",
+      "translation": "to learn",
+      "pos": "verb",
+      "example": "J'ai appris quelque chose de nouveau.",
+      "exampleTranslation": "I learned something new."
+    },
+    {
+      "word": "examen",
+      "translation": "exam",
+      "pos": "noun",
+      "example": "L'examen est demain.",
+      "exampleTranslation": "The exam is tomorrow."
+    },
+    {
+      "word": "dipl\u00f4me",
+      "translation": "degree, qualification",
+      "pos": "noun",
+      "example": "Le dipl\u00f4me est termin\u00e9.",
+      "exampleTranslation": "The degree is complete."
+    },
+    {
+      "word": "\u00e9criture",
+      "translation": "writing, text",
+      "pos": "noun",
+      "example": "L'\u00e9criture est claire.",
+      "exampleTranslation": "The writing is clear."
+    },
+    {
+      "word": "professeur",
+      "translation": "teacher",
+      "pos": "noun",
+      "example": "Le professeur est un professionnel.",
+      "exampleTranslation": "The teacher is a professional."
+    },
+    {
+      "word": "cours magistral",
+      "translation": "lecture",
+      "pos": "noun",
+      "example": "Le cours magistral est int\u00e9ressant.",
+      "exampleTranslation": "The lecture is interesting."
+    },
+    {
+      "word": "devoir",
+      "translation": "homework, assignment",
+      "pos": "noun",
+      "example": "Les devoirs sont faits.",
+      "exampleTranslation": "The homework is done."
+    },
+    {
+      "word": "biblioth\u00e8que",
+      "translation": "library",
+      "pos": "noun",
+      "example": "La biblioth\u00e8que est calme.",
+      "exampleTranslation": "The library is quiet."
+    },
+    {
+      "word": "classe",
+      "translation": "class, classroom",
+      "pos": "noun",
+      "example": "La salle de classe est rang\u00e9e.",
+      "exampleTranslation": "The classroom is tidy."
+    },
+    {
+      "word": "contr\u00f4le",
+      "translation": "test, exam",
+      "pos": "noun",
+      "example": "Le contr\u00f4le est difficile.",
+      "exampleTranslation": "The test is difficult."
+    },
+    {
+      "word": "maintenance",
+      "translation": "maintenance",
+      "pos": "noun",
+      "example": "La maintenance est soigneuse.",
+      "exampleTranslation": "The maintenance is careful."
+    },
+    {
+      "word": "programme",
+      "translation": "curriculum",
+      "pos": "noun",
+      "example": "Le programme comporte beaucoup de cours.",
+      "exampleTranslation": "The curriculum has many courses."
+    },
+    {
+      "word": "manuel",
+      "translation": "textbook",
+      "pos": "noun",
+      "example": "Le manuel est neuf.",
+      "exampleTranslation": "The textbook is new."
+    },
+    {
+      "word": "fourniture",
+      "translation": "supply, material",
+      "pos": "noun",
+      "example": "Les fournitures sont ch\u00e8res.",
+      "exampleTranslation": "The supplies are expensive."
+    },
+    {
+      "word": "exercice",
+      "translation": "exercise, practice",
+      "pos": "noun",
+      "example": "La pratique rend parfait.",
+      "exampleTranslation": "Practice makes perfect."
+    },
+    {
+      "word": "atelier",
+      "translation": "workshop",
+      "pos": "noun",
+      "example": "L'atelier est ouvert.",
+      "exampleTranslation": "The workshop is open."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "O\u00f9 est la salle de classe ?",
+      "translation": "Where is the classroom?",
+      "context": "Finding classroom"
+    },
+    {
+      "phrase": "Qu'est-ce qu'on fait aujourd'hui ?",
+      "translation": "What are we doing today?",
+      "context": "Asking about lesson"
+    },
+    {
+      "phrase": "Je ne comprends pas.",
+      "translation": "I don't understand.",
+      "context": "Asking for clarification"
+    },
+    {
+      "phrase": "Puis-je poser une question ?",
+      "translation": "Can I ask a question?",
+      "context": "Asking permission"
+    },
+    {
+      "phrase": "Combien de devoirs ?",
+      "translation": "How much homework?",
+      "context": "Asking about homework"
+    },
+    {
+      "phrase": "L'examen est difficile.",
+      "translation": "The exam is difficult.",
+      "context": "Expressing difficulty"
+    },
+    {
+      "phrase": "J'ai appris quelque chose de nouveau aujourd'hui.",
+      "translation": "I learned something new today.",
+      "context": "Expressing learning"
+    },
+    {
+      "phrase": "J'ai besoin d'aide.",
+      "translation": "I need help.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Est-ce calme \u00e0 la biblioth\u00e8que ?",
+      "translation": "Is it quiet in the library?",
+      "context": "Asking about environment"
+    },
+    {
+      "phrase": "Quel est le prochain devoir ?",
+      "translation": "What is the next assignment?",
+      "context": "Asking about tasks"
+    },
+    {
+      "phrase": "J'ai une question.",
+      "translation": "I have a question.",
+      "context": "Starting a question"
+    },
+    {
+      "phrase": "Puis-je emprunter le manuel ?",
+      "translation": "Can I borrow the textbook?",
+      "context": "Borrowing materials"
+    },
+    {
+      "phrase": "Le cours est int\u00e9ressant.",
+      "translation": "The course is interesting.",
+      "context": "Expressing interest"
+    },
+    {
+      "phrase": "J'ai besoin de plus de temps.",
+      "translation": "I need more time.",
+      "context": "Requesting extension"
+    },
+    {
+      "phrase": "Merci au professeur.",
+      "translation": "Thank you to the teacher.",
+      "context": "Expressing gratitude"
+    },
+    {
+      "phrase": "J'attends avec impatience le prochain cours.",
+      "translation": "I look forward to the next class.",
+      "context": "Expressing anticipation"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bonjour, \u00e9l\u00e8ves !",
+      "translation": "Good morning, students!"
+    },
+    {
+      "speaker": "B",
+      "text": "Bonjour, professeur !",
+      "translation": "Good morning, teacher!"
+    },
+    {
+      "speaker": "A",
+      "text": "Aujourd'hui nous continuons le finnois.",
+      "translation": "Today we continue with Finnish."
+    },
+    {
+      "speaker": "B",
+      "text": "G\u00e9nial ! Sur quel sujet ?",
+      "translation": "Great! About what topic?"
+    },
+    {
+      "speaker": "A",
+      "text": "Nous traiterons les phrases de base.",
+      "translation": "We will cover basic phrases."
+    },
+    {
+      "speaker": "B",
+      "text": "Nous pouvons pratiquer la conversation.",
+      "translation": "We can practice conversation."
+    },
+    {
+      "speaker": "A",
+      "text": "Oui. Commence par une salutation.",
+      "translation": "Yes. Start with a greeting."
+    },
+    {
+      "speaker": "B",
+      "text": "Salut ! Comment allez-vous ?",
+      "translation": "Hi! How are you?"
+    },
+    {
+      "speaker": "A",
+      "text": "Bien ! Merci de demander.",
+      "translation": "Good! Thank you for asking."
+    },
+    {
+      "speaker": "B",
+      "text": "J'ai appris un nouveau mot aujourd'hui.",
+      "translation": "I learned a new word today."
+    },
+    {
+      "speaker": "A",
+      "text": "C'est quoi ?",
+      "translation": "What is it?"
+    },
+    {
+      "speaker": "B",
+      "text": "\u00c9ducation. Cela signifie education.",
+      "translation": "Education. It means education."
+    },
+    {
+      "speaker": "A",
+      "text": "Excellent ! Tu m'apprends ?",
+      "translation": "Excellent! Are you teaching me?"
+    },
+    {
+      "speaker": "B",
+      "text": "J'essaie ! Le professeur a appris.",
+      "translation": "I try! The teacher has learned."
+    },
+    {
+      "speaker": "A",
+      "text": "Merci ! C'est une bonne mani\u00e8re d'apprendre.",
+      "translation": "Thank you! This is a good way to learn."
+    },
+    {
+      "speaker": "B",
+      "text": "Merci pour l'enseignement !",
+      "translation": "Thank you for the teaching!"
+    }
+  ]
+}

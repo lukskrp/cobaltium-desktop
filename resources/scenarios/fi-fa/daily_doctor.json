@@ -1,0 +1,342 @@
+{
+  "id": "daily_doctor",
+  "title": "\u0648\u0636\u0639\u062a \u0628\u0647 \u067e\u0632\u0634\u06a9",
+  "description": "\u0628\u0647 \u067e\u0632\u0634\u06a9 \u0628\u0631\u0648\u06cc\u062f \u0648 \u062f\u0631 \u0645\u0648\u0636\u0648\u0639 \u0635\u062d\u062a \u0628\u0647 \u0641\u0646\u0644\u0627\u0646\u062f\u06cc \u062a\u0646\u062f\u0627\u0628\u062b \u06a9\u0646\u06cc\u062f",
+  "category": "MEDICAL",
+  "icon": "LocalHospital",
+  "languagePair": "fi-fa",
+  "vocabulary": [
+    {
+      "word": "el\u00e4m\u00e4",
+      "translation": "life",
+      "pos": "noun",
+      "example": "El\u00e4m\u00e4 on kaunis.",
+      "exampleTranslation": "Life is beautiful."
+    },
+    {
+      "word": "hoitaa",
+      "translation": "to treat, to care for",
+      "pos": "verb",
+      "example": "L\u00e4\u00e4k\u00e4ri hoitaa potilasta.",
+      "exampleTranslation": "The doctor treats the patient."
+    },
+    {
+      "word": "hoito",
+      "translation": "treatment, care",
+      "pos": "noun",
+      "example": "Hoito on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Treatment is important."
+    },
+    {
+      "word": "kipu",
+      "translation": "pain",
+      "pos": "noun",
+      "example": "Kipu on pahaa.",
+      "exampleTranslation": "The pain is bad."
+    },
+    {
+      "word": "l\u00e4\u00e4ke",
+      "translation": "medicine",
+      "pos": "noun",
+      "example": "L\u00e4\u00e4ke auttaa.",
+      "exampleTranslation": "The medicine helps."
+    },
+    {
+      "word": "l\u00e4\u00e4k\u00e4ri",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "L\u00e4\u00e4k\u00e4ri on ammattilainen.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "maha",
+      "translation": "stomach",
+      "pos": "noun",
+      "example": "Maha s\u00e4rkee.",
+      "exampleTranslation": "My stomach hurts."
+    },
+    {
+      "word": "maito",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Maito on terveellist\u00e4.",
+      "exampleTranslation": "Milk is healthy."
+    },
+    {
+      "word": "niska",
+      "translation": "neck",
+      "pos": "noun",
+      "example": "Niska on j\u00e4ykk\u00e4.",
+      "exampleTranslation": "The neck is stiff."
+    },
+    {
+      "word": "sy\u00f6d\u00e4",
+      "translation": "to eat",
+      "pos": "verb",
+      "example": "Pit\u00e4\u00e4 sy\u00f6d\u00e4 terveellisesti.",
+      "exampleTranslation": "You should eat healthily."
+    },
+    {
+      "word": "verensokeri",
+      "translation": "blood sugar",
+      "pos": "noun",
+      "example": "Verensokeri on korkea.",
+      "exampleTranslation": "The blood sugar is high."
+    },
+    {
+      "word": "viikko",
+      "translation": "week",
+      "pos": "noun",
+      "example": "Viikko on pitk\u00e4 aika.",
+      "exampleTranslation": "A week is a long time."
+    },
+    {
+      "word": "potilas",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "Potilas on odottamassa.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "k\u00e4ynyt",
+      "translation": "visited",
+      "pos": "participle",
+      "example": "Olen k\u00e4ynyt l\u00e4\u00e4k\u00e4riss\u00e4.",
+      "exampleTranslation": "I have visited the doctor."
+    },
+    {
+      "word": "verenkierro",
+      "translation": "blood circulation",
+      "pos": "noun",
+      "example": "Verenkierro on hyv\u00e4.",
+      "exampleTranslation": "Blood circulation is good."
+    },
+    {
+      "word": "annos",
+      "translation": "dose",
+      "pos": "noun",
+      "example": "Annos on oikea.",
+      "exampleTranslation": "The dose is correct."
+    },
+    {
+      "word": "symptoomi",
+      "translation": "symptom",
+      "pos": "noun",
+      "example": "Symptoomi ilmenee aamulla.",
+      "exampleTranslation": "The symptom appears in the morning."
+    },
+    {
+      "word": "diagnosi",
+      "translation": "diagnosis",
+      "pos": "noun",
+      "example": "Diagnosi on selv\u00e4.",
+      "exampleTranslation": "The diagnosis is clear."
+    },
+    {
+      "word": "terveys",
+      "translation": "health",
+      "pos": "noun",
+      "example": "Terveys on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Health is important."
+    },
+    {
+      "word": "lepo",
+      "translation": "rest",
+      "pos": "noun",
+      "example": "Lepo on tarpeen.",
+      "exampleTranslation": "Rest is needed."
+    },
+    {
+      "word": "veri",
+      "translation": "blood",
+      "pos": "noun",
+      "example": "Veri on punaista.",
+      "exampleTranslation": "Blood is red."
+    },
+    {
+      "word": "ruumiinl\u00e4mp\u00f6",
+      "translation": "body temperature",
+      "pos": "noun",
+      "example": "Ruumiinl\u00e4mp\u00f6 on normaali.",
+      "exampleTranslation": "Body temperature is normal."
+    },
+    {
+      "word": "r\u014dntgen",
+      "translation": "x-ray",
+      "pos": "noun",
+      "example": "R\u014dntgen on tehty.",
+      "exampleTranslation": "The x-ray has been taken."
+    },
+    {
+      "word": "terve",
+      "translation": "healthy",
+      "pos": "adjective",
+      "example": "Olen terve.",
+      "exampleTranslation": "I am healthy."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Minulla on p\u00e4\u00e4ns\u00e4rky.",
+      "translation": "I have a headache.",
+      "context": "Describing symptom"
+    },
+    {
+      "phrase": "Miss\u00e4 sattuu?",
+      "translation": "Where does it hurt?",
+      "context": "Doctor asking"
+    },
+    {
+      "phrase": "Ota l\u00e4\u00e4ke kahdesti p\u00e4iv\u00e4ss\u00e4.",
+      "translation": "Take the medicine twice a day.",
+      "context": "Doctor's instruction"
+    },
+    {
+      "phrase": "Tule kontrolliin viikon p\u00e4\u00e4st\u00e4.",
+      "translation": "Come for a check-up in a week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "Minulla on flunssa.",
+      "translation": "I have the flu.",
+      "context": "Describing illness"
+    },
+    {
+      "phrase": "Tarvitsen sairausloman.",
+      "translation": "I need sick leave.",
+      "context": "Requesting sick leave"
+    },
+    {
+      "phrase": "Onko t\u00e4m\u00e4 l\u00e4\u00e4ke turvallinen?",
+      "translation": "Is this medicine safe?",
+      "context": "Asking about medicine"
+    },
+    {
+      "phrase": "Minulla on allergia.",
+      "translation": "I have an allergy.",
+      "context": "Mentioning allergy"
+    },
+    {
+      "phrase": "Kuinka kauan hoito kest\u00e4\u00e4?",
+      "translation": "How long does the treatment last?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Minulla on kipua rinnassa.",
+      "translation": "I have pain in my chest.",
+      "context": "Describing pain"
+    },
+    {
+      "phrase": "Tarvitsen reseptin.",
+      "translation": "I need a prescription.",
+      "context": "Requesting prescription"
+    },
+    {
+      "phrase": "Minulla on unettomuutta.",
+      "translation": "I have insomnia.",
+      "context": "Describing sleep issues"
+    },
+    {
+      "phrase": "Onko muita vaihtoehtoja?",
+      "translation": "Are there other options?",
+      "context": "Asking about alternatives"
+    },
+    {
+      "phrase": "Minulla on verenpainetauti.",
+      "translation": "I have high blood pressure.",
+      "context": "Describing condition"
+    },
+    {
+      "phrase": "Kiitos neuvostasi.",
+      "translation": "Thank you for your advice.",
+      "context": "Thanking doctor"
+    },
+    {
+      "phrase": "Tulen uudelleen kuukauden p\u00e4\u00e4st\u00e4.",
+      "translation": "I will come again in a month.",
+      "context": "Scheduling next visit"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4\u00e4 huomenta! Mit\u00e4 h\u00e4t\u00e4n\u00e4?",
+      "translation": "Good morning! What is the problem?"
+    },
+    {
+      "speaker": "B",
+      "text": "Minulla on p\u00e4\u00e4ns\u00e4rky\u00e4 jo p\u00e4iv\u00e4.",
+      "translation": "I have had a headache for a day."
+    },
+    {
+      "speaker": "A",
+      "text": "Miss\u00e4 sattuu?",
+      "translation": "Where does it hurt?"
+    },
+    {
+      "speaker": "B",
+      "text": "Otsalla ja takaraivossa.",
+      "translation": "On the forehead and back of the head."
+    },
+    {
+      "speaker": "A",
+      "text": "Onko muita oireita?",
+      "translation": "Are there other symptoms?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, minulla on my\u00f6s kuume.",
+      "translation": "Yes, I also have a fever."
+    },
+    {
+      "speaker": "A",
+      "text": "Mitattakohan l\u00e4mp\u00f6.",
+      "translation": "Let us measure the temperature."
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, kiitos.",
+      "translation": "Yes, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "L\u00e4mp\u00f6 on 38,5 astetta. Sinulla on flunssa.",
+      "translation": "The temperature is 38.5 degrees. You have the flu."
+    },
+    {
+      "speaker": "B",
+      "text": "Mit\u00e4 pit\u00e4isi tehd\u00e4?",
+      "translation": "What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Levit\u00e4 kotona ja juo paljon vett\u00e4.",
+      "translation": "Rest at home and drink plenty of water."
+    },
+    {
+      "speaker": "B",
+      "text": "Tarvitsenko l\u00e4\u00e4kett\u00e4?",
+      "translation": "Do I need medicine?"
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4, annan reseptin.",
+      "translation": "Yes, I will give you a prescription."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos, l\u00e4\u00e4k\u00e4ri.",
+      "translation": "Thank you, doctor."
+    },
+    {
+      "speaker": "A",
+      "text": "Tule takaisin, jos ei paranee.",
+      "translation": "Come back if it doesn't get better."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos huolenpidosta!",
+      "translation": "Thank you for your care!"
+    }
+  ]
+}

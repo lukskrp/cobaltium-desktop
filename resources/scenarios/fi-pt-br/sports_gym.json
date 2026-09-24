@@ -1,0 +1,342 @@
+{
+  "id": "sports_gym",
+  "title": "Academia",
+  "description": "Exercitar-se e falar de esportes em finland\u00eas",
+  "category": "FITNESS",
+  "icon": "FitnessCenter",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "corrida",
+      "translation": "running",
+      "pos": "noun",
+      "example": "Correr \u00e9 bom exerc\u00edcio.",
+      "exampleTranslation": "Running is good exercise."
+    },
+    {
+      "word": "condicionamento f\u00edsico",
+      "translation": "fitness, condition",
+      "pos": "noun",
+      "example": "Seu condicionamento f\u00edsico parece bom.",
+      "exampleTranslation": "Your fitness looks good."
+    },
+    {
+      "word": "m\u00fasculo",
+      "translation": "muscle",
+      "pos": "noun",
+      "example": "O m\u00fasculo est\u00e1 tenso.",
+      "exampleTranslation": "The muscle is tense."
+    },
+    {
+      "word": "recupera\u00e7\u00e3o",
+      "translation": "recovery",
+      "pos": "noun",
+      "example": "A recupera\u00e7\u00e3o \u00e9 importante.",
+      "exampleTranslation": "Recovery is important."
+    },
+    {
+      "word": "peso",
+      "translation": "weight",
+      "pos": "noun",
+      "example": "O peso \u00e9 demais.",
+      "exampleTranslation": "The weight is too much."
+    },
+    {
+      "word": "gordura",
+      "translation": "fat",
+      "pos": "noun",
+      "example": "A gordura diminuiu.",
+      "exampleTranslation": "Fat has decreased."
+    },
+    {
+      "word": "salmiak",
+      "translation": "salty licorice",
+      "pos": "noun",
+      "example": "O salmiak \u00e9 popular na Finl\u00e2ndia.",
+      "exampleTranslation": "Salty licorice is popular in Finland."
+    },
+    {
+      "word": "desempenho",
+      "translation": "performance",
+      "pos": "noun",
+      "example": "O desempenho foi bom.",
+      "exampleTranslation": "The performance was good."
+    },
+    {
+      "word": "treinar",
+      "translation": "to train",
+      "pos": "verb",
+      "example": "Treino todos os dias.",
+      "exampleTranslation": "I train every day."
+    },
+    {
+      "word": "treino",
+      "translation": "training, workout",
+      "pos": "noun",
+      "example": "O treino come\u00e7ou \u00e0s seis horas.",
+      "exampleTranslation": "The workout started at six."
+    },
+    {
+      "word": "treinamento",
+      "translation": "coaching",
+      "pos": "noun",
+      "example": "O treinamento \u00e9 bom.",
+      "exampleTranslation": "The coaching is good."
+    },
+    {
+      "word": "equipamento",
+      "translation": "equipment",
+      "pos": "noun",
+      "example": "Os equipamentos s\u00e3o novos.",
+      "exampleTranslation": "The equipment is new."
+    },
+    {
+      "word": "academia",
+      "translation": "gym, fitness center",
+      "pos": "noun",
+      "example": "A academia est\u00e1 aberta de manh\u00e3.",
+      "exampleTranslation": "The gym is open in the mornings."
+    },
+    {
+      "word": "circuito",
+      "translation": "circuit",
+      "pos": "adjective",
+      "example": "Treino em circuito \u00e9 eficaz.",
+      "exampleTranslation": "Circuit training is effective."
+    },
+    {
+      "word": "b\u00edceps",
+      "translation": "bicep",
+      "pos": "noun",
+      "example": "O b\u00edceps \u00e9 forte.",
+      "exampleTranslation": "The bicep is strong."
+    },
+    {
+      "word": "ombro",
+      "translation": "shoulder",
+      "pos": "noun",
+      "example": "O ombro \u00e9 flex\u00edvel.",
+      "exampleTranslation": "The shoulder is flexible."
+    },
+    {
+      "word": "martelo",
+      "translation": "hammer",
+      "pos": "noun",
+      "example": "O martelo \u00e9 pesado.",
+      "exampleTranslation": "The hammer is heavy."
+    },
+    {
+      "word": "fazer agachamento",
+      "translation": "to squat",
+      "pos": "verb",
+      "example": "Fa\u00e7o agachamento com pesos.",
+      "exampleTranslation": "I squat with weights."
+    },
+    {
+      "word": "banco",
+      "translation": "bench",
+      "pos": "noun",
+      "example": "O banco est\u00e1 em uso.",
+      "exampleTranslation": "The bench is in use."
+    },
+    {
+      "word": "levantamento terra",
+      "translation": "deadlift",
+      "pos": "noun",
+      "example": "O levantamento terra \u00e9 exigente.",
+      "exampleTranslation": "The deadlift is demanding."
+    },
+    {
+      "word": "entusiasta do fitness",
+      "translation": "fitness enthusiast",
+      "pos": "noun",
+      "example": "O entusiasta do fitness est\u00e1 motivado.",
+      "exampleTranslation": "The fitness enthusiast is motivated."
+    },
+    {
+      "word": "exerc\u00edcio",
+      "translation": "exercise, physical activity",
+      "pos": "noun",
+      "example": "O exerc\u00edcio \u00e9 importante.",
+      "exampleTranslation": "Exercise is important."
+    },
+    {
+      "word": "massagem",
+      "translation": "massage",
+      "pos": "noun",
+      "example": "Uma massagem \u00e9 necess\u00e1ria.",
+      "exampleTranslation": "A massage is needed."
+    },
+    {
+      "word": "gin\u00e1stica",
+      "translation": "exercise, gymnastics",
+      "pos": "noun",
+      "example": "A gin\u00e1stica \u00e9 divertida.",
+      "exampleTranslation": "Exercise is fun."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Onde \u00e9 a academia?",
+      "translation": "Where is the gym?",
+      "context": "Finding the gym"
+    },
+    {
+      "phrase": "Posso pedir emprestado um equipamento?",
+      "translation": "Can I borrow equipment?",
+      "context": "Borrowing equipment"
+    },
+    {
+      "phrase": "Quanto peso?",
+      "translation": "How much weight?",
+      "context": "Asking about weight"
+    },
+    {
+      "phrase": "Preciso de ajuda.",
+      "translation": "I need help.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "O treino acabou.",
+      "translation": "The workout is over.",
+      "context": "Finishing workout"
+    },
+    {
+      "phrase": "Sou novo aqui.",
+      "translation": "I am new here.",
+      "context": "Introducing yourself"
+    },
+    {
+      "phrase": "Posso fazer burpees?",
+      "translation": "Can I do burpees?",
+      "context": "Asking about exercises"
+    },
+    {
+      "phrase": "Onde \u00e9 o vesti\u00e1rio?",
+      "translation": "Where is the locker room?",
+      "context": "Finding facilities"
+    },
+    {
+      "phrase": "Quanto tempo dura?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Quero melhorar meu condicionamento f\u00edsico.",
+      "translation": "I want to improve my fitness.",
+      "context": "Setting goals"
+    },
+    {
+      "phrase": "Tem personal trainer aqui?",
+      "translation": "Is there a personal trainer here?",
+      "context": "Looking for trainer"
+    },
+    {
+      "phrase": "Hoje treino as pernas.",
+      "translation": "Today I train legs.",
+      "context": "Describing workout"
+    },
+    {
+      "phrase": "Vou fazer uma pausa.",
+      "translation": "I will take a break.",
+      "context": "Taking a break"
+    },
+    {
+      "phrase": "\u00a1\u00daltima repeti\u00e7\u00e3o!",
+      "translation": "Last rep!",
+      "context": "During exercise"
+    },
+    {
+      "phrase": "Vamos devagar um pouco.",
+      "translation": "Let us slow down a bit.",
+      "context": "Pacing workout"
+    },
+    {
+      "phrase": "Obrigado pelo incentivo!",
+      "translation": "Thank you for the encouragement!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Oi! Voc\u00ea \u00e9 novo aqui?",
+      "translation": "Hi! Are you new here?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, hoje \u00e9 meu primeiro dia.",
+      "translation": "Yes, today is my first day."
+    },
+    {
+      "speaker": "A",
+      "text": "Bem-vindo! Quer ajuda?",
+      "translation": "Welcome! Do you want help?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, seria bom ver os equipamentos.",
+      "translation": "Yes, it would be nice to see the equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "Aqui \u00e9 a academia. Tudo que \u00e9 necess\u00e1rio est\u00e1 aqui.",
+      "translation": "Here is the gym. Everything needed is here."
+    },
+    {
+      "speaker": "B",
+      "text": "\u00a1Genial! Em quais equipamentos devo me concentrar?",
+      "translation": "Great! Which equipment should I focus on?"
+    },
+    {
+      "speaker": "A",
+      "text": "Comece pelo banco e levantamento terra.",
+      "translation": "Start with the bench and deadlift."
+    },
+    {
+      "speaker": "B",
+      "text": "Quanto peso voc\u00eam recomendam?",
+      "translation": "How much weight do you recommend?"
+    },
+    {
+      "speaker": "A",
+      "text": "Comece leve e aumente gradualmente.",
+      "translation": "Start light and increase gradually."
+    },
+    {
+      "speaker": "B",
+      "text": "Boa ideia. E a esteira?",
+      "translation": "Good idea. What about the treadmill?"
+    },
+    {
+      "speaker": "A",
+      "text": "A esteira est\u00e1 ali. Voc\u00ea pode us\u00e1-la para aquecer.",
+      "translation": "The treadmill is over there. You can use it for warming up."
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado! Voc\u00ea treina frequentemente?",
+      "translation": "Thank you! Do you train often?"
+    },
+    {
+      "speaker": "A",
+      "text": "Sim, tr\u00eas vezes por semana.",
+      "translation": "Yes, three times a week."
+    },
+    {
+      "speaker": "B",
+      "text": "\u00c9 uma boa rotina.",
+      "translation": "That is a good routine."
+    },
+    {
+      "speaker": "A",
+      "text": "Sim. Estamos quase prontos.",
+      "translation": "Yes. We are almost ready."
+    },
+    {
+      "speaker": "B",
+      "text": "Obrigado pela sua ajuda! Est\u00e1 bom.",
+      "translation": "Thank you for your help! It feels good."
+    }
+  ]
+}

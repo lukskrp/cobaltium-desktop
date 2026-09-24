@@ -1,0 +1,69 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Typecheck
+        run: pnpm typecheck
+
+      - name: Lint
+        run: pnpm lint
+
+      - name: Test
+        run: pnpm test
+
+      - name: License audit
+        run: pnpm licenses
+
+      - name: Build
+        run: pnpm build
+
+  tts-native:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - name: Build espeak-ng bridge
+        run: node scripts/build-espeak.mjs
+
+      - name: Build Japanese bridge
+        run: node scripts/build-ja-bridge.mjs
+
+      - name: Build whisper-server
+        run: node scripts/build-whisper.mjs
+
+      - name: Smoke-test native bridges
+        run: node scripts/smoke-native.mjs
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: tts-native-${{ matrix.os }}
+          path: |
+            resources/tts/
+            resources/stt/

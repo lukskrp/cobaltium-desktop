@@ -1,0 +1,342 @@
+{
+  "id": "daily_doctor",
+  "title": "Visite m\u00e9dicale",
+  "description": "Rendre visite \u00e0 un m\u00e9decin et parler de sant\u00e9 en finnois",
+  "category": "MEDICAL",
+  "icon": "LocalHospital",
+  "languagePair": "fi-fr",
+  "vocabulary": [
+    {
+      "word": "vie",
+      "translation": "life",
+      "pos": "noun",
+      "example": "La vie est belle.",
+      "exampleTranslation": "Life is beautiful."
+    },
+    {
+      "word": "traiter",
+      "translation": "to treat, to care for",
+      "pos": "verb",
+      "example": "Le m\u00e9decin traite le patient.",
+      "exampleTranslation": "The doctor treats the patient."
+    },
+    {
+      "word": "traitement",
+      "translation": "treatment, care",
+      "pos": "noun",
+      "example": "Le traitement est important.",
+      "exampleTranslation": "Treatment is important."
+    },
+    {
+      "word": "douleur",
+      "translation": "pain",
+      "pos": "noun",
+      "example": "La douleur est forte.",
+      "exampleTranslation": "The pain is bad."
+    },
+    {
+      "word": "m\u00e9dicament",
+      "translation": "medicine",
+      "pos": "noun",
+      "example": "Le m\u00e9dicament aide.",
+      "exampleTranslation": "The medicine helps."
+    },
+    {
+      "word": "m\u00e9decin",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "Le m\u00e9decin est un professionnel.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "estomac",
+      "translation": "stomach",
+      "pos": "noun",
+      "example": "J'ai mal \u00e0 l'estomac.",
+      "exampleTranslation": "My stomach hurts."
+    },
+    {
+      "word": "lait",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Le lait est sain.",
+      "exampleTranslation": "Milk is healthy."
+    },
+    {
+      "word": "cou",
+      "translation": "neck",
+      "pos": "noun",
+      "example": "Le cou est raide.",
+      "exampleTranslation": "The neck is stiff."
+    },
+    {
+      "word": "manger",
+      "translation": "to eat",
+      "pos": "verb",
+      "example": "Il faut manger sainement.",
+      "exampleTranslation": "You should eat healthily."
+    },
+    {
+      "word": "glyc\u00e9mie",
+      "translation": "blood sugar",
+      "pos": "noun",
+      "example": "La glyc\u00e9mie est \u00e9lev\u00e9e.",
+      "exampleTranslation": "The blood sugar is high."
+    },
+    {
+      "word": "semaine",
+      "translation": "week",
+      "pos": "noun",
+      "example": "Une semaine est longue.",
+      "exampleTranslation": "A week is a long time."
+    },
+    {
+      "word": "patient",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "Le patient attend.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "rendu visite",
+      "translation": "visited",
+      "pos": "participle",
+      "example": "J'ai rendu visite au m\u00e9decin.",
+      "exampleTranslation": "I have visited the doctor."
+    },
+    {
+      "word": "circulation sanguine",
+      "translation": "blood circulation",
+      "pos": "noun",
+      "example": "La circulation sanguine est bonne.",
+      "exampleTranslation": "Blood circulation is good."
+    },
+    {
+      "word": "dose",
+      "translation": "dose",
+      "pos": "noun",
+      "example": "La dose est correcte.",
+      "exampleTranslation": "The dose is correct."
+    },
+    {
+      "word": "sympt\u00f4me",
+      "translation": "symptom",
+      "pos": "noun",
+      "example": "Le sympt\u00f4me appara\u00eet le matin.",
+      "exampleTranslation": "The symptom appears in the morning."
+    },
+    {
+      "word": "diagnostic",
+      "translation": "diagnosis",
+      "pos": "noun",
+      "example": "Le diagnostic est clair.",
+      "exampleTranslation": "The diagnosis is clear."
+    },
+    {
+      "word": "sant\u00e9",
+      "translation": "health",
+      "pos": "noun",
+      "example": "La sant\u00e9 est importante.",
+      "exampleTranslation": "Health is important."
+    },
+    {
+      "word": "repos",
+      "translation": "rest",
+      "pos": "noun",
+      "example": "Le repos est n\u00e9cessaire.",
+      "exampleTranslation": "Rest is needed."
+    },
+    {
+      "word": "sang",
+      "translation": "blood",
+      "pos": "noun",
+      "example": "Le sang est rouge.",
+      "exampleTranslation": "Blood is red."
+    },
+    {
+      "word": "temp\u00e9rature corporelle",
+      "translation": "body temperature",
+      "pos": "noun",
+      "example": "La temp\u00e9rature corporelle est normale.",
+      "exampleTranslation": "Body temperature is normal."
+    },
+    {
+      "word": "radiographie",
+      "translation": "x-ray",
+      "pos": "noun",
+      "example": "La radiographie a \u00e9t\u00e9 faite.",
+      "exampleTranslation": "The x-ray has been taken."
+    },
+    {
+      "word": "en bonne sant\u00e9",
+      "translation": "healthy",
+      "pos": "adjective",
+      "example": "Je suis en bonne sant\u00e9.",
+      "exampleTranslation": "I am healthy."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "J'ai mal \u00e0 la t\u00eate.",
+      "translation": "I have a headache.",
+      "context": "Describing symptom"
+    },
+    {
+      "phrase": "O\u00f9 avez-vous mal ?",
+      "translation": "Where does it hurt?",
+      "context": "Doctor asking"
+    },
+    {
+      "phrase": "Prenez le m\u00e9dicament deux fois par jour.",
+      "translation": "Take the medicine twice a day.",
+      "context": "Doctor's instruction"
+    },
+    {
+      "phrase": "Venez pour un contr\u00f4le dans une semaine.",
+      "translation": "Come for a check-up in a week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "J'ai la grippe.",
+      "translation": "I have the flu.",
+      "context": "Describing illness"
+    },
+    {
+      "phrase": "J'ai besoin d'arr\u00eat maladie.",
+      "translation": "I need sick leave.",
+      "context": "Requesting sick leave"
+    },
+    {
+      "phrase": "Ce m\u00e9dicament est-il s\u00fbr ?",
+      "translation": "Is this medicine safe?",
+      "context": "Asking about medicine"
+    },
+    {
+      "phrase": "J'ai une allergie.",
+      "translation": "I have an allergy.",
+      "context": "Mentioning allergy"
+    },
+    {
+      "phrase": "Combien de temps dure le traitement ?",
+      "translation": "How long does the treatment last?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "J'ai des douleurs thoraciques.",
+      "translation": "I have pain in my chest.",
+      "context": "Describing pain"
+    },
+    {
+      "phrase": "J'ai besoin d'une ordonnance.",
+      "translation": "I need a prescription.",
+      "context": "Requesting prescription"
+    },
+    {
+      "phrase": "J'ai de l'insomnie.",
+      "translation": "I have insomnia.",
+      "context": "Describing sleep issues"
+    },
+    {
+      "phrase": "Y a-t-il d'autres options ?",
+      "translation": "Are there other options?",
+      "context": "Asking about alternatives"
+    },
+    {
+      "phrase": "J'ai de l'hypertension.",
+      "translation": "I have high blood pressure.",
+      "context": "Describing condition"
+    },
+    {
+      "phrase": "Merci pour vos conseils.",
+      "translation": "Thank you for your advice.",
+      "context": "Thanking doctor"
+    },
+    {
+      "phrase": "Je reviendrai dans un mois.",
+      "translation": "I will come again in a month.",
+      "context": "Scheduling next visit"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bonjour ! Quel est le probl\u00e8me ?",
+      "translation": "Good morning! What is the problem?"
+    },
+    {
+      "speaker": "B",
+      "text": "J'ai des maux de t\u00eate depuis un jour.",
+      "translation": "I have had a headache for a day."
+    },
+    {
+      "speaker": "A",
+      "text": "O\u00f9 avez-vous mal ?",
+      "translation": "Where does it hurt?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sur le front et \u00e0 l'arri\u00e8re de la t\u00eate.",
+      "translation": "On the forehead and back of the head."
+    },
+    {
+      "speaker": "A",
+      "text": "Y a-t-il d'autres sympt\u00f4mes ?",
+      "translation": "Are there other symptoms?"
+    },
+    {
+      "speaker": "B",
+      "text": "Oui, j'ai aussi de la fi\u00e8vre.",
+      "translation": "Yes, I also have a fever."
+    },
+    {
+      "speaker": "A",
+      "text": "Mesurons la temp\u00e9rature.",
+      "translation": "Let us measure the temperature."
+    },
+    {
+      "speaker": "B",
+      "text": "Oui, merci.",
+      "translation": "Yes, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "La temp\u00e9rature est de 38,5 degr\u00e9s. Vous avez la grippe.",
+      "translation": "The temperature is 38.5 degrees. You have the flu."
+    },
+    {
+      "speaker": "B",
+      "text": "Que dois-je faire ?",
+      "translation": "What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Reposez-vous \u00e0 la maison et buvez beaucoup d'eau.",
+      "translation": "Rest at home and drink plenty of water."
+    },
+    {
+      "speaker": "B",
+      "text": "Ai-je besoin de m\u00e9dicaments ?",
+      "translation": "Do I need medicine?"
+    },
+    {
+      "speaker": "A",
+      "text": "Oui, je vous donne une ordonnance.",
+      "translation": "Yes, I will give you a prescription."
+    },
+    {
+      "speaker": "B",
+      "text": "Merci, docteur.",
+      "translation": "Thank you, doctor."
+    },
+    {
+      "speaker": "A",
+      "text": "Revenez si \u00e7a ne s'am\u00e9liore pas.",
+      "translation": "Come back if it doesn't get better."
+    },
+    {
+      "speaker": "B",
+      "text": "Merci pour vos soins !",
+      "translation": "Thank you for your care!"
+    }
+  ]
+}

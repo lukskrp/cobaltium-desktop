@@ -1,0 +1,112 @@
+appId: org.cobaltium.desktop
+productName: Cobaltium
+copyright: Copyright © 2026 Cobaltium contributors
+
+directories:
+  buildResources: build
+
+files:
+  - '!**/.vscode/*'
+  - '!src/*'
+  - '!vendor/*'
+  - '!scripts/*'
+  - '!drizzle/*'
+  - '!resources/piper/*'
+  - '!resources/langdata/*'
+  - '!resources/kuromoji-dict/*'
+  - '!resources/espeak-ng-data/*'
+  - '!electron.vite.config.{js,ts,mjs,cjs}'
+  - '!{.eslintignore,.prettierignore,eslint.config.mjs,.prettierrc}'
+  - '!{.env,.env.*,.npmrc,pnpm-lock.yaml}'
+  - '!{tsconfig.json,tsconfig.node.json,tsconfig.web.json,drizzle.config.ts}'
+  - '!{.github,README.md,CONTRIBUTING.md}'
+  - LICENSE
+  - THIRD_PARTY_NOTICES.md
+  - NOTICE.md
+
+extraResources:
+  # GPLv3 §4-6: the license and third-party notices must accompany the binary.
+  - from: LICENSE
+    to: LICENSE
+  - from: THIRD_PARTY_NOTICES.md
+    to: THIRD_PARTY_NOTICES.md
+  - from: NOTICE.md
+    to: NOTICE.md
+  - from: drizzle
+    to: drizzle
+  - from: resources/piper
+    to: piper
+    filter:
+      - '**/*'
+  - from: resources/scenarios
+    to: scenarios
+    filter:
+      - '**/*'
+  - from: resources/langdata
+    to: langdata
+    filter:
+      - '**/*'
+  - from: resources/kuromoji-dict
+    to: kuromoji-dict
+    filter:
+      - '**/*'
+  - from: resources/tts
+    to: tts
+    filter:
+      - '**/*'
+  - from: resources/stt
+    to: stt
+    filter:
+      - '**/*'
+  - from: resources/espeak-ng-data
+    to: espeak-ng-data
+    filter:
+      - '**/*'
+
+asarUnpack:
+  - resources/**
+  - '**/*.node'
+
+npmRebuild: true
+
+fileAssociations:
+  - ext: epub
+    name: EPUB eBook
+    description: Electronic book
+    role: Viewer
+    mimeType: application/epub+zip
+
+publish:
+  - provider: github
+    owner: lukskrp
+    repo: cobaltium-desktop
+
+win:
+  executableName: Cobaltium
+  target:
+    - nsis
+
+nsis:
+  artifactName: ${name}-${version}-setup.${ext}
+  shortcutName: ${productName}
+  uninstallDisplayName: ${productName}
+  createDesktopShortcut: always
+
+mac:
+  category: public.app-category.education
+  hardenedRuntime: true
+  gatekeeperAssess: false
+  entitlements: build/entitlements.mac.plist
+  entitlementsInherit: build/entitlements.mac.plist
+  target:
+    - dmg
+    - zip
+  extendInfo:
+    NSMicrophoneUsageDescription: Optional microphone access for voice features.
+
+linux:
+  target:
+    - AppImage
+    - deb
+  category: Education
+  maintainer: Cobaltium contributors

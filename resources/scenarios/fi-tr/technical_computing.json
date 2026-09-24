@@ -1,0 +1,342 @@
+{
+  "id": "technical_computing",
+  "title": "Bilgisayar",
+  "description": "Finnish bilgisayar teknolojilerini \u00f6\u011frenme",
+  "category": "TECHNICAL",
+  "icon": "Computer",
+  "languagePair": "fi-tr",
+  "vocabulary": [
+    {
+      "word": "bilgisayar",
+      "translation": "computer",
+      "pos": "noun",
+      "example": "Tietokone on nopea.",
+      "exampleTranslation": "The computer is fast."
+    },
+    {
+      "word": "ekran",
+      "translation": "screen, display",
+      "pos": "noun",
+      "example": "N\u00e4ytt\u00f6 on suuri.",
+      "exampleTranslation": "The screen is large."
+    },
+    {
+      "word": "klavye",
+      "translation": "keyboard",
+      "pos": "noun",
+      "example": "N\u00e4pp\u00e4imist\u00f6 on wireless.",
+      "exampleTranslation": "The keyboard is wireless."
+    },
+    {
+      "word": "fare",
+      "translation": "mouse",
+      "pos": "noun",
+      "example": "Hiiri on ergonominen.",
+      "exampleTranslation": "The mouse is ergonomic."
+    },
+    {
+      "word": "dosya",
+      "translation": "file",
+      "pos": "noun",
+      "example": "Tiedosto on tallennettu.",
+      "exampleTranslation": "The file has been saved."
+    },
+    {
+      "word": "program",
+      "translation": "program, software",
+      "pos": "noun",
+      "example": "Ohjelma on asennettu.",
+      "exampleTranslation": "The program is installed."
+    },
+    {
+      "word": "veritaban\u0131",
+      "translation": "database",
+      "pos": "noun",
+      "example": "Tietokanta on suuri.",
+      "exampleTranslation": "The database is large."
+    },
+    {
+      "word": "a\u011f",
+      "translation": "network",
+      "pos": "noun",
+      "example": "Verkko on nopea.",
+      "exampleTranslation": "The network is fast."
+    },
+    {
+      "word": "palvelin",
+      "translation": "server",
+      "pos": "noun",
+      "example": "Palvelin on k\u00e4ynniss\u00e4.",
+      "exampleTranslation": "The server is running."
+    },
+    {
+      "word": "ohjelmointi",
+      "translation": "programming",
+      "pos": "noun",
+      "example": "Ohjelmointi on haastavaa.",
+      "exampleTranslation": "Programming is challenging."
+    },
+    {
+      "word": "koodi",
+      "translation": "code",
+      "pos": "noun",
+      "example": "Koodi on puhdas.",
+      "exampleTranslation": "The code is clean."
+    },
+    {
+      "word": "virhe",
+      "translation": "error, bug",
+      "pos": "noun",
+      "example": "Koodissa on virhe.",
+      "exampleTranslation": "There is a bug in the code."
+    },
+    {
+      "word": "asentaa",
+      "translation": "to install",
+      "pos": "verb",
+      "example": "Asennan ohjelman.",
+      "exampleTranslation": "I will install the program."
+    },
+    {
+      "word": "p\u00e4ivitt\u00e4\u00e4",
+      "translation": "to update",
+      "pos": "verb",
+      "example": "P\u00e4ivit\u00e4n j\u00e4rjestelm\u00e4n.",
+      "exampleTranslation": "I will update the system."
+    },
+    {
+      "word": "yhdist\u00e4\u00e4",
+      "translation": "to connect",
+      "pos": "verb",
+      "example": "Yhdist\u00e4n verkkoon.",
+      "exampleTranslation": "I connect to the network."
+    },
+    {
+      "word": "tallentaa",
+      "translation": "to save",
+      "pos": "verb",
+      "example": "Tallennan tiedoston.",
+      "exampleTranslation": "I save the file."
+    },
+    {
+      "word": "k\u00e4ynnist\u00e4\u00e4",
+      "translation": "to start, to launch",
+      "pos": "verb",
+      "example": "K\u00e4ynnist\u00e4n tietokoneen.",
+      "exampleTranslation": "I start the computer."
+    },
+    {
+      "word": "sulkea",
+      "translation": "to close",
+      "pos": "verb",
+      "example": "Suljen ohjelman.",
+      "exampleTranslation": "I close the program."
+    },
+    {
+      "word": "tuoda",
+      "translation": "to import",
+      "pos": "verb",
+      "example": "Tuon tiedoston.",
+      "exampleTranslation": "I import the file."
+    },
+    {
+      "word": "vied\u00e4",
+      "translation": "to export",
+      "pos": "verb",
+      "example": "Vienn\u00e4n tiedoston.",
+      "exampleTranslation": "I export the file."
+    },
+    {
+      "word": "yaz\u0131c\u0131",
+      "translation": "printer",
+      "pos": "noun",
+      "example": "Tulostin ei toimi.",
+      "exampleTranslation": "The printer is not working."
+    },
+    {
+      "word": "levy",
+      "translation": "disk, drive",
+      "pos": "noun",
+      "example": "Levy on t\u00e4ynn\u00e4.",
+      "exampleTranslation": "The disk is full."
+    },
+    {
+      "word": "muisti",
+      "translation": "memory, RAM",
+      "pos": "noun",
+      "example": "Muisti on riitt\u00e4v\u00e4.",
+      "exampleTranslation": "The memory is sufficient."
+    },
+    {
+      "word": "suoritin",
+      "translation": "processor, CPU",
+      "pos": "noun",
+      "example": "Suoritin on nopea.",
+      "exampleTranslation": "The processor is fast."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Tietokoneeni ei k\u00e4ynnisty.",
+      "translation": "My computer won't start.",
+      "context": "Troubleshooting"
+    },
+    {
+      "phrase": "Voinko ladata ohjelman?",
+      "translation": "Can I download the program?",
+      "context": "Asking about software"
+    },
+    {
+      "phrase": "Onko t\u00e4\u00e4ll\u00e4 Wi-Fi-yhteys?",
+      "translation": "Is there a Wi-Fi connection here?",
+      "context": "Connecting to network"
+    },
+    {
+      "phrase": "Tarvitsen IT-tukea.",
+      "translation": "I need IT support.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Kuinka p\u00e4ivit\u00e4n j\u00e4rjestelm\u00e4n?",
+      "translation": "How do I update the system?",
+      "context": "Asking for instructions"
+    },
+    {
+      "phrase": "Tiedosto on liian suuri.",
+      "translation": "The file is too large.",
+      "context": "File issues"
+    },
+    {
+      "phrase": "Voinko tallentaa pilveen?",
+      "translation": "Can I save to the cloud?",
+      "context": "Cloud storage"
+    },
+    {
+      "phrase": "Ohjelma kaatuu jatkuvasti.",
+      "translation": "The program keeps crashing.",
+      "context": "Reporting a problem"
+    },
+    {
+      "phrase": "Tarvitsen uuden salasanan.",
+      "translation": "I need a new password.",
+      "context": "Security"
+    },
+    {
+      "phrase": "Mik\u00e4 on VPN?",
+      "translation": "What is a VPN?",
+      "context": "Networking question"
+    },
+    {
+      "phrase": "Tulostin ei tulosta.",
+      "translation": "The printer won't print.",
+      "context": "Printer issues"
+    },
+    {
+      "phrase": "Voinko yhdist\u00e4\u00e4 ulkosuorittimeen?",
+      "translation": "Can I connect to an external drive?",
+      "context": "Hardware"
+    },
+    {
+      "phrase": "Koodi ei k\u00e4\u00e4nty.",
+      "translation": "The code won't compile.",
+      "context": "Programming"
+    },
+    {
+      "phrase": "Tietokantayhteys ep\u00e4onnistui.",
+      "translation": "Database connection failed.",
+      "context": "Database issues"
+    },
+    {
+      "phrase": "P\u00e4ivitys on valmis.",
+      "translation": "The update is ready.",
+      "context": "System update"
+    },
+    {
+      "phrase": "Kiitos nopeasta avusta!",
+      "translation": "Thank you for the quick help!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hei, tietokoneeni on hidastunut.",
+      "translation": "Hi, my computer has slowed down."
+    },
+    {
+      "speaker": "B",
+      "text": "Ota yhteys IT-tukeen.",
+      "translation": "Contact IT support."
+    },
+    {
+      "speaker": "A",
+      "text": "Miten voin korjata sen?",
+      "translation": "How can I fix it?"
+    },
+    {
+      "speaker": "B",
+      "text": "K\u00e4ynnist\u00e4 uudelleen ensin.",
+      "translation": "Restart it first."
+    },
+    {
+      "speaker": "A",
+      "text": "Se ei auttanut.",
+      "translation": "That didn't help."
+    },
+    {
+      "speaker": "B",
+      "text": "Tarkista levytila.",
+      "translation": "Check the disk space."
+    },
+    {
+      "speaker": "A",
+      "text": "Levy on t\u00e4ynn\u00e4.",
+      "translation": "The disk is full."
+    },
+    {
+      "speaker": "B",
+      "text": "Poista turhia tiedostoja.",
+      "translation": "Delete unnecessary files."
+    },
+    {
+      "speaker": "A",
+      "text": "Voinko k\u00e4ytt\u00e4\u00e4 ulkolaista levy\u00e4?",
+      "translation": "Can I use an external drive?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, yhdist\u00e4 USB-porttiin.",
+      "translation": "Yes, connect it to the USB port."
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos! Tietokoneeni toimii taas.",
+      "translation": "Thank you! My computer works again."
+    },
+    {
+      "speaker": "B",
+      "text": "Hienoa! Muista p\u00e4ivitt\u00e4\u00e4 j\u00e4rjestelm\u00e4.",
+      "translation": "Great! Remember to update the system."
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4, teen sen heti.",
+      "translation": "Yes, I will do it right away."
+    },
+    {
+      "speaker": "B",
+      "text": "Hyv\u00e4\u00e4 ty\u00f6skentely\u00e4!",
+      "translation": "Happy working!"
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos samoin!",
+      "translation": "Thank you, same to you!"
+    },
+    {
+      "speaker": "B",
+      "text": "Ota yhteytt\u00e4 jos tarvitset lis\u00e4\u00e4 apua.",
+      "translation": "Reach out if you need more help."
+    }
+  ]
+}

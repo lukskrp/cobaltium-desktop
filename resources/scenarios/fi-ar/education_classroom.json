@@ -1,0 +1,342 @@
+{
+  "id": "education_classroom",
+  "title": "\u0635\u0641 \u062f\u0631\u0627\u0633\u064a",
+  "description": "\u062a\u0639\u0644\u0645 \u0648\u0627\u062f\u0631\u0633 \u0641\u064a \u0627\u0644\u0635\u0641 \u0627\u0644\u062f\u0631\u0627\u0633\u064a \u0627\u0644\u0641\u0646\u0644\u0646\u062f\u064a",
+  "category": "EDUCATION",
+  "icon": "School",
+  "languagePair": "fi-ar",
+  "vocabulary": [
+    {
+      "word": "arvosana",
+      "translation": "grade",
+      "pos": "noun",
+      "example": "Arvosana on hyv\u00e4.",
+      "exampleTranslation": "The grade is good."
+    },
+    {
+      "word": "kurssi",
+      "translation": "course",
+      "pos": "noun",
+      "example": "Kurssi on mielenkiintoinen.",
+      "exampleTranslation": "The course is interesting."
+    },
+    {
+      "word": "luentoluettelo",
+      "translation": "lecture list",
+      "pos": "noun",
+      "example": "Luentoluettelo on pitk\u00e4.",
+      "exampleTranslation": "The lecture list is long."
+    },
+    {
+      "word": "lukio",
+      "translation": "high school",
+      "pos": "noun",
+      "example": "Lukio on vaativa.",
+      "exampleTranslation": "High school is demanding."
+    },
+    {
+      "word": "muistaa",
+      "translation": "to remember",
+      "pos": "verb",
+      "example": "Muistanko kaiken?",
+      "exampleTranslation": "Do I remember everything?"
+    },
+    {
+      "word": "oppilas",
+      "translation": "student",
+      "pos": "noun",
+      "example": "Oppilas on ahkera.",
+      "exampleTranslation": "The student is diligent."
+    },
+    {
+      "word": "oppitunti",
+      "translation": "lesson",
+      "pos": "noun",
+      "example": "Oppitunti alkaa kello yhdeks\u00e4n.",
+      "exampleTranslation": "The lesson starts at nine."
+    },
+    {
+      "word": "opiskella",
+      "translation": "to study",
+      "pos": "verb",
+      "example": "Opiskelen kiele\u00e4.",
+      "exampleTranslation": "I study a language."
+    },
+    {
+      "word": "oppia",
+      "translation": "to learn",
+      "pos": "verb",
+      "example": "Opetin uutta asiaa.",
+      "exampleTranslation": "I learned something new."
+    },
+    {
+      "word": "tentti",
+      "translation": "exam",
+      "pos": "noun",
+      "example": "Tentti on huomenna.",
+      "exampleTranslation": "The exam is tomorrow."
+    },
+    {
+      "word": "tutkinto",
+      "translation": "degree, qualification",
+      "pos": "noun",
+      "example": "Tutkinto on valmis.",
+      "exampleTranslation": "The degree is complete."
+    },
+    {
+      "word": "kirjoitus",
+      "translation": "writing, text",
+      "pos": "noun",
+      "example": "Kirjoitus on selv\u00e4\u00e4.",
+      "exampleTranslation": "The writing is clear."
+    },
+    {
+      "word": "opettaja",
+      "translation": "teacher",
+      "pos": "noun",
+      "example": "Opettaja on ammattilainen.",
+      "exampleTranslation": "The teacher is a professional."
+    },
+    {
+      "word": "luento",
+      "translation": "lecture",
+      "pos": "noun",
+      "example": "Luento on mielenkiintoinen.",
+      "exampleTranslation": "The lecture is interesting."
+    },
+    {
+      "word": "teht\u00e4v\u00e4",
+      "translation": "homework, assignment",
+      "pos": "noun",
+      "example": "Teht\u00e4v\u00e4 on valmis.",
+      "exampleTranslation": "The homework is done."
+    },
+    {
+      "word": "kirjasto",
+      "translation": "library",
+      "pos": "noun",
+      "example": "Kirjasto on rauhallinen.",
+      "exampleTranslation": "The library is quiet."
+    },
+    {
+      "word": "luokka",
+      "translation": "class, classroom",
+      "pos": "noun",
+      "example": "Luokka on siisti.",
+      "exampleTranslation": "The classroom is tidy."
+    },
+    {
+      "word": "koe",
+      "translation": "test, exam",
+      "pos": "noun",
+      "example": "Koe on vaikea.",
+      "exampleTranslation": "The test is difficult."
+    },
+    {
+      "word": "yll\u00e4pito",
+      "translation": "maintenance",
+      "pos": "noun",
+      "example": "Yll\u00e4pito on huolellinen.",
+      "exampleTranslation": "The maintenance is careful."
+    },
+    {
+      "word": "opintosuunnitelma",
+      "translation": "curriculum",
+      "pos": "noun",
+      "example": "Opintosuunnitelmassa on paljon kursseja.",
+      "exampleTranslation": "The curriculum has many courses."
+    },
+    {
+      "word": "oppikirja",
+      "translation": "textbook",
+      "pos": "noun",
+      "example": "Oppikirja on uusi.",
+      "exampleTranslation": "The textbook is new."
+    },
+    {
+      "word": "tarvike",
+      "translation": "supply, material",
+      "pos": "noun",
+      "example": "Tarvikkeet ovat kalliita.",
+      "exampleTranslation": "The supplies are expensive."
+    },
+    {
+      "word": "harjoitus",
+      "translation": "exercise, practice",
+      "pos": "noun",
+      "example": "Harjoitus tekee mestarin.",
+      "exampleTranslation": "Practice makes perfect."
+    },
+    {
+      "word": "ty\u00f6paja",
+      "translation": "workshop",
+      "pos": "noun",
+      "example": "Ty\u00f6paja on auki.",
+      "exampleTranslation": "The workshop is open."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Miss\u00e4 on luokka?",
+      "translation": "Where is the classroom?",
+      "context": "Finding classroom"
+    },
+    {
+      "phrase": "Mit\u00e4 me teemme t\u00e4n\u00e4\u00e4n?",
+      "translation": "What are we doing today?",
+      "context": "Asking about lesson"
+    },
+    {
+      "phrase": "En ymm\u00e4rr\u00e4.",
+      "translation": "I don't understand.",
+      "context": "Asking for clarification"
+    },
+    {
+      "phrase": "Voinko kysy\u00e4 kysymyksen?",
+      "translation": "Can I ask a question?",
+      "context": "Asking permission"
+    },
+    {
+      "phrase": "Kuinka paljon kotiteht\u00e4vi\u00e4?",
+      "translation": "How much homework?",
+      "context": "Asking about homework"
+    },
+    {
+      "phrase": "Tentti on vaikea.",
+      "translation": "The exam is difficult.",
+      "context": "Expressing difficulty"
+    },
+    {
+      "phrase": "Opin uutta t\u00e4n\u00e4\u00e4n.",
+      "translation": "I learned something new today.",
+      "context": "Expressing learning"
+    },
+    {
+      "phrase": "Tarvitsen apua.",
+      "translation": "I need help.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Onko kirjastossa hiljainen?",
+      "translation": "Is it quiet in the library?",
+      "context": "Asking about environment"
+    },
+    {
+      "phrase": "Mik\u00e4 on seuraava teht\u00e4v\u00e4?",
+      "translation": "What is the next assignment?",
+      "context": "Asking about tasks"
+    },
+    {
+      "phrase": "Minulla on kysymys.",
+      "translation": "I have a question.",
+      "context": "Starting a question"
+    },
+    {
+      "phrase": "Voinko lainata oppikirjaa?",
+      "translation": "Can I borrow the textbook?",
+      "context": "Borrowing materials"
+    },
+    {
+      "phrase": "Kurssi on mielenkiintoinen.",
+      "translation": "The course is interesting.",
+      "context": "Expressing interest"
+    },
+    {
+      "phrase": "Tarvitsen lis\u00e4\u00e4 aikaa.",
+      "translation": "I need more time.",
+      "context": "Requesting extension"
+    },
+    {
+      "phrase": "Kiitos opettajalle.",
+      "translation": "Thank you to the teacher.",
+      "context": "Expressing gratitude"
+    },
+    {
+      "phrase": "Odotan innolla seuraavaa tuntia.",
+      "translation": "I look forward to the next class.",
+      "context": "Expressing anticipation"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4\u00e4 huomenta, oppilaat!",
+      "translation": "Good morning, students!"
+    },
+    {
+      "speaker": "B",
+      "text": "Hyv\u00e4\u00e4 huomenta, opettaja!",
+      "translation": "Good morning, teacher!"
+    },
+    {
+      "speaker": "A",
+      "text": "T\u00e4n\u00e4\u00e4n jatkamme suomea.",
+      "translation": "Today we continue with Finnish."
+    },
+    {
+      "speaker": "B",
+      "text": "Hienoa! Mit\u00e4 aiheesta?",
+      "translation": "Great! About what topic?"
+    },
+    {
+      "speaker": "A",
+      "text": "K\u00e4sittelemme perusfraaseja.",
+      "translation": "We will cover basic phrases."
+    },
+    {
+      "speaker": "B",
+      "text": "Voimme harjoittaa keskustelua.",
+      "translation": "We can practice conversation."
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4. Aloita tervehdyksell\u00e4.",
+      "translation": "Yes. Start with a greeting."
+    },
+    {
+      "speaker": "B",
+      "text": "Hei! Mit\u00e4 kuuluu?",
+      "translation": "Hi! How are you?"
+    },
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4\u00e4! Kiitos kysymyksest\u00e4.",
+      "translation": "Good! Thank you for asking."
+    },
+    {
+      "speaker": "B",
+      "text": "Opin uutta sanaa t\u00e4n\u00e4\u00e4n.",
+      "translation": "I learned a new word today."
+    },
+    {
+      "speaker": "A",
+      "text": "Mik\u00e4 se on?",
+      "translation": "What is it?"
+    },
+    {
+      "speaker": "B",
+      "text": "Koulutus. Se tarkoittaa education.",
+      "translation": "Education. It means education."
+    },
+    {
+      "speaker": "A",
+      "text": "Erinomaista! Opetatko minua?",
+      "translation": "Excellent! Are you teaching me?"
+    },
+    {
+      "speaker": "B",
+      "text": "Yrit\u00e4n! Opettaja on oppinut.",
+      "translation": "I try! The teacher has learned."
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos! T\u00e4m\u00e4 on hyv\u00e4 tapa oppia.",
+      "translation": "Thank you! This is a good way to learn."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos opetuksesta!",
+      "translation": "Thank you for the teaching!"
+    }
+  ]
+}

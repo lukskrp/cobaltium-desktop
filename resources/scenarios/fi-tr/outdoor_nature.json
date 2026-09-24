@@ -1,0 +1,342 @@
+{
+  "id": "outdoor_nature",
+  "title": "Do\u011fa",
+  "description": "Finnish do\u011fas\u0131nda gezinme",
+  "category": "OUTDOOR",
+  "icon": "Forest",
+  "languagePair": "fi-tr",
+  "vocabulary": [
+    {
+      "word": "orman",
+      "translation": "forest",
+      "pos": "noun",
+      "example": "Mets\u00e4 on kaunis.",
+      "exampleTranslation": "The forest is beautiful."
+    },
+    {
+      "word": "g\u00f6l",
+      "translation": "lake",
+      "pos": "noun",
+      "example": "J\u00e4rvi on kirkas.",
+      "exampleTranslation": "The lake is clear."
+    },
+    {
+      "word": "polku",
+      "translation": "trail, path",
+      "pos": "noun",
+      "example": "Polku on pitk\u00e4.",
+      "exampleTranslation": "The trail is long."
+    },
+    {
+      "word": "retkeily",
+      "translation": "hiking",
+      "pos": "noun",
+      "example": "Retkeily on suosittua.",
+      "exampleTranslation": "Hiking is popular."
+    },
+    {
+      "word": "teltta",
+      "translation": "tent",
+      "pos": "noun",
+      "example": "Teltta on pystytetty.",
+      "exampleTranslation": "The tent is set up."
+    },
+    {
+      "word": "nuotio",
+      "translation": "campfire",
+      "pos": "noun",
+      "example": "Nuotio l\u00e4mmitt\u00e4\u00e4.",
+      "exampleTranslation": "The campfire warms."
+    },
+    {
+      "word": "suojelu",
+      "translation": "protection, shelter",
+      "pos": "noun",
+      "example": "Suojelu on t\u00e4rke\u00e4.",
+      "exampleTranslation": "Protection is important."
+    },
+    {
+      "word": "hava",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "S\u00e4\u00e4 on hyv\u00e4\u00e4.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "da\u011f",
+      "translation": "mountain, hill",
+      "pos": "noun",
+      "example": "Vuori on korkea.",
+      "exampleTranslation": "The mountain is tall."
+    },
+    {
+      "word": "nehir",
+      "translation": "river",
+      "pos": "noun",
+      "example": "Joki on nopea.",
+      "exampleTranslation": "The river is fast."
+    },
+    {
+      "word": "kivi",
+      "translation": "stone, rock",
+      "pos": "noun",
+      "example": "Kivi on suuri.",
+      "exampleTranslation": "The stone is large."
+    },
+    {
+      "word": "a\u011fa\u00e7",
+      "translation": "tree",
+      "pos": "noun",
+      "example": "Puu on vanha.",
+      "exampleTranslation": "The tree is old."
+    },
+    {
+      "word": "ku\u015f",
+      "translation": "bird",
+      "pos": "noun",
+      "example": "Lintu laulaa.",
+      "exampleTranslation": "The bird sings."
+    },
+    {
+      "word": "bal\u0131k",
+      "translation": "fish",
+      "pos": "noun",
+      "example": "Kala hypp\u00e4\u00e4 vedess\u00e4.",
+      "exampleTranslation": "The fish jumps in the water."
+    },
+    {
+      "word": "sieni",
+      "translation": "mushroom",
+      "pos": "noun",
+      "example": "Sieni kasvaa mets\u00e4ss\u00e4.",
+      "exampleTranslation": "The mushroom grows in the forest."
+    },
+    {
+      "word": "marja",
+      "translation": "berry",
+      "pos": "noun",
+      "example": "Marja on punainen.",
+      "exampleTranslation": "The berry is red."
+    },
+    {
+      "word": "kar",
+      "translation": "snow",
+      "pos": "noun",
+      "example": "Lumi on valkoista.",
+      "exampleTranslation": "The snow is white."
+    },
+    {
+      "word": "j\u00e4\u00e4",
+      "translation": "ice",
+      "pos": "noun",
+      "example": "J\u00e4\u00e4 on ohutta.",
+      "exampleTranslation": "The ice is thin."
+    },
+    {
+      "word": "g\u00fcne\u015f",
+      "translation": "sun",
+      "pos": "noun",
+      "example": "Aurinko paistaa.",
+      "exampleTranslation": "The sun shines."
+    },
+    {
+      "word": "kuu",
+      "translation": "moon",
+      "pos": "noun",
+      "example": "Kuu on t\u00e4ysikuu.",
+      "exampleTranslation": "The moon is full."
+    },
+    {
+      "word": "t\u00e4hti",
+      "translation": "star",
+      "pos": "noun",
+      "example": "T\u00e4hdet loistavat.",
+      "exampleTranslation": "The stars shine."
+    },
+    {
+      "word": "ilta",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "Ilta on kaunis.",
+      "exampleTranslation": "The evening is beautiful."
+    },
+    {
+      "word": "aamu",
+      "translation": "morning",
+      "pos": "noun",
+      "example": "Aamu on raikas.",
+      "exampleTranslation": "The morning is fresh."
+    },
+    {
+      "word": "kes\u00e4",
+      "translation": "summer",
+      "pos": "noun",
+      "example": "Kes\u00e4 on l\u00e4mmin.",
+      "exampleTranslation": "The summer is warm."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Menn\u00e4\u00e4n retkelle!",
+      "translation": "Let us go on a hike!",
+      "context": "Suggesting a hike"
+    },
+    {
+      "phrase": "Onko polku vaikea?",
+      "translation": "Is the trail difficult?",
+      "context": "Asking about difficulty"
+    },
+    {
+      "phrase": "Miss\u00e4 on l\u00e4hin j\u00e4rvi?",
+      "translation": "Where is the nearest lake?",
+      "context": "Finding a lake"
+    },
+    {
+      "phrase": "Voinko telttaa t\u00e4\u00e4ll\u00e4?",
+      "translation": "Can I camp here?",
+      "context": "Asking about camping"
+    },
+    {
+      "phrase": "Saa palaa nuotiota?",
+      "translation": "Can I have a campfire?",
+      "context": "Campfire rules"
+    },
+    {
+      "phrase": "Onko t\u00e4\u00e4ll\u00e4 rentoutumista?",
+      "translation": "Is there wilderness here?",
+      "context": "Asking about nature"
+    },
+    {
+      "phrase": "Haluaisin kalaan.",
+      "translation": "I would like to fish.",
+      "context": "Fishing"
+    },
+    {
+      "phrase": "Miss\u00e4 on retkeilyreitti?",
+      "translation": "Where is the hiking trail?",
+      "context": "Finding trails"
+    },
+    {
+      "phrase": "Kuinka pitk\u00e4 polku on?",
+      "translation": "How long is the trail?",
+      "context": "Trail length"
+    },
+    {
+      "phrase": "Onko t\u00e4\u00e4ll\u00e4 leiripaikkaa?",
+      "translation": "Is there a campsite here?",
+      "context": "Finding campsite"
+    },
+    {
+      "phrase": "Tarvitsen kartan.",
+      "translation": "I need a map.",
+      "context": "Navigation"
+    },
+    {
+      "phrase": "Saa ottaa marjoja?",
+      "translation": "Can I pick berries?",
+      "context": "Foraging"
+    },
+    {
+      "phrase": "Onko t\u00e4\u00e4ll\u00e4 vaaroja?",
+      "translation": "Are there dangers here?",
+      "context": "Safety"
+    },
+    {
+      "phrase": "Kuinka kauan kest\u00e4\u00e4?",
+      "translation": "How long does it take?",
+      "context": "Duration"
+    },
+    {
+      "phrase": "Otan ev\u00e4it\u00e4 mukaan.",
+      "translation": "I will bring snacks.",
+      "context": "Preparing"
+    },
+    {
+      "phrase": "Kiitos luonnosta!",
+      "translation": "Thank you for the nature!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hienoa s\u00e4\u00e4 t\u00e4n\u00e4\u00e4n!",
+      "translation": "Great weather today!"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4! Haluatko menn\u00e4 retkelle?",
+      "translation": "Yes! Do you want to go hiking?"
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4! Miss\u00e4 polku on?",
+      "translation": "Yes! Where is the trail?"
+    },
+    {
+      "speaker": "B",
+      "text": "Se alkaa tuolta mets\u00e4n reunasta.",
+      "translation": "It starts from the edge of the forest there."
+    },
+    {
+      "speaker": "A",
+      "text": "Hienoa! Otan teltan mukaan.",
+      "translation": "Great! I will bring the tent."
+    },
+    {
+      "speaker": "B",
+      "text": "Hyv\u00e4 idea. Meill\u00e4 on my\u00f6s nuotiokalusteet.",
+      "translation": "Good idea. We also have campfire equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "Voimmeko kalastaa j\u00e4rvell\u00e4?",
+      "translation": "Can we fish at the lake?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, tarvitset luvan.",
+      "translation": "Yes, you need a permit."
+    },
+    {
+      "speaker": "A",
+      "text": "Miss\u00e4 saan luvan?",
+      "translation": "Where can I get a permit?"
+    },
+    {
+      "speaker": "B",
+      "text": "Paikallisesta kaupasta.",
+      "translation": "From the local store."
+    },
+    {
+      "speaker": "A",
+      "text": "Onko t\u00e4\u00e4ll\u00e4 marjoja?",
+      "translation": "Are there berries here?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, mustikoita kasvaa paljon.",
+      "translation": "Yes, there are many blueberries."
+    },
+    {
+      "speaker": "A",
+      "text": "Hienoa! Otan koria mukaan.",
+      "translation": "Great! I will bring a basket."
+    },
+    {
+      "speaker": "B",
+      "text": "Muista juoda vett\u00e4.",
+      "translation": "Remember to drink water."
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos vinkist\u00e4! T\u00e4m\u00e4 on hienoa.",
+      "translation": "Thank you for the tip! This is great."
+    },
+    {
+      "speaker": "B",
+      "text": "Olemme l\u00e4hes leiripaikalla.",
+      "translation": "We are almost at the campsite."
+    }
+  ]
+}

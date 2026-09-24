@@ -1,0 +1,342 @@
+{
+  "id": "technical_computing",
+  "title": "Komputasi",
+  "description": "Membahas teknologi dan komputasi dalam bahasa Finlandia",
+  "category": "TECHNICAL",
+  "icon": "Computer",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "komputer",
+      "translation": "computer",
+      "pos": "noun",
+      "example": "Komputernya cepat.",
+      "exampleTranslation": "The computer is fast."
+    },
+    {
+      "word": "layar",
+      "translation": "screen, display",
+      "pos": "noun",
+      "example": "Layarnya besar.",
+      "exampleTranslation": "The screen is large."
+    },
+    {
+      "word": "keyboard",
+      "translation": "keyboard",
+      "pos": "noun",
+      "example": "Keyboardnya nirkabel.",
+      "exampleTranslation": "The keyboard is wireless."
+    },
+    {
+      "word": "mouse",
+      "translation": "mouse",
+      "pos": "noun",
+      "example": "Mousenya ergonomis.",
+      "exampleTranslation": "The mouse is ergonomic."
+    },
+    {
+      "word": "file",
+      "translation": "file",
+      "pos": "noun",
+      "example": "File-nya sudah tersimpan.",
+      "exampleTranslation": "The file has been saved."
+    },
+    {
+      "word": "program",
+      "translation": "program, software",
+      "pos": "noun",
+      "example": "Programnya sudah terinstal.",
+      "exampleTranslation": "The program is installed."
+    },
+    {
+      "word": "basis data",
+      "translation": "database",
+      "pos": "noun",
+      "example": "Basis datanya besar.",
+      "exampleTranslation": "The database is large."
+    },
+    {
+      "word": "jaringan",
+      "translation": "network",
+      "pos": "noun",
+      "example": "Jaringannya cepat.",
+      "exampleTranslation": "The network is fast."
+    },
+    {
+      "word": "server",
+      "translation": "server",
+      "pos": "noun",
+      "example": "Servernya sedang berjalan.",
+      "exampleTranslation": "The server is running."
+    },
+    {
+      "word": "pemrograman",
+      "translation": "programming",
+      "pos": "noun",
+      "example": "Pemrograman itu menantang.",
+      "exampleTranslation": "Programming is challenging."
+    },
+    {
+      "word": "kode",
+      "translation": "code",
+      "pos": "noun",
+      "example": "Kodenya bersih.",
+      "exampleTranslation": "The code is clean."
+    },
+    {
+      "word": "kesalahan",
+      "translation": "error, bug",
+      "pos": "noun",
+      "example": "Ada kesalahan di kode.",
+      "exampleTranslation": "There is a bug in the code."
+    },
+    {
+      "word": "menginstal",
+      "translation": "to install",
+      "pos": "verb",
+      "example": "Saya menginstal programnya.",
+      "exampleTranslation": "I will install the program."
+    },
+    {
+      "word": "memperbarui",
+      "translation": "to update",
+      "pos": "verb",
+      "example": "Saya memperbarui sistemnya.",
+      "exampleTranslation": "I will update the system."
+    },
+    {
+      "word": "menghubungkan",
+      "translation": "to connect",
+      "pos": "verb",
+      "example": "Saya menghubungkan ke jaringan.",
+      "exampleTranslation": "I connect to the network."
+    },
+    {
+      "word": "menyimpan",
+      "translation": "to save",
+      "pos": "verb",
+      "example": "Saya menyimpan file-nya.",
+      "exampleTranslation": "I save the file."
+    },
+    {
+      "word": "memulai",
+      "translation": "to start, to launch",
+      "pos": "verb",
+      "example": "Saya memulai komputernya.",
+      "exampleTranslation": "I start the computer."
+    },
+    {
+      "word": "menutup",
+      "translation": "to close",
+      "pos": "verb",
+      "example": "Saya menutup programnya.",
+      "exampleTranslation": "I close the program."
+    },
+    {
+      "word": "mengimpor",
+      "translation": "to import",
+      "pos": "verb",
+      "example": "Saya mengimpor file-nya.",
+      "exampleTranslation": "I import the file."
+    },
+    {
+      "word": "mengekspor",
+      "translation": "to export",
+      "pos": "verb",
+      "example": "Saya mengekspor file-nya.",
+      "exampleTranslation": "I export the file."
+    },
+    {
+      "word": "printer",
+      "translation": "printer",
+      "pos": "noun",
+      "example": "Printer tidak berfungsi.",
+      "exampleTranslation": "The printer is not working."
+    },
+    {
+      "word": "disk",
+      "translation": "disk, drive",
+      "pos": "noun",
+      "example": "Disknya penuh.",
+      "exampleTranslation": "The disk is full."
+    },
+    {
+      "word": "memori",
+      "translation": "memory, RAM",
+      "pos": "noun",
+      "example": "Memorinya cukup.",
+      "exampleTranslation": "The memory is sufficient."
+    },
+    {
+      "word": "prosesor",
+      "translation": "processor, CPU",
+      "pos": "noun",
+      "example": "Prosesornya cepat.",
+      "exampleTranslation": "The processor is fast."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Komputer saya tidak menyala.",
+      "translation": "My computer won't start.",
+      "context": "Troubleshooting"
+    },
+    {
+      "phrase": "Bisakah saya mengunduh programnya?",
+      "translation": "Can I download the program?",
+      "context": "Asking about software"
+    },
+    {
+      "phrase": "Apakah ada koneksi Wi-Fi di sini?",
+      "translation": "Is there a Wi-Fi connection here?",
+      "context": "Connecting to network"
+    },
+    {
+      "phrase": "Saya butuh dukungan IT.",
+      "translation": "I need IT support.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Bagaimana cara memperbarui sistemnya?",
+      "translation": "How do I update the system?",
+      "context": "Asking for instructions"
+    },
+    {
+      "phrase": "File-nya terlalu besar.",
+      "translation": "The file is too large.",
+      "context": "File issues"
+    },
+    {
+      "phrase": "Bisakah saya menyimpan ke cloud?",
+      "translation": "Can I save to the cloud?",
+      "context": "Cloud storage"
+    },
+    {
+      "phrase": "Programnya terus crash.",
+      "translation": "The program keeps crashing.",
+      "context": "Reporting a problem"
+    },
+    {
+      "phrase": "Saya butuh kata sandi baru.",
+      "translation": "I need a new password.",
+      "context": "Security"
+    },
+    {
+      "phrase": "Apa itu VPN?",
+      "translation": "What is a VPN?",
+      "context": "Networking question"
+    },
+    {
+      "phrase": "Printer tidak mau mencetak.",
+      "translation": "The printer won't print.",
+      "context": "Printer issues"
+    },
+    {
+      "phrase": "Bisakah saya menghubungkan ke hardisk eksternal?",
+      "translation": "Can I connect to an external drive?",
+      "context": "Hardware"
+    },
+    {
+      "phrase": "Kodenya tidak mau compile.",
+      "translation": "The code won't compile.",
+      "context": "Programming"
+    },
+    {
+      "phrase": "Koneksi basis data gagal.",
+      "translation": "Database connection failed.",
+      "context": "Database issues"
+    },
+    {
+      "phrase": "Pembaruan selesai.",
+      "translation": "The update is ready.",
+      "context": "System update"
+    },
+    {
+      "phrase": "Terima kasih atas bantuannya yang cepat!",
+      "translation": "Thank you for the quick help!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Hai, komputer saya sudah melambat.",
+      "translation": "Hi, my computer has slowed down."
+    },
+    {
+      "speaker": "B",
+      "text": "Hubungi dukungan IT.",
+      "translation": "Contact IT support."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagaimana cara memperbaikinya?",
+      "translation": "How can I fix it?"
+    },
+    {
+      "speaker": "B",
+      "text": "Mulai ulang terlebih dahulu.",
+      "translation": "Restart it first."
+    },
+    {
+      "speaker": "A",
+      "text": "Itu tidak membantu.",
+      "translation": "That didn't help."
+    },
+    {
+      "speaker": "B",
+      "text": "Periksa ruang disknya.",
+      "translation": "Check the disk space."
+    },
+    {
+      "speaker": "A",
+      "text": "Disknya penuh.",
+      "translation": "The disk is full."
+    },
+    {
+      "speaker": "B",
+      "text": "Hapus file yang tidak perlu.",
+      "translation": "Delete unnecessary files."
+    },
+    {
+      "speaker": "A",
+      "text": "Bisakah saya menggunakan hardisk eksternal?",
+      "translation": "Can I use an external drive?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, hubungkan ke port USB.",
+      "translation": "Yes, connect it to the USB port."
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih! Komputer saya berfungsi lagi.",
+      "translation": "Thank you! My computer works again."
+    },
+    {
+      "speaker": "B",
+      "text": "Bagus! Jangan lupa memperbarui sistem.",
+      "translation": "Great! Remember to update the system."
+    },
+    {
+      "speaker": "A",
+      "text": "Ya, saya lakukan sekarang.",
+      "translation": "Yes, I will do it right away."
+    },
+    {
+      "speaker": "B",
+      "text": "Selamat bekerja!",
+      "translation": "Happy working!"
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih kembali!",
+      "translation": "Thank you, same to you!"
+    },
+    {
+      "speaker": "B",
+      "text": "Hubungi jika kamu butuh bantuan lebih.",
+      "translation": "Reach out if you need more help."
+    }
+  ]
+}

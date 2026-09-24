@@ -1,0 +1,342 @@
+{
+  "id": "emergency_safety",
+  "title": "Seguran\u00e7a",
+  "description": "Lidar com emerg\u00eancias e falar de seguran\u00e7a em finland\u00eas",
+  "category": "EMERGENCY",
+  "icon": "Emergency",
+  "languagePair": "fi-pt-br",
+  "vocabulary": [
+    {
+      "word": "emerg\u00eancia",
+      "translation": "emergency",
+      "pos": "noun",
+      "example": "Isto \u00e9 uma emerg\u00eancia.",
+      "exampleTranslation": "This is an emergency."
+    },
+    {
+      "word": "inc\u00eandio",
+      "translation": "fire",
+      "pos": "noun",
+      "example": "O inc\u00eandio \u00e9 grande.",
+      "exampleTranslation": "The fire is large."
+    },
+    {
+      "word": "ambul\u00e2ncia",
+      "translation": "ambulance",
+      "pos": "noun",
+      "example": "A ambul\u00e2ncia est\u00e1 vindo.",
+      "exampleTranslation": "The ambulance is coming."
+    },
+    {
+      "word": "pol\u00edcia",
+      "translation": "police",
+      "pos": "noun",
+      "example": "A pol\u00edcia est\u00e1 no local.",
+      "exampleTranslation": "The police are on the scene."
+    },
+    {
+      "word": "les\u00e3o",
+      "translation": "injury",
+      "pos": "noun",
+      "example": "A les\u00e3o \u00e9 grave.",
+      "exampleTranslation": "The injury is serious."
+    },
+    {
+      "word": "primeiros socorros",
+      "translation": "first aid",
+      "pos": "noun",
+      "example": "Os primeiros socorros s\u00e3o importantes.",
+      "exampleTranslation": "First aid is important."
+    },
+    {
+      "word": "seguran\u00e7a",
+      "translation": "safety",
+      "pos": "noun",
+      "example": "Seguran\u00e7a primeiro.",
+      "exampleTranslation": "Safety first."
+    },
+    {
+      "word": "perigo",
+      "translation": "danger",
+      "pos": "noun",
+      "example": "O perigo est\u00e1 perto.",
+      "exampleTranslation": "The danger is near."
+    },
+    {
+      "word": "aviso",
+      "translation": "warning",
+      "pos": "noun",
+      "example": "O aviso \u00e9 importante.",
+      "exampleTranslation": "The warning is important."
+    },
+    {
+      "word": "acidente",
+      "translation": "accident",
+      "pos": "noun",
+      "example": "O acidente aconteceu.",
+      "exampleTranslation": "The accident happened."
+    },
+    {
+      "word": "central de emerg\u00eancias",
+      "translation": "emergency center",
+      "pos": "noun",
+      "example": "Ligue para a central de emerg\u00eancias.",
+      "exampleTranslation": "Call the emergency center."
+    },
+    {
+      "word": "extintor",
+      "translation": "fire extinguisher",
+      "pos": "noun",
+      "example": "O extintor est\u00e1 l\u00e1.",
+      "exampleTranslation": "The fire extinguisher is there."
+    },
+    {
+      "word": "resgate",
+      "translation": "rescue, salvation",
+      "pos": "noun",
+      "example": "O resgate est\u00e1 vindo.",
+      "exampleTranslation": "Rescue is coming."
+    },
+    {
+      "word": "doen\u00e7a",
+      "translation": "illness, disease",
+      "pos": "noun",
+      "example": "A doen\u00e7a \u00e9 leve.",
+      "exampleTranslation": "The illness is mild."
+    },
+    {
+      "word": "m\u00e9dico",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "O m\u00e9dico \u00e9 profissional.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "hospital",
+      "translation": "hospital",
+      "pos": "noun",
+      "example": "O hospital est\u00e1 perto.",
+      "exampleTranslation": "The hospital is near."
+    },
+    {
+      "word": "paciente",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "O paciente est\u00e1 esperando.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "se machucar",
+      "translation": "to get injured",
+      "pos": "verb",
+      "example": "Ele se machucou.",
+      "exampleTranslation": "He got injured."
+    },
+    {
+      "word": "apagar",
+      "translation": "to extinguish",
+      "pos": "verb",
+      "example": "Apagamos o inc\u00eandio.",
+      "exampleTranslation": "We extinguish the fire."
+    },
+    {
+      "word": "ligar",
+      "translation": "to call, to phone",
+      "pos": "verb",
+      "example": "Ligue 112.",
+      "exampleTranslation": "Call 112."
+    },
+    {
+      "word": "ajudar",
+      "translation": "to help",
+      "pos": "verb",
+      "example": "Te ajudo.",
+      "exampleTranslation": "I help you."
+    },
+    {
+      "word": "salvar",
+      "translation": "to rescue, to save",
+      "pos": "verb",
+      "example": "Salvamos eles.",
+      "exampleTranslation": "We rescue them."
+    },
+    {
+      "word": "tomar cuidado",
+      "translation": "to beware, to watch out",
+      "pos": "verb",
+      "example": "Cuidado com o carro!",
+      "exampleTranslation": "Watch out for the car!"
+    },
+    {
+      "word": "proteger",
+      "translation": "to protect",
+      "pos": "verb",
+      "example": "Se protejam.",
+      "exampleTranslation": "Protect yourselves."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Ligue 112 imediatamente!",
+      "translation": "Call 112 immediately!",
+      "context": "Emergency call"
+    },
+    {
+      "phrase": "Preciso de primeiros socorros.",
+      "translation": "I need first aid.",
+      "context": "Medical emergency"
+    },
+    {
+      "phrase": "Onde \u00e9 o hospital?",
+      "translation": "Where is the hospital?",
+      "context": "Finding hospital"
+    },
+    {
+      "phrase": "Algu\u00e9m se machucou?",
+      "translation": "Has anyone been injured?",
+      "context": "Checking injuries"
+    },
+    {
+      "phrase": "\u00a1Socorro!",
+      "translation": "Help!",
+      "context": "Calling for help"
+    },
+    {
+      "phrase": "Tem inc\u00eandio.",
+      "translation": "There is a fire.",
+      "context": "Reporting fire"
+    },
+    {
+      "phrase": "Preciso da pol\u00edcia.",
+      "translation": "I need the police.",
+      "context": "Requesting police"
+    },
+    {
+      "phrase": "Onde \u00e9 o extintor?",
+      "translation": "Where is the fire extinguisher?",
+      "context": "Fire safety"
+    },
+    {
+      "phrase": "Cuidado, n\u00e3o v\u00e1 l\u00e1!",
+      "translation": "Watch out, don't go there!",
+      "context": "Warning"
+    },
+    {
+      "phrase": "\u00c9 seguro aqui?",
+      "translation": "Is it safe here?",
+      "context": "Safety check"
+    },
+    {
+      "phrase": "Preciso de ajuda.",
+      "translation": "I need help.",
+      "context": "General help"
+    },
+    {
+      "phrase": "Quem sabe primeiros socorros?",
+      "translation": "Who knows first aid?",
+      "context": "Medical help"
+    },
+    {
+      "phrase": "Para qual hospital vamos?",
+      "translation": "Which hospital do we go to?",
+      "context": "Hospital direction"
+    },
+    {
+      "phrase": "Entre em contato com a central de emerg\u00eancias.",
+      "translation": "Contact the emergency center.",
+      "context": "Emergency contact"
+    },
+    {
+      "phrase": "Tem um acidente aqui.",
+      "translation": "There is an accident here.",
+      "context": "Reporting accident"
+    },
+    {
+      "phrase": "Obrigado pela ajuda r\u00e1pida!",
+      "translation": "Thank you for the quick help!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "\u00a1Emerg\u00eancia! \u00a1Ligue 112!",
+      "translation": "Emergency! Call 112!"
+    },
+    {
+      "speaker": "B",
+      "text": "O que aconteceu?",
+      "translation": "What happened?"
+    },
+    {
+      "speaker": "A",
+      "text": "Algu\u00e9m se machucou.",
+      "translation": "Someone got injured."
+    },
+    {
+      "speaker": "B",
+      "text": "Vou chamar uma ambul\u00e2ncia.",
+      "translation": "I will call an ambulance."
+    },
+    {
+      "speaker": "A",
+      "text": "Obrigado! Ele tem primeiros socorros?",
+      "translation": "Thank you! Does he have first aid?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sim, sei primeiros socorros.",
+      "translation": "Yes, I know first aid."
+    },
+    {
+      "speaker": "A",
+      "text": "\u00a1Genial! Ajude ele.",
+      "translation": "Great! Help him."
+    },
+    {
+      "speaker": "B",
+      "text": "Vou coloc\u00e1-lo para descansar.",
+      "translation": "I will lay him down to rest."
+    },
+    {
+      "speaker": "A",
+      "text": "A ambul\u00e2ncia est\u00e1 vindo.",
+      "translation": "The ambulance is coming."
+    },
+    {
+      "speaker": "B",
+      "text": "Bom. Fique de olho nele.",
+      "translation": "Good. Keep an eye on him."
+    },
+    {
+      "speaker": "A",
+      "text": "Tem inc\u00eandio por perto?",
+      "translation": "Is there a fire nearby?"
+    },
+    {
+      "speaker": "B",
+      "text": "N\u00e3o, mas cuidado com o recipiente quente.",
+      "translation": "No, but watch out for the hot container."
+    },
+    {
+      "speaker": "A",
+      "text": "Obrigado pelo aviso.",
+      "translation": "Thank you for the warning."
+    },
+    {
+      "speaker": "B",
+      "text": "Seguran\u00e7a primeiro.",
+      "translation": "Safety first."
+    },
+    {
+      "speaker": "A",
+      "text": "A ambul\u00e2ncia chegou.",
+      "translation": "The ambulance has arrived."
+    },
+    {
+      "speaker": "B",
+      "text": "\u00a1Genial! Ele est\u00e1 seguro.",
+      "translation": "Great! He is safe."
+    }
+  ]
+}

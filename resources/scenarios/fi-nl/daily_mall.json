@@ -1,0 +1,342 @@
+{
+  "id": "daily_mall",
+  "title": "Centrum",
+  "description": "In het winkelcentrum",
+  "category": "HOME",
+  "icon": "ShoppingCart",
+  "languagePair": "fi-nl",
+  "vocabulary": [
+    {
+      "word": "asiakas",
+      "translation": "customer",
+      "pos": "noun",
+      "example": "Asiakas on tyytyv\u00e4inen.",
+      "exampleTranslation": "The customer is satisfied."
+    },
+    {
+      "word": "prijs",
+      "translation": "price",
+      "pos": "noun",
+      "example": "Hinta on kohtuullinen.",
+      "exampleTranslation": "The price is reasonable."
+    },
+    {
+      "word": "winkel",
+      "translation": "store, shop",
+      "pos": "noun",
+      "example": "Kauppa on auki kahdeksasta.",
+      "exampleTranslation": "The store is open from eight."
+    },
+    {
+      "word": "kierr\u00e4tys",
+      "translation": "recycling",
+      "pos": "noun",
+      "example": "Kierr\u00e4tys on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Recycling is important."
+    },
+    {
+      "word": "koira",
+      "translation": "dog",
+      "pos": "noun",
+      "example": "Koira on ulkona.",
+      "exampleTranslation": "The dog is outside."
+    },
+    {
+      "word": "verkoper",
+      "translation": "salesperson",
+      "pos": "noun",
+      "example": "Myyj\u00e4 on auttavainen.",
+      "exampleTranslation": "The salesperson is helpful."
+    },
+    {
+      "word": "ostaa",
+      "translation": "to buy",
+      "pos": "verb",
+      "example": "Haluan ostaa t\u00e4m\u00e4n.",
+      "exampleTranslation": "I want to buy this."
+    },
+    {
+      "word": "winkelen",
+      "translation": "purchase, shopping",
+      "pos": "noun",
+      "example": "Ostos on valmis.",
+      "exampleTranslation": "The purchase is done."
+    },
+    {
+      "word": "palauttaa",
+      "translation": "to return, to give back",
+      "pos": "verb",
+      "example": "Haluaisin palauttaa tuotteen.",
+      "exampleTranslation": "I would like to return the product."
+    },
+    {
+      "word": "p\u00e4\u00e4",
+      "translation": "head",
+      "pos": "noun",
+      "example": "P\u00e4\u00e4 s\u00e4rkee.",
+      "exampleTranslation": "My head hurts."
+    },
+    {
+      "word": "ranta",
+      "translation": "shore, beach",
+      "pos": "noun",
+      "example": "Ranta on kaunis.",
+      "exampleTranslation": "The shore is beautiful."
+    },
+    {
+      "word": "tavarat",
+      "translation": "goods, items",
+      "pos": "noun",
+      "example": "Tavarat ovat laadukkaita.",
+      "exampleTranslation": "The goods are high quality."
+    },
+    {
+      "word": "kassalle",
+      "translation": "to the checkout",
+      "pos": "noun",
+      "example": "Menn\u00e4\u00e4n kassalle.",
+      "exampleTranslation": "Let us go to the checkout."
+    },
+    {
+      "word": "aanbieding",
+      "translation": "offer, deal",
+      "pos": "noun",
+      "example": "Tarjous on hyv\u00e4.",
+      "exampleTranslation": "The offer is good."
+    },
+    {
+      "word": "koko",
+      "translation": "size",
+      "pos": "noun",
+      "example": "Mik\u00e4 koko?",
+      "exampleTranslation": "What size?"
+    },
+    {
+      "word": "v\u00e4ri",
+      "translation": "color",
+      "pos": "noun",
+      "example": "Mik\u00e4 v\u00e4ri?",
+      "exampleTranslation": "What color?"
+    },
+    {
+      "word": "procent",
+      "translation": "percent",
+      "pos": "noun",
+      "example": "Alennus on kymmenen prosenttia.",
+      "exampleTranslation": "The discount is ten percent."
+    },
+    {
+      "word": "kassap\u00e4\u00e4te",
+      "translation": "card terminal",
+      "pos": "noun",
+      "example": "Kassap\u00e4\u00e4te ei toimi.",
+      "exampleTranslation": "The card terminal is not working."
+    },
+    {
+      "word": "tasku",
+      "translation": "pocket",
+      "pos": "noun",
+      "example": "Avaimet ovat taskussa.",
+      "exampleTranslation": "The keys are in the pocket."
+    },
+    {
+      "word": "lompakko",
+      "translation": "wallet",
+      "pos": "noun",
+      "example": "Lompakko on t\u00e4ynn\u00e4 kortteja.",
+      "exampleTranslation": "The wallet is full of cards."
+    },
+    {
+      "word": "hylly",
+      "translation": "shelf",
+      "pos": "noun",
+      "example": "Tuote on hyllyss\u00e4.",
+      "exampleTranslation": "The product is on the shelf."
+    },
+    {
+      "word": "kori",
+      "translation": "basket, cart",
+      "pos": "noun",
+      "example": "Ota kori.",
+      "exampleTranslation": "Take a basket."
+    },
+    {
+      "word": "mrki",
+      "translation": "brand",
+      "pos": "noun",
+      "example": "Mik\u00e4 merkki?",
+      "exampleTranslation": "What brand?"
+    },
+    {
+      "word": "palautusoikeus",
+      "translation": "right of return",
+      "pos": "noun",
+      "example": "Palautusoikeus on 30 p\u00e4iv\u00e4\u00e4.",
+      "exampleTranslation": "The right of return is 30 days."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Miss\u00e4 on kassa?",
+      "translation": "Where is the checkout?",
+      "context": "Finding checkout"
+    },
+    {
+      "phrase": "Voinko ostaa t\u00e4m\u00e4n?",
+      "translation": "Can I buy this?",
+      "context": "Confirming purchase"
+    },
+    {
+      "phrase": "Is er korting?",
+      "translation": "Is there a discount?",
+      "context": "Asking about discounts"
+    },
+    {
+      "phrase": "Haluaisin palauttaa tuotteen.",
+      "translation": "I would like to return the product.",
+      "context": "Returning an item"
+    },
+    {
+      "phrase": "Mik\u00e4 on hinta?",
+      "translation": "What is the price?",
+      "context": "Asking price"
+    },
+    {
+      "phrase": "Voinko maksaa kortilla?",
+      "translation": "Can I pay by card?",
+      "context": "Payment method"
+    },
+    {
+      "phrase": "Onko t\u00e4m\u00e4 viimeinen kappale?",
+      "translation": "Is this the last one?",
+      "context": "Checking stock"
+    },
+    {
+      "phrase": "Tarvitsen isompaa kokoa.",
+      "translation": "I need a larger size.",
+      "context": "Changing size"
+    },
+    {
+      "phrase": "Onko t\u00e4m\u00e4 tuote saatavilla?",
+      "translation": "Is this product available?",
+      "context": "Checking availability"
+    },
+    {
+      "phrase": "Voinko n\u00e4hd\u00e4 toista vaihtoehtoa?",
+      "translation": "Can I see another option?",
+      "context": "Asking for alternatives"
+    },
+    {
+      "phrase": "Kiitos, en tarvitse kassia.",
+      "translation": "Thank you, I don't need a bag.",
+      "context": "Declining bag"
+    },
+    {
+      "phrase": "T\u00e4m\u00e4 on lahja.",
+      "translation": "This is a gift.",
+      "context": "Gift wrapping"
+    },
+    {
+      "phrase": "Onko yritysasiakasalennusta?",
+      "translation": "Is there a business customer discount?",
+      "context": "Business discount"
+    },
+    {
+      "phrase": "Kuinka pitk\u00e4\u00e4n palautusoikeus kest\u00e4\u00e4?",
+      "translation": "How long does the return right last?",
+      "context": "Return policy"
+    },
+    {
+      "phrase": "T\u00e4m\u00e4 oli hyv\u00e4 ostos.",
+      "translation": "This was a good purchase.",
+      "context": "Expressing satisfaction"
+    },
+    {
+      "phrase": "Kiitos avustasi!",
+      "translation": "Thank you for your help!",
+      "context": "Thanking staff"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Tervetuloa kauppaan!",
+      "translation": "Welcome to the store!"
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos. Etsin uutta paitaa.",
+      "translation": "Thank you. I'm looking for a new shirt."
+    },
+    {
+      "speaker": "A",
+      "text": "Millaista etsit?",
+      "translation": "What kind are you looking for?"
+    },
+    {
+      "speaker": "B",
+      "text": "Sinist\u00e4, kokoa M.",
+      "translation": "Blue, size M."
+    },
+    {
+      "speaker": "A",
+      "text": "T\u00e4ss\u00e4 on muutama vaihtoehto.",
+      "translation": "Here are a few options."
+    },
+    {
+      "speaker": "B",
+      "text": "Hienoa! Mik\u00e4 on hinta?",
+      "translation": "Great! What is the price?"
+    },
+    {
+      "speaker": "A",
+      "text": "Hinta on kolmekymment\u00e4 euroa.",
+      "translation": "The price is thirty euros."
+    },
+    {
+      "speaker": "B",
+      "text": "Onko alennusta?",
+      "translation": "Is there a discount?"
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4, t\u00e4n\u00e4\u00e4n on kymmenen prosentin alennus.",
+      "translation": "Yes, today there is a ten percent discount."
+    },
+    {
+      "speaker": "B",
+      "text": "Upeaa! Otan t\u00e4m\u00e4n.",
+      "translation": "Wonderful! I'll take this."
+    },
+    {
+      "speaker": "A",
+      "text": "Haluatko kassin?",
+      "translation": "Do you want a bag?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ei kiitos, omat pussit riitt\u00e4v\u00e4t.",
+      "translation": "No thanks, my own bags are enough."
+    },
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4! Kiitos ostoksestasi.",
+      "translation": "Good! Thank you for your purchase."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos! Hyv\u00e4\u00e4 p\u00e4iv\u00e4njatkoa.",
+      "translation": "Thank you! Have a good day."
+    },
+    {
+      "speaker": "A",
+      "text": "Sinullekin! Tervetuloa uudelleen.",
+      "translation": "You too! Welcome back."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos, tulen varmasti.",
+      "translation": "Thank you, I will definitely come."
+    }
+  ]
+}

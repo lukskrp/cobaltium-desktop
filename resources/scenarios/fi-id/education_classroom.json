@@ -1,0 +1,342 @@
+{
+  "id": "education_classroom",
+  "title": "Ruang Kelas",
+  "description": "Belajar dan belajar di ruang kelas Finlandia",
+  "category": "EDUCATION",
+  "icon": "School",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "nilai",
+      "translation": "grade",
+      "pos": "noun",
+      "example": "Nilainya bagus.",
+      "exampleTranslation": "The grade is good."
+    },
+    {
+      "word": "kursus",
+      "translation": "course",
+      "pos": "noun",
+      "example": "Kursusnya menarik.",
+      "exampleTranslation": "The course is interesting."
+    },
+    {
+      "word": "daftar kuliah",
+      "translation": "lecture list",
+      "pos": "noun",
+      "example": "Daftar kuliahnya panjang.",
+      "exampleTranslation": "The lecture list is long."
+    },
+    {
+      "word": "sekolah menengah",
+      "translation": "high school",
+      "pos": "noun",
+      "example": "Sekolah menengahnya menantang.",
+      "exampleTranslation": "High school is demanding."
+    },
+    {
+      "word": "mengingat",
+      "translation": "to remember",
+      "pos": "verb",
+      "example": "Apakah saya mengingat semuanya?",
+      "exampleTranslation": "Do I remember everything?"
+    },
+    {
+      "word": "murid",
+      "translation": "student",
+      "pos": "noun",
+      "example": "Muridnya rajin.",
+      "exampleTranslation": "The student is diligent."
+    },
+    {
+      "word": "jam pelajaran",
+      "translation": "lesson",
+      "pos": "noun",
+      "example": "Jam pelajaran dimulai pukul sembilan.",
+      "exampleTranslation": "The lesson starts at nine."
+    },
+    {
+      "word": "belajar",
+      "translation": "to study",
+      "pos": "verb",
+      "example": "Opiskelen kiele\u00e4.",
+      "exampleTranslation": "I study a language."
+    },
+    {
+      "word": "memahami",
+      "translation": "to learn",
+      "pos": "verb",
+      "example": "Saya memahami hal baru.",
+      "exampleTranslation": "I learned something new."
+    },
+    {
+      "word": "ujian",
+      "translation": "exam",
+      "pos": "noun",
+      "example": "Ujiannya besok.",
+      "exampleTranslation": "The exam is tomorrow."
+    },
+    {
+      "word": "gelar",
+      "translation": "degree, qualification",
+      "pos": "noun",
+      "example": "Gelarnya selesai.",
+      "exampleTranslation": "The degree is complete."
+    },
+    {
+      "word": "tulisan",
+      "translation": "writing, text",
+      "pos": "noun",
+      "example": "Tulisannya jelas.",
+      "exampleTranslation": "The writing is clear."
+    },
+    {
+      "word": "guru",
+      "translation": "teacher",
+      "pos": "noun",
+      "example": "Gurunya profesional.",
+      "exampleTranslation": "The teacher is a professional."
+    },
+    {
+      "word": "kuliah",
+      "translation": "lecture",
+      "pos": "noun",
+      "example": "Kuliahnya menarik.",
+      "exampleTranslation": "The lecture is interesting."
+    },
+    {
+      "word": "pekerjaan rumah",
+      "translation": "homework, assignment",
+      "pos": "noun",
+      "example": "Pekerjaan rumahnya selesai.",
+      "exampleTranslation": "The homework is done."
+    },
+    {
+      "word": "perpustakaan",
+      "translation": "library",
+      "pos": "noun",
+      "example": "Perpustakaannya tenang.",
+      "exampleTranslation": "The library is quiet."
+    },
+    {
+      "word": "kelas",
+      "translation": "class, classroom",
+      "pos": "noun",
+      "example": "Kelasnya rapi.",
+      "exampleTranslation": "The classroom is tidy."
+    },
+    {
+      "word": "tes",
+      "translation": "test, exam",
+      "pos": "noun",
+      "example": "Tesnya sulit.",
+      "exampleTranslation": "The test is difficult."
+    },
+    {
+      "word": "pemeliharaan",
+      "translation": "maintenance",
+      "pos": "noun",
+      "example": "Pemeliharaannya teliti.",
+      "exampleTranslation": "The maintenance is careful."
+    },
+    {
+      "word": "kurikulum",
+      "translation": "curriculum",
+      "pos": "noun",
+      "example": "Di kurikulum banyak kursus.",
+      "exampleTranslation": "The curriculum has many courses."
+    },
+    {
+      "word": "buku teks",
+      "translation": "textbook",
+      "pos": "noun",
+      "example": "Buku teksnya baru.",
+      "exampleTranslation": "The textbook is new."
+    },
+    {
+      "word": "perlengkapan",
+      "translation": "supply, material",
+      "pos": "noun",
+      "example": "Perlengkapannya mahal.",
+      "exampleTranslation": "The supplies are expensive."
+    },
+    {
+      "word": "latihan",
+      "translation": "exercise, practice",
+      "pos": "noun",
+      "example": "Latihan membuat sempurna.",
+      "exampleTranslation": "Practice makes perfect."
+    },
+    {
+      "word": "bengkel",
+      "translation": "workshop",
+      "pos": "noun",
+      "example": "Bengkelnya buka.",
+      "exampleTranslation": "The workshop is open."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Dimana kelasnya?",
+      "translation": "Where is the classroom?",
+      "context": "Finding classroom"
+    },
+    {
+      "phrase": "Hari ini kita melakukan apa?",
+      "translation": "What are we doing today?",
+      "context": "Asking about lesson"
+    },
+    {
+      "phrase": "Saya tidak mengerti.",
+      "translation": "I don't understand.",
+      "context": "Asking for clarification"
+    },
+    {
+      "phrase": "Bisakah saya bertanya?",
+      "translation": "Can I ask a question?",
+      "context": "Asking permission"
+    },
+    {
+      "phrase": "Berapa banyak PR-nya?",
+      "translation": "How much homework?",
+      "context": "Asking about homework"
+    },
+    {
+      "phrase": "Ujiannya sulit.",
+      "translation": "The exam is difficult.",
+      "context": "Expressing difficulty"
+    },
+    {
+      "phrase": "Hari ini saya memahami hal baru.",
+      "translation": "I learned something new today.",
+      "context": "Expressing learning"
+    },
+    {
+      "phrase": "Saya butuh bantuan.",
+      "translation": "I need help.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Apakah di perpustakaan tenang?",
+      "translation": "Is it quiet in the library?",
+      "context": "Asking about environment"
+    },
+    {
+      "phrase": "Apa tugas berikutnya?",
+      "translation": "What is the next assignment?",
+      "context": "Asking about tasks"
+    },
+    {
+      "phrase": "Saya punya pertanyaan.",
+      "translation": "I have a question.",
+      "context": "Starting a question"
+    },
+    {
+      "phrase": "Bisakah saya meminjam buku teks?",
+      "translation": "Can I borrow the textbook?",
+      "context": "Borrowing materials"
+    },
+    {
+      "phrase": "Kursusnya menarik.",
+      "translation": "The course is interesting.",
+      "context": "Expressing interest"
+    },
+    {
+      "phrase": "Saya butuh waktu lebih.",
+      "translation": "I need more time.",
+      "context": "Requesting extension"
+    },
+    {
+      "phrase": "Terima kasih untuk guru.",
+      "translation": "Thank you to the teacher.",
+      "context": "Expressing gratitude"
+    },
+    {
+      "phrase": "Saya menantikan jam pelajaran berikutnya.",
+      "translation": "I look forward to the next class.",
+      "context": "Expressing anticipation"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Selamat pagi, murid-murid!",
+      "translation": "Good morning, students!"
+    },
+    {
+      "speaker": "B",
+      "text": "Selamat pagi, pak guru!",
+      "translation": "Good morning, teacher!"
+    },
+    {
+      "speaker": "A",
+      "text": "Hari ini kita melanjutkan bahasa Finlandia.",
+      "translation": "Today we continue with Finnish."
+    },
+    {
+      "speaker": "B",
+      "text": "Bagus! Tentang topik apa?",
+      "translation": "Great! About what topic?"
+    },
+    {
+      "speaker": "A",
+      "text": "Kita membahas frasa-frasa dasar.",
+      "translation": "We will cover basic phrases."
+    },
+    {
+      "speaker": "B",
+      "text": "Kita bisa berlatih percakapan.",
+      "translation": "We can practice conversation."
+    },
+    {
+      "speaker": "A",
+      "text": "Ya. Mulai dengan salam.",
+      "translation": "Yes. Start with a greeting."
+    },
+    {
+      "speaker": "B",
+      "text": "Hai! Apa kabar?",
+      "translation": "Hi! How are you?"
+    },
+    {
+      "speaker": "A",
+      "text": "Baik! Terima kasih atas pertanyaannya.",
+      "translation": "Good! Thank you for asking."
+    },
+    {
+      "speaker": "B",
+      "text": "Hari ini saya memahami kata baru.",
+      "translation": "I learned a new word today."
+    },
+    {
+      "speaker": "A",
+      "text": "Apa itu?",
+      "translation": "What is it?"
+    },
+    {
+      "speaker": "B",
+      "text": "Pendidikan. Artinya education.",
+      "translation": "Education. It means education."
+    },
+    {
+      "speaker": "A",
+      "text": "Luar biasa! Apakah kamu mengajari saya?",
+      "translation": "Excellent! Are you teaching me?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saya mencoba! Gurunya sudah belajar.",
+      "translation": "I try! The teacher has learned."
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih! Ini cara bagus untuk belajar.",
+      "translation": "Thank you! This is a good way to learn."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih atas pengajarannya!",
+      "translation": "Thank you for the teaching!"
+    }
+  ]
+}

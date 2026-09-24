@@ -1,0 +1,342 @@
+{
+  "id": "travel_airport",
+  "title": "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442",
+  "description": "\u041d\u0430 \u0444\u0438\u043d\u0441\u043a\u0438\u0445 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430\u0445 \u0438 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0443\u0437\u043b\u0430\u0445",
+  "category": "TRAVEL",
+  "icon": "Flight",
+  "languagePair": "fi-ru",
+  "vocabulary": [
+    {
+      "word": "\u043d\u0430 \u0440\u0435\u0439\u0441",
+      "translation": "to the flight",
+      "pos": "noun",
+      "example": "\u041f\u043e\u0439\u0434\u0451\u043c \u043d\u0430 \u0440\u0435\u0439\u0441.",
+      "exampleTranslation": "Let us go to the flight."
+    },
+    {
+      "word": "\u0440\u0435\u0439\u0441",
+      "translation": "flight",
+      "pos": "noun",
+      "example": "\u0420\u0435\u0439\u0441 \u043f\u043e \u0433\u0440\u0430\u0444\u0438\u043a\u0443.",
+      "exampleTranslation": "The flight is on schedule."
+    },
+    {
+      "word": "\u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442",
+      "translation": "airport",
+      "pos": "noun",
+      "example": "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0439.",
+      "exampleTranslation": "The airport is large."
+    },
+    {
+      "word": "\u0447\u0435\u043c\u043e\u0434\u0430\u043d",
+      "translation": "suitcase",
+      "pos": "noun",
+      "example": "\u0427\u0435\u043c\u043e\u0434\u0430\u043d \u0442\u044f\u0436\u0451\u043b\u044b\u0439.",
+      "exampleTranslation": "The suitcase is heavy."
+    },
+    {
+      "word": "\u043f\u0430\u0441\u043f\u043e\u0440\u0442",
+      "translation": "passport",
+      "pos": "noun",
+      "example": "\u041f\u0430\u0441\u043f\u043e\u0440\u0442 \u0432 \u043a\u0430\u0440\u043c\u0430\u043d\u0435.",
+      "exampleTranslation": "My passport is in my pocket."
+    },
+    {
+      "word": "\u043d\u0430 \u043c\u0435\u0441\u0442\u0435",
+      "translation": "in place, stationary",
+      "pos": "adverb",
+      "example": "\u041c\u044b \u043d\u0430 \u043c\u0435\u0441\u0442\u0435.",
+      "exampleTranslation": "We are in place."
+    },
+    {
+      "word": "\u0432\u044b\u0445\u043e\u0434",
+      "translation": "gate",
+      "pos": "noun",
+      "example": "\u0412\u044b\u0445\u043e\u0434 \u043e\u0442\u043a\u0440\u044b\u0442.",
+      "exampleTranslation": "The gate is open."
+    },
+    {
+      "word": "\u043f\u043e\u0433\u043e\u0434\u0430",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "\u041f\u043e\u0433\u043e\u0434\u0430 \u0445\u043e\u0440\u043e\u0448\u0430\u044f.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "\u0432\u0435\u0449\u0438",
+      "translation": "luggage, belongings",
+      "pos": "noun",
+      "example": "\u0412\u0435\u0449\u0438 \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438.",
+      "exampleTranslation": "The luggage is safe."
+    },
+    {
+      "word": "\u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0435\u0442",
+      "translation": "arriving, coming",
+      "pos": "participle",
+      "example": "\u0420\u0435\u0439\u0441 \u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0435\u0442.",
+      "exampleTranslation": "The flight is arriving."
+    },
+    {
+      "word": "\u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443",
+      "translation": "abroad",
+      "pos": "noun",
+      "example": "\u042f \u0435\u0434\u0443 \u0437\u0430 \u0433\u0440\u0430\u043d\u0438\u0446\u0443.",
+      "exampleTranslation": "I travel abroad."
+    },
+    {
+      "word": "\u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+      "translation": "reservation",
+      "pos": "noun",
+      "example": "\u0411\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043e.",
+      "exampleTranslation": "The reservation is confirmed."
+    },
+    {
+      "word": "\u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c\u0441\u044f",
+      "translation": "to leave, to depart",
+      "pos": "verb",
+      "example": "\u0420\u0435\u0439\u0441 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0432\u043e\u0441\u0435\u043c\u044c \u0447\u0430\u0441\u043e\u0432.",
+      "exampleTranslation": "The flight departs at eight."
+    },
+    {
+      "word": "\u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0442\u044c",
+      "translation": "to arrive",
+      "pos": "verb",
+      "example": "\u041c\u044b \u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0435\u043c \u0432 \u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438.",
+      "exampleTranslation": "We arrive in Helsinki."
+    },
+    {
+      "word": "\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f",
+      "translation": "to check in",
+      "pos": "verb",
+      "example": "\u042f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u044e\u0441\u044c \u043e\u043d\u043b\u0430\u0439\u043d.",
+      "exampleTranslation": "I check in online."
+    },
+    {
+      "word": "\u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0442\u044c",
+      "translation": "to check, to inspect",
+      "pos": "verb",
+      "example": "\u041f\u0440\u043e\u0432\u0435\u0440\u0438\u043c \u0447\u0435\u043c\u043e\u0434\u0430\u043d.",
+      "exampleTranslation": "Let us check the suitcase."
+    },
+    {
+      "word": "\u0437\u043e\u043d\u0430 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f",
+      "translation": "waiting hall",
+      "pos": "noun",
+      "example": "\u0417\u043e\u043d\u0430 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043f\u043e\u043b\u043d\u0430.",
+      "exampleTranslation": "The waiting hall is full."
+    },
+    {
+      "word": "\u0431\u0438\u043b\u0435\u0442 \u0432 \u043e\u0434\u043d\u0443 \u0441\u0442\u043e\u0440\u043e\u043d\u0443",
+      "translation": "one-way ticket",
+      "pos": "noun",
+      "example": "\u041a\u0443\u043f\u043b\u044e \u0431\u0438\u043b\u0435\u0442 \u0432 \u043e\u0434\u043d\u0443 \u0441\u0442\u043e\u0440\u043e\u043d\u0443.",
+      "exampleTranslation": "I will buy a one-way ticket."
+    },
+    {
+      "word": "\u043e\u0431\u0440\u0430\u0442\u043d\u044b\u0439 \u0431\u0438\u043b\u0435\u0442",
+      "translation": "return ticket",
+      "pos": "noun",
+      "example": "\u041e\u0431\u0440\u0430\u0442\u043d\u044b\u0439 \u0431\u0438\u043b\u0435\u0442 \u0434\u043e\u0440\u043e\u0433\u043e\u0439.",
+      "exampleTranslation": "The return ticket is expensive."
+    },
+    {
+      "word": "\u043f\u0435\u0440\u0435\u0441\u0430\u0434\u043a\u0430",
+      "translation": "layover, connecting flight",
+      "pos": "noun",
+      "example": "\u041f\u0435\u0440\u0435\u0441\u0430\u0434\u043a\u0430 \u0434\u043b\u0438\u0442\u0441\u044f \u0447\u0435\u0442\u044b\u0440\u0435 \u0447\u0430\u0441\u0430.",
+      "exampleTranslation": "The layover is four hours."
+    },
+    {
+      "word": " lentokone",
+      "translation": "airplane",
+      "pos": "noun",
+      "example": "\u0421\u0430\u043c\u043e\u043b\u0451\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0439.",
+      "exampleTranslation": "The airplane is large."
+    },
+    {
+      "word": "\u043f\u0430\u0441\u0441\u0430\u0436\u0438\u0440",
+      "translation": "passenger",
+      "pos": "noun",
+      "example": "\u041f\u0430\u0441\u0441\u0430\u0436\u0438\u0440 \u0436\u0434\u0451\u0442.",
+      "exampleTranslation": "The passenger is waiting."
+    },
+    {
+      "word": "\u043f\u0438\u043b\u043e\u0442",
+      "translation": "pilot",
+      "pos": "noun",
+      "example": "\u041f\u0438\u043b\u043e\u0442 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b.",
+      "exampleTranslation": "The pilot is a professional."
+    },
+    {
+      "word": "\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c",
+      "translation": "to travel",
+      "pos": "verb",
+      "example": "\u042f \u0447\u0430\u0441\u0442\u043e \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0443\u044e.",
+      "exampleTranslation": "I travel often."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "\u041a \u043a\u0430\u043a\u043e\u043c\u0443 \u0432\u044b\u0445\u043e\u0434\u0443?",
+      "translation": "To which gate?",
+      "context": "Asking for gate"
+    },
+    {
+      "phrase": "\u0413\u0434\u0435 \u0441\u0442\u043e\u0439\u043a\u0430?",
+      "translation": "Where is the counter?",
+      "context": "Finding check-in"
+    },
+    {
+      "phrase": "\u041c\u043e\u0436\u043d\u043e \u0441\u0435\u0441\u0442\u044c \u0437\u0434\u0435\u0441\u044c?",
+      "translation": "Can I sit here?",
+      "context": "At the gate"
+    },
+    {
+      "phrase": "\u0413\u0434\u0435 \u044d\u0441\u043a\u0430\u043b\u0430\u0442\u043e\u0440?",
+      "translation": "Where are the escalators?",
+      "context": "Navigating airport"
+    },
+    {
+      "phrase": "\u041c\u043e\u0436\u043d\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043f\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443?",
+      "translation": "Can I talk on the phone?",
+      "context": "Phone etiquette"
+    },
+    {
+      "phrase": "\u0412\u0430\u0448 \u0440\u0435\u0439\u0441 \u043f\u043e \u0433\u0440\u0430\u0444\u0438\u043a\u0443?",
+      "translation": "Is your flight on schedule?",
+      "context": "Asking about delays"
+    },
+    {
+      "phrase": "\u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c \u0441 \u0447\u0435\u043c\u043e\u0434\u0430\u043d\u043e\u043c.",
+      "translation": "I need help with my suitcase.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "\u0427\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0432\u0437\u044f\u0442\u044c \u0432 \u0441\u0430\u043c\u043e\u043b\u0451\u0442?",
+      "translation": "What can I bring on the plane?",
+      "context": "Luggage rules"
+    },
+    {
+      "phrase": "\u042f \u043d\u0435 \u043c\u043e\u0433\u0443 \u043d\u0430\u0439\u0442\u0438 \u043f\u0430\u0441\u043f\u043e\u0440\u0442.",
+      "translation": "I cannot find my passport.",
+      "context": "Lost items"
+    },
+    {
+      "phrase": "\u0413\u0434\u0435 \u043f\u0440\u0438\u0451\u043c?",
+      "translation": "Where is arrivals?",
+      "context": "Finding arrivals"
+    },
+    {
+      "phrase": "\u042f \u0445\u043e\u0442\u0435\u043b \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u0432\u043e\u0439 \u0440\u0435\u0439\u0441.",
+      "translation": "I would like to change my flight.",
+      "context": "Changing flights"
+    },
+    {
+      "phrase": "\u0417\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c?",
+      "translation": "Is there food here?",
+      "context": "Finding food"
+    },
+    {
+      "phrase": "\u041c\u043e\u0439 \u0447\u0435\u043c\u043e\u0434\u0430\u043d \u043f\u0440\u043e\u043f\u0430\u043b.",
+      "translation": "My suitcase is lost.",
+      "context": "Lost luggage"
+    },
+    {
+      "phrase": "\u041c\u043d\u0435 \u043d\u0443\u0436\u0435\u043d \u0442\u0430\u043a\u0441\u0438.",
+      "translation": "I need a taxi.",
+      "context": "Getting transportation"
+    },
+    {
+      "phrase": "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u043e\u043b\u0433\u043e?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u043f\u043e\u043c\u043e\u0449\u044c.",
+      "translation": "Thank you for your help.",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442!",
+      "translation": "Welcome to the airport!"
+    },
+    {
+      "speaker": "B",
+      "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e. \u0413\u0434\u0435 \u0441\u0442\u043e\u0439\u043a\u0430?",
+      "translation": "Thank you. Where is the counter?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u0421\u0442\u043e\u0439\u043a\u0430 \u0432\u043e\u0442 \u0442\u0430\u043c, \u0441\u043f\u0440\u0430\u0432\u0430.",
+      "translation": "The counter is over there on the right."
+    },
+    {
+      "speaker": "B",
+      "text": "\u041a \u043a\u0430\u043a\u043e\u043c\u0443 \u0432\u044b\u0445\u043e\u0434\u0443 \u043c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0438\u0434\u0442\u0438?",
+      "translation": "Which gate do I need to go to?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u0412\u044b\u0445\u043e\u0434 \u0432\u043e\u0441\u0435\u043c\u044c, \u043d\u0430 \u0432\u0442\u043e\u0440\u043e\u043c \u044d\u0442\u0430\u0436\u0435.",
+      "translation": "Gate eight, on the second floor."
+    },
+    {
+      "speaker": "B",
+      "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e. \u041a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448 \u0440\u0435\u0439\u0441?",
+      "translation": "Thank you. When does your flight leave?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u0420\u0435\u0439\u0441 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0432\u043e\u0441\u0435\u043c\u044c \u0447\u0430\u0441\u043e\u0432.",
+      "translation": "The flight leaves at eight o'clock."
+    },
+    {
+      "speaker": "B",
+      "text": "\u0415\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0441\u0430\u0434\u043a\u0430?",
+      "translation": "Is there a layover?"
+    },
+    {
+      "speaker": "A",
+      "text": "\u0414\u0430, \u0447\u0435\u0442\u044b\u0440\u0435\u0447\u0430\u0441\u043e\u0432\u0430\u044f \u043f\u0435\u0440\u0435\u0441\u0430\u0434\u043a\u0430 \u0432 \u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c\u0435.",
+      "translation": "Yes, a four-hour layover in Stockholm."
+    },
+    {
+      "speaker": "B",
+      "text": "\u042d\u0442\u043e \u0434\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043f\u0435\u0440\u0435\u0441\u0430\u0434\u043a\u0430.",
+      "translation": "That is a long layover."
+    },
+    {
+      "speaker": "A",
+      "text": "\u041c\u043e\u0436\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0437\u043e\u043d\u0443 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f?",
+      "translation": "Can we use the waiting hall?"
+    },
+    {
+      "speaker": "B",
+      "text": "\u0414\u0430, \u0442\u0430\u043c \u0442\u0430\u043a\u0436\u0435 \u0435\u0441\u0442\u044c \u043a\u0430\u0444\u0435.",
+      "translation": "Yes, there is also a caf\u00e9 there."
+    },
+    {
+      "speaker": "A",
+      "text": "\u041e\u0442\u043b\u0438\u0447\u043d\u043e! \u0427\u0442\u043e \u043f\u043e\u0441\u043e\u0432\u0435\u0442\u0443\u0435\u0442\u0435?",
+      "translation": "Great! What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "\u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0444\u0438\u043d\u0441\u043a\u0443\u044e \u0440\u044b\u0431\u043d\u0443\u044e \u0443\u0445\u0443.",
+      "translation": "Try the Finnish fish soup."
+    },
+    {
+      "speaker": "A",
+      "text": "\u0417\u0432\u0443\u0447\u0438\u0442 \u0432\u043a\u0443\u0441\u043d\u043e!",
+      "translation": "Sounds delicious!"
+    },
+    {
+      "speaker": "B",
+      "text": "\u0425\u043e\u0440\u043e\u0448\u0435\u0433\u043e \u043f\u0443\u0442\u0438!",
+      "translation": "Have a good trip!"
+    }
+  ]
+}

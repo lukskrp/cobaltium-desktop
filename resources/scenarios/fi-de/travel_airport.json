@@ -1,0 +1,342 @@
+{
+  "id": "travel_airport",
+  "title": "Flughafen",
+  "description": "Sich am finnischen Flughafen und in Reisezentren zurechtfinden",
+  "category": "TRAVEL",
+  "icon": "Flight",
+  "languagePair": "fi-de",
+  "vocabulary": [
+    {
+      "word": "zum Flug",
+      "translation": "to the flight",
+      "pos": "noun",
+      "example": "Lassen wir zum Flug gehen.",
+      "exampleTranslation": "Let us go to the flight."
+    },
+    {
+      "word": "Flug",
+      "translation": "flight",
+      "pos": "noun",
+      "example": "Der Flug ist p\u00fcnktlich.",
+      "exampleTranslation": "The flight is on schedule."
+    },
+    {
+      "word": "Flughafen",
+      "translation": "airport",
+      "pos": "noun",
+      "example": "Der Flughafen ist gro\u00df.",
+      "exampleTranslation": "The airport is large."
+    },
+    {
+      "word": "Koffer",
+      "translation": "suitcase",
+      "pos": "noun",
+      "example": "Der Koffer ist schwer.",
+      "exampleTranslation": "The suitcase is heavy."
+    },
+    {
+      "word": "Reisepass",
+      "translation": "passport",
+      "pos": "noun",
+      "example": "Der Reisepass ist in meiner Tasche.",
+      "exampleTranslation": "My passport is in my pocket."
+    },
+    {
+      "word": "an Ort und Stelle",
+      "translation": "in place, stationary",
+      "pos": "adverb",
+      "example": "Wir sind an Ort und Stelle.",
+      "exampleTranslation": "We are in place."
+    },
+    {
+      "word": "Gate",
+      "translation": "gate",
+      "pos": "noun",
+      "example": "Das Gate ist ge\u00f6ffnet.",
+      "exampleTranslation": "The gate is open."
+    },
+    {
+      "word": "Wetter",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "Das Wetter ist gut.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "Gep\u00e4ck",
+      "translation": "luggage, belongings",
+      "pos": "noun",
+      "example": "Das Gep\u00e4ck ist sicher.",
+      "exampleTranslation": "The luggage is safe."
+    },
+    {
+      "word": "ankommend",
+      "translation": "arriving, coming",
+      "pos": "participle",
+      "example": "Der Flug kommt an.",
+      "exampleTranslation": "The flight is arriving."
+    },
+    {
+      "word": "ins Ausland",
+      "translation": "abroad",
+      "pos": "noun",
+      "example": "Ich reise ins Ausland.",
+      "exampleTranslation": "I travel abroad."
+    },
+    {
+      "word": "Reservierung",
+      "translation": "reservation",
+      "pos": "noun",
+      "example": "Die Reservierung ist best\u00e4tigt.",
+      "exampleTranslation": "The reservation is confirmed."
+    },
+    {
+      "word": "abfahren",
+      "translation": "to leave, to depart",
+      "pos": "verb",
+      "example": "Der Flug geht um acht Uhr ab.",
+      "exampleTranslation": "The flight departs at eight."
+    },
+    {
+      "word": "ankommen",
+      "translation": "to arrive",
+      "pos": "verb",
+      "example": "Wir kommen in Helsinki an.",
+      "exampleTranslation": "We arrive in Helsinki."
+    },
+    {
+      "word": "einchecken",
+      "translation": "to check in",
+      "pos": "verb",
+      "example": "Ich checke online ein.",
+      "exampleTranslation": "I check in online."
+    },
+    {
+      "word": "kontrollieren",
+      "translation": "to check, to inspect",
+      "pos": "verb",
+      "example": "Lassen wir den Koffer kontrollieren.",
+      "exampleTranslation": "Let us check the suitcase."
+    },
+    {
+      "word": "Wartebereich",
+      "translation": "waiting hall",
+      "pos": "noun",
+      "example": "Der Wartebereich ist voll.",
+      "exampleTranslation": "The waiting hall is full."
+    },
+    {
+      "word": "Einfahrtskarte",
+      "translation": "one-way ticket",
+      "pos": "noun",
+      "example": "Ich kaufe eine Einfahrtskarte.",
+      "exampleTranslation": "I will buy a one-way ticket."
+    },
+    {
+      "word": "R\u00fcckfahrkarte",
+      "translation": "return ticket",
+      "pos": "noun",
+      "example": "Die R\u00fcckfahrkarte ist teuer.",
+      "exampleTranslation": "The return ticket is expensive."
+    },
+    {
+      "word": "Zwischenstopp",
+      "translation": "layover, connecting flight",
+      "pos": "noun",
+      "example": "Der Zwischenstopp dauert vier Stunden.",
+      "exampleTranslation": "The layover is four hours."
+    },
+    {
+      "word": " lentokone",
+      "translation": "airplane",
+      "pos": "noun",
+      "example": "Das Flugzeug ist gro\u00df.",
+      "exampleTranslation": "The airplane is large."
+    },
+    {
+      "word": "Passagier",
+      "translation": "passenger",
+      "pos": "noun",
+      "example": "Der Passagier wartet.",
+      "exampleTranslation": "The passenger is waiting."
+    },
+    {
+      "word": "Pilot",
+      "translation": "pilot",
+      "pos": "noun",
+      "example": "Der Pilot ist Profi.",
+      "exampleTranslation": "The pilot is a professional."
+    },
+    {
+      "word": "reisen",
+      "translation": "to travel",
+      "pos": "verb",
+      "example": "Ich reise oft.",
+      "exampleTranslation": "I travel often."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Zu welchem Gate?",
+      "translation": "To which gate?",
+      "context": "Asking for gate"
+    },
+    {
+      "phrase": "Wo ist der Schalter?",
+      "translation": "Where is the counter?",
+      "context": "Finding check-in"
+    },
+    {
+      "phrase": "Darf ich hier sitzen?",
+      "translation": "Can I sit here?",
+      "context": "At the gate"
+    },
+    {
+      "phrase": "Wo sind die Rolltreppen?",
+      "translation": "Where are the escalators?",
+      "context": "Navigating airport"
+    },
+    {
+      "phrase": "Darf ich am Handy telefonieren?",
+      "translation": "Can I talk on the phone?",
+      "context": "Phone etiquette"
+    },
+    {
+      "phrase": "Ist Ihr Flug p\u00fcnktlich?",
+      "translation": "Is your flight on schedule?",
+      "context": "Asking about delays"
+    },
+    {
+      "phrase": "Ich brauche Hilfe mit meinem Koffer.",
+      "translation": "I need help with my suitcase.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "Was darf man ins Flugzeug mitnehmen?",
+      "translation": "What can I bring on the plane?",
+      "context": "Luggage rules"
+    },
+    {
+      "phrase": "Ich finde meinen Reisepass nicht.",
+      "translation": "I cannot find my passport.",
+      "context": "Lost items"
+    },
+    {
+      "phrase": "Wo ist der Ankunftsbereich?",
+      "translation": "Where is arrivals?",
+      "context": "Finding arrivals"
+    },
+    {
+      "phrase": "Ich m\u00f6chte meinen Flug \u00e4ndern.",
+      "translation": "I would like to change my flight.",
+      "context": "Changing flights"
+    },
+    {
+      "phrase": "Gibt es hier etwas zu essen?",
+      "translation": "Is there food here?",
+      "context": "Finding food"
+    },
+    {
+      "phrase": "Mein Koffer ist verschwunden.",
+      "translation": "My suitcase is lost.",
+      "context": "Lost luggage"
+    },
+    {
+      "phrase": "Ich brauche ein Taxi.",
+      "translation": "I need a taxi.",
+      "context": "Getting transportation"
+    },
+    {
+      "phrase": "Wie lange dauert es?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Vielen Dank f\u00fcr Ihre Hilfe.",
+      "translation": "Thank you for your help.",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Willkommen am Flughafen!",
+      "translation": "Welcome to the airport!"
+    },
+    {
+      "speaker": "B",
+      "text": "Danke. Wo ist der Schalter?",
+      "translation": "Thank you. Where is the counter?"
+    },
+    {
+      "speaker": "A",
+      "text": "Der Schalter ist dort rechts.",
+      "translation": "The counter is over there on the right."
+    },
+    {
+      "speaker": "B",
+      "text": "Zu welchem Gate muss ich?",
+      "translation": "Which gate do I need to go to?"
+    },
+    {
+      "speaker": "A",
+      "text": "Gate acht, im zweiten Stock.",
+      "translation": "Gate eight, on the second floor."
+    },
+    {
+      "speaker": "B",
+      "text": "Danke. Wann geht Ihr Flug?",
+      "translation": "Thank you. When does your flight leave?"
+    },
+    {
+      "speaker": "A",
+      "text": "Der Flug geht um acht Uhr ab.",
+      "translation": "The flight leaves at eight o'clock."
+    },
+    {
+      "speaker": "B",
+      "text": "Gibt es einen Zwischenstopp?",
+      "translation": "Is there a layover?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ja, ein vierst\u00fcndiger Zwischenstopp in Stockholm.",
+      "translation": "Yes, a four-hour layover in Stockholm."
+    },
+    {
+      "speaker": "B",
+      "text": "Das ist ein langer Zwischenstopp.",
+      "translation": "That is a long layover."
+    },
+    {
+      "speaker": "A",
+      "text": "K\u00f6nnen wir den Wartebereich nutzen?",
+      "translation": "Can we use the waiting hall?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ja, dort gibt es auch ein Caf\u00e9.",
+      "translation": "Yes, there is also a caf\u00e9 there."
+    },
+    {
+      "speaker": "A",
+      "text": "Gro\u00dfartig! Was empfehlen Sie?",
+      "translation": "Great! What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "Probieren Sie die finnische Fischsuppe.",
+      "translation": "Try the Finnish fish soup."
+    },
+    {
+      "speaker": "A",
+      "text": "Klingt lecker!",
+      "translation": "Sounds delicious!"
+    },
+    {
+      "speaker": "B",
+      "text": "Gute Reise!",
+      "translation": "Have a good trip!"
+    }
+  ]
+}

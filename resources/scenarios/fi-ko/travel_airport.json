@@ -1,0 +1,342 @@
+{
+  "id": "travel_airport",
+  "title": "\uacf5\ud56d",
+  "description": "\ud540\ub780\ub4dc \uacf5\ud56d\uacfc \uc5ec\ud589 \uc13c\ud130\ub97c \ub9c8\uc2a4\ud130\ud558\uae30",
+  "category": "TRAVEL",
+  "icon": "Flight",
+  "languagePair": "fi-ko",
+  "vocabulary": [
+    {
+      "word": "\ube44\ud589\uae30\uc5d0",
+      "translation": "to the flight",
+      "pos": "noun",
+      "example": "Menn\u00e4\u00e4n lennolle.",
+      "exampleTranslation": "Let us go to the flight."
+    },
+    {
+      "word": "\ube44\ud589\uae30",
+      "translation": "flight",
+      "pos": "noun",
+      "example": "Lento on aikataulussa.",
+      "exampleTranslation": "The flight is on schedule."
+    },
+    {
+      "word": "\uacf5\ud56d",
+      "translation": "airport",
+      "pos": "noun",
+      "example": "Lentoasema on suuri.",
+      "exampleTranslation": "The airport is large."
+    },
+    {
+      "word": "\uc9d0",
+      "translation": "suitcase",
+      "pos": "noun",
+      "example": "Matkalaukku on raskas.",
+      "exampleTranslation": "The suitcase is heavy."
+    },
+    {
+      "word": "\uc5ec\uad8c",
+      "translation": "passport",
+      "pos": "noun",
+      "example": "Passi on taskussani.",
+      "exampleTranslation": "My passport is in my pocket."
+    },
+    {
+      "word": "paikallaan",
+      "translation": "in place, stationary",
+      "pos": "adverb",
+      "example": "Olemme paikallaan.",
+      "exampleTranslation": "We are in place."
+    },
+    {
+      "word": "portti",
+      "translation": "gate",
+      "pos": "noun",
+      "example": "Portti on avoinna.",
+      "exampleTranslation": "The gate is open."
+    },
+    {
+      "word": "\ub0a0\uc528",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "S\u00e4\u00e4 on hyv\u00e4\u00e4.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "tavarat",
+      "translation": "luggage, belongings",
+      "pos": "noun",
+      "example": "Tavarat ovat turvassa.",
+      "exampleTranslation": "The luggage is safe."
+    },
+    {
+      "word": "tulossa",
+      "translation": "arriving, coming",
+      "pos": "participle",
+      "example": "Lento on tulossa.",
+      "exampleTranslation": "The flight is arriving."
+    },
+    {
+      "word": "ulkomaan",
+      "translation": "abroad",
+      "pos": "noun",
+      "example": "Matkustan ulkomaan.",
+      "exampleTranslation": "I travel abroad."
+    },
+    {
+      "word": "\uc608\uc57d",
+      "translation": "reservation",
+      "pos": "noun",
+      "example": "Varaus on vahvistettu.",
+      "exampleTranslation": "The reservation is confirmed."
+    },
+    {
+      "word": "l\u00e4hte\u00e4",
+      "translation": "to leave, to depart",
+      "pos": "verb",
+      "example": "Lento l\u00e4htee kello kahdeksan.",
+      "exampleTranslation": "The flight departs at eight."
+    },
+    {
+      "word": "saapua",
+      "translation": "to arrive",
+      "pos": "verb",
+      "example": "Saavumme Helsinkiiin.",
+      "exampleTranslation": "We arrive in Helsinki."
+    },
+    {
+      "word": "kirjautua",
+      "translation": "to check in",
+      "pos": "verb",
+      "example": "Kirjaudun sis\u00e4\u00e4n netiss\u00e4.",
+      "exampleTranslation": "I check in online."
+    },
+    {
+      "word": "tarkastaa",
+      "translation": "to check, to inspect",
+      "pos": "verb",
+      "example": "Tarkastetaan matkalaukku.",
+      "exampleTranslation": "Let us check the suitcase."
+    },
+    {
+      "word": "odotusaula",
+      "translation": "waiting hall",
+      "pos": "noun",
+      "example": "Odotusaula on t\u00e4ynn\u00e4.",
+      "exampleTranslation": "The waiting hall is full."
+    },
+    {
+      "word": "menolippu",
+      "translation": "one-way ticket",
+      "pos": "noun",
+      "example": "Ostan menolipun.",
+      "exampleTranslation": "I will buy a one-way ticket."
+    },
+    {
+      "word": "paluulippu",
+      "translation": "return ticket",
+      "pos": "noun",
+      "example": "Paluulippu on kallis.",
+      "exampleTranslation": "The return ticket is expensive."
+    },
+    {
+      "word": "v\u00e4lilasku",
+      "translation": "layover, connecting flight",
+      "pos": "noun",
+      "example": "V\u00e4lilasku on nelj\u00e4 tuntia.",
+      "exampleTranslation": "The layover is four hours."
+    },
+    {
+      "word": " lentokone",
+      "translation": "airplane",
+      "pos": "noun",
+      "example": "Lentokone on suuri.",
+      "exampleTranslation": "The airplane is large."
+    },
+    {
+      "word": "matkustaja",
+      "translation": "passenger",
+      "pos": "noun",
+      "example": "Matkustaja on odottamassa.",
+      "exampleTranslation": "The passenger is waiting."
+    },
+    {
+      "word": "lent\u00e4j\u00e4",
+      "translation": "pilot",
+      "pos": "noun",
+      "example": "Lent\u00e4j\u00e4 on ammattilainen.",
+      "exampleTranslation": "The pilot is a professional."
+    },
+    {
+      "word": "matkustaa",
+      "translation": "to travel",
+      "pos": "verb",
+      "example": "Matkustan usein.",
+      "exampleTranslation": "I travel often."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Mihin porttiin?",
+      "translation": "To which gate?",
+      "context": "Asking for gate"
+    },
+    {
+      "phrase": "Miss\u00e4 on tiski?",
+      "translation": "Where is the counter?",
+      "context": "Finding check-in"
+    },
+    {
+      "phrase": "Voinko istua t\u00e4\u00e4ll\u00e4?",
+      "translation": "Can I sit here?",
+      "context": "At the gate"
+    },
+    {
+      "phrase": "Miss\u00e4 on liukuportaat?",
+      "translation": "Where are the escalators?",
+      "context": "Navigating airport"
+    },
+    {
+      "phrase": "Voinko puhua puhelimella?",
+      "translation": "Can I talk on the phone?",
+      "context": "Phone etiquette"
+    },
+    {
+      "phrase": "Onko lentosi aikataulussa?",
+      "translation": "Is your flight on schedule?",
+      "context": "Asking about delays"
+    },
+    {
+      "phrase": "Tarvitsen apua matkalaukkuni kanssa.",
+      "translation": "I need help with my suitcase.",
+      "context": "Requesting assistance"
+    },
+    {
+      "phrase": "Mit\u00e4 saa tuoda koneeseen?",
+      "translation": "What can I bring on the plane?",
+      "context": "Luggage rules"
+    },
+    {
+      "phrase": "En l\u00f6yd\u00e4 passiani.",
+      "translation": "I cannot find my passport.",
+      "context": "Lost items"
+    },
+    {
+      "phrase": "Miss\u00e4 on vastaanotto?",
+      "translation": "Where is arrivals?",
+      "context": "Finding arrivals"
+    },
+    {
+      "phrase": "Haluaisin muuttaa lentoani.",
+      "translation": "I would like to change my flight.",
+      "context": "Changing flights"
+    },
+    {
+      "phrase": "Onko t\u00e4\u00e4ll\u00e4 ruokaa?",
+      "translation": "Is there food here?",
+      "context": "Finding food"
+    },
+    {
+      "phrase": "Matkalaukkuni on kadonnut.",
+      "translation": "My suitcase is lost.",
+      "context": "Lost luggage"
+    },
+    {
+      "phrase": "Tarvitsen taksi.",
+      "translation": "I need a taxi.",
+      "context": "Getting transportation"
+    },
+    {
+      "phrase": "Kuinka kauan kest\u00e4\u00e4?",
+      "translation": "How long does it take?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "\ub3c4\uc640\uc918\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+      "translation": "Thank you for your help.",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Tervetuloa lentoasemalle!",
+      "translation": "Welcome to the airport!"
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos. Miss\u00e4 on tiski?",
+      "translation": "Thank you. Where is the counter?"
+    },
+    {
+      "speaker": "A",
+      "text": "Tiski on tuolla oikealla.",
+      "translation": "The counter is over there on the right."
+    },
+    {
+      "speaker": "B",
+      "text": "Mihin porttiin minun pit\u00e4\u00e4 menn\u00e4?",
+      "translation": "Which gate do I need to go to?"
+    },
+    {
+      "speaker": "A",
+      "text": "Portti kahdeksan, toisessa kerroksessa.",
+      "translation": "Gate eight, on the second floor."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos. Milloin lentosi l\u00e4htee?",
+      "translation": "Thank you. When does your flight leave?"
+    },
+    {
+      "speaker": "A",
+      "text": "Lento l\u00e4htee kello kahdeksan.",
+      "translation": "The flight leaves at eight o'clock."
+    },
+    {
+      "speaker": "B",
+      "text": "Onko siin\u00e4 v\u00e4lilaskua?",
+      "translation": "Is there a layover?"
+    },
+    {
+      "speaker": "A",
+      "text": "Kyll\u00e4, nelj\u00e4n tunnin v\u00e4lilasku Tukholmassa.",
+      "translation": "Yes, a four-hour layover in Stockholm."
+    },
+    {
+      "speaker": "B",
+      "text": "Se on pitk\u00e4 v\u00e4lilasku.",
+      "translation": "That is a long layover."
+    },
+    {
+      "speaker": "A",
+      "text": "Voimmeko k\u00e4ytt\u00e4\u00e4 odotusaulaa?",
+      "translation": "Can we use the waiting hall?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, siell\u00e4 on my\u00f6s kahvila.",
+      "translation": "Yes, there is also a caf\u00e9 there."
+    },
+    {
+      "speaker": "A",
+      "text": "Hienoa! Mit\u00e4 suosittelette?",
+      "translation": "Great! What do you recommend?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kokeile suomalaista kalakeittoa.",
+      "translation": "Try the Finnish fish soup."
+    },
+    {
+      "speaker": "A",
+      "text": "Kuulostaa herkulliselta!",
+      "translation": "Sounds delicious!"
+    },
+    {
+      "speaker": "B",
+      "text": "Hyv\u00e4\u00e4 matkaa!",
+      "translation": "Have a good trip!"
+    }
+  ]
+}

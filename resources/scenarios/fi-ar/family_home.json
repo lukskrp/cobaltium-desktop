@@ -1,0 +1,342 @@
+{
+  "id": "family_home",
+  "title": "\u062d\u064a\u0627\u0629 \u0645\u0646\u0632\u0644\u064a\u0629",
+  "description": "\u062a\u062d\u062f\u062b \u0639\u0646 \u062d\u064a\u0627\u0629 \u0627\u0644\u0623\u0633\u0631\u0629 \u0648\u0627\u0644\u0631\u0648\u062a\u064a\u0646 \u0627\u0644\u0645\u0646\u0632\u0644\u064a \u0628\u0627\u0644\u0641\u0646\u0644\u0646\u062f\u064a\u0629",
+  "category": "FAMILY",
+  "icon": "FamilyRestroom",
+  "languagePair": "fi-ar",
+  "vocabulary": [
+    {
+      "word": "perhe",
+      "translation": "family",
+      "pos": "noun",
+      "example": "Perhe on suuri.",
+      "exampleTranslation": "The family is large."
+    },
+    {
+      "word": "\u00e4iti",
+      "translation": "mother",
+      "pos": "noun",
+      "example": "\u00c4iti on huolellinen.",
+      "exampleTranslation": "The mother is caring."
+    },
+    {
+      "word": "is\u00e4",
+      "translation": "father",
+      "pos": "noun",
+      "example": "Is\u00e4 on vahva.",
+      "exampleTranslation": "The father is strong."
+    },
+    {
+      "word": "lapsi",
+      "translation": "child",
+      "pos": "noun",
+      "example": "Lapsi leikkii.",
+      "exampleTranslation": "The child is playing."
+    },
+    {
+      "word": "koti",
+      "translation": "home",
+      "pos": "noun",
+      "example": "Koti on l\u00e4mmin.",
+      "exampleTranslation": "The home is warm."
+    },
+    {
+      "word": "keitti\u00f6",
+      "translation": "kitchen",
+      "pos": "noun",
+      "example": "Keitti\u00f6 on siisti.",
+      "exampleTranslation": "The kitchen is clean."
+    },
+    {
+      "word": "makuuhuone",
+      "translation": "bedroom",
+      "pos": "noun",
+      "example": "Makuuhuone on rauhallinen.",
+      "exampleTranslation": "The bedroom is peaceful."
+    },
+    {
+      "word": "olohuone",
+      "translation": "living room",
+      "pos": "noun",
+      "example": "Olohuone on tilava.",
+      "exampleTranslation": "The living room is spacious."
+    },
+    {
+      "word": "kylpyhuone",
+      "translation": "bathroom",
+      "pos": "noun",
+      "example": "Kylpyhuone on puhdas.",
+      "exampleTranslation": "The bathroom is clean."
+    },
+    {
+      "word": "puutarha",
+      "translation": "garden, yard",
+      "pos": "noun",
+      "example": "Puutarha on kaunis.",
+      "exampleTranslation": "The garden is beautiful."
+    },
+    {
+      "word": "kaluste",
+      "translation": "furniture",
+      "pos": "noun",
+      "example": "Kalusteet ovat uusia.",
+      "exampleTranslation": "The furniture is new."
+    },
+    {
+      "word": "pyykinpesukone",
+      "translation": "washing machine",
+      "pos": "noun",
+      "example": "Pyykinpesukone on k\u00e4ynniss\u00e4.",
+      "exampleTranslation": "The washing machine is running."
+    },
+    {
+      "word": "astianpesukone",
+      "translation": "dishwasher",
+      "pos": "noun",
+      "example": "Astianpesukone on t\u00e4ynn\u00e4.",
+      "exampleTranslation": "The dishwasher is full."
+    },
+    {
+      "word": "j\u00e4\u00e4kaappi",
+      "translation": "refrigerator",
+      "pos": "noun",
+      "example": "J\u00e4\u00e4kaappi on tyhj\u00e4.",
+      "exampleTranslation": "The refrigerator is empty."
+    },
+    {
+      "word": "kaappi",
+      "translation": "cupboard, closet",
+      "pos": "noun",
+      "example": "Kaapissa on ruokaa.",
+      "exampleTranslation": "There is food in the cupboard."
+    },
+    {
+      "word": "pyykinpesu",
+      "translation": "laundry",
+      "pos": "noun",
+      "example": "Pyykinpesu on valmis.",
+      "exampleTranslation": "The laundry is done."
+    },
+    {
+      "word": "siivous",
+      "translation": "cleaning",
+      "pos": "noun",
+      "example": "Siivous on t\u00e4rke\u00e4\u00e4.",
+      "exampleTranslation": "Cleaning is important."
+    },
+    {
+      "word": "ruuanlaitto",
+      "translation": "cooking",
+      "pos": "noun",
+      "example": "Ruuanlaitto on hauskaa.",
+      "exampleTranslation": "Cooking is fun."
+    },
+    {
+      "word": "askare",
+      "translation": "chore, household task",
+      "pos": "noun",
+      "example": "Askareet ovat valmiita.",
+      "exampleTranslation": "The chores are done."
+    },
+    {
+      "word": "arki",
+      "translation": "weekday, everyday life",
+      "pos": "noun",
+      "example": "Arki on kiireinen.",
+      "exampleTranslation": "Weekdays are busy."
+    },
+    {
+      "word": "viikonloppu",
+      "translation": "weekend",
+      "pos": "noun",
+      "example": "Viikonloppu on rento.",
+      "exampleTranslation": "The weekend is relaxing."
+    },
+    {
+      "word": "aamiainen",
+      "translation": "breakfast",
+      "pos": "noun",
+      "example": "Aamiainen on valmis.",
+      "exampleTranslation": "Breakfast is ready."
+    },
+    {
+      "word": "lounas",
+      "translation": "lunch",
+      "pos": "noun",
+      "example": "Lounas on herkullista.",
+      "exampleTranslation": "Lunch is delicious."
+    },
+    {
+      "word": "iltaruoka",
+      "translation": "dinner",
+      "pos": "noun",
+      "example": "Iltaruoka on odotettu.",
+      "exampleTranslation": "Dinner is awaited."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Auta siivoomisessa.",
+      "translation": "Help with cleaning.",
+      "context": "Asking for help"
+    },
+    {
+      "phrase": "Mik\u00e4 on ruoka t\u00e4n\u00e4\u00e4n?",
+      "translation": "What is food today?",
+      "context": "Asking about meals"
+    },
+    {
+      "phrase": "Pese astiat.",
+      "translation": "Wash the dishes.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Siivoa huone.",
+      "translation": "Clean the room.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Ota roskat ulos.",
+      "translation": "Take the trash out.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Kuka laittaa ruokaa?",
+      "translation": "Who is cooking?",
+      "context": "Meal preparation"
+    },
+    {
+      "phrase": "Tarvitsen apua keitti\u00f6ss\u00e4.",
+      "translation": "I need help in the kitchen.",
+      "context": "Requesting help"
+    },
+    {
+      "phrase": "Milloin ruoka on valmis?",
+      "translation": "When is the food ready?",
+      "context": "Asking about timing"
+    },
+    {
+      "phrase": "Haluaisin auttaa.",
+      "translation": "I would like to help.",
+      "context": "Offering help"
+    },
+    {
+      "phrase": "Onko j\u00e4\u00e4kaapissa jotain?",
+      "translation": "Is there something in the fridge?",
+      "context": "Looking for food"
+    },
+    {
+      "phrase": "Pyyhi p\u00f6yt\u00e4.",
+      "translation": "Wipe the table.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Laitepuvun k\u00e4sittely on valmis.",
+      "translation": "The laundry folding is done.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Laita ruokaa lautaselle.",
+      "translation": "Put food on the plate.",
+      "context": "Meal preparation"
+    },
+    {
+      "phrase": "Kiitos avustasi!",
+      "translation": "Thank you for your help!",
+      "context": "Expressing gratitude"
+    },
+    {
+      "phrase": "Tee vuoteesi.",
+      "translation": "Make your bed.",
+      "context": "Household task"
+    },
+    {
+      "phrase": "Olemme hyv\u00e4 tiimi.",
+      "translation": "We are a good team.",
+      "context": "Expressing teamwork"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Haluatko auttaa siivoomisessa?",
+      "translation": "Do you want to help with cleaning?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, tietenkin! Mit\u00e4 teen?",
+      "translation": "Yes, of course! What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Pyyhi p\u00f6yt\u00e4 ja laita astiat koneeseen.",
+      "translation": "Wipe the table and put the dishes in the machine."
+    },
+    {
+      "speaker": "B",
+      "text": "Selva! Teen sen heti.",
+      "translation": "Clear! I will do it right away."
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos! My\u00f6s pyykinpesu odottaa.",
+      "translation": "Thank you! The laundry is also waiting."
+    },
+    {
+      "speaker": "B",
+      "text": "Otan sen my\u00f6hemmin.",
+      "translation": "I will take it later."
+    },
+    {
+      "speaker": "A",
+      "text": "Mik\u00e4 on lounas t\u00e4n\u00e4\u00e4n?",
+      "translation": "What is for lunch today?"
+    },
+    {
+      "speaker": "B",
+      "text": "Keit\u00e4\u00e4n keitto\u00e4 ja leip\u00e4\u00e4.",
+      "translation": "I will make soup and bread."
+    },
+    {
+      "speaker": "A",
+      "text": "Hienoa! Rakastan keittoa.",
+      "translation": "Great! I love soup."
+    },
+    {
+      "speaker": "B",
+      "text": "Ota lis\u00e4\u00e4 jos haluat.",
+      "translation": "Take more if you want."
+    },
+    {
+      "speaker": "A",
+      "text": "Kiitos! T\u00e4m\u00e4 on herkullista.",
+      "translation": "Thank you! This is delicious."
+    },
+    {
+      "speaker": "B",
+      "text": "Olen iloinen, ett\u00e4 pid\u00e4t.",
+      "translation": "I am glad that you like it."
+    },
+    {
+      "speaker": "A",
+      "text": "Haluatko menn\u00e4 ulos puutarhaan?",
+      "translation": "Do you want to go outside to the garden?"
+    },
+    {
+      "speaker": "B",
+      "text": "Kyll\u00e4, ment\u00e4\u00e4n leikkim\u00e4\u00e4n.",
+      "translation": "Yes, let us go play."
+    },
+    {
+      "speaker": "A",
+      "text": "Hyv\u00e4\u00e4 idea! Ota k\u00e4\u00e4ri mukaan.",
+      "translation": "Good idea! Bring a bucket."
+    },
+    {
+      "speaker": "B",
+      "text": "Kiitos \u00e4iti! T\u00e4m\u00e4 on hienoa.",
+      "translation": "Thank you mother! This is great."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "social_cafe",
+  "title": "Kafe",
+  "description": "Pesan minuman dan mengobrol di kafe Finlandia",
+  "category": "SOCIAL",
+  "icon": "LocalCafe",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "kafe",
+      "translation": "caf\u00e9, coffee house",
+      "pos": "noun",
+      "example": "Kafe ini populer.",
+      "exampleTranslation": "This caf\u00e9 is popular."
+    },
+    {
+      "word": "kopi",
+      "translation": "coffee",
+      "pos": "noun",
+      "example": "Saya mau kopi.",
+      "exampleTranslation": "I'd like a coffee."
+    },
+    {
+      "word": "teh",
+      "translation": "tea",
+      "pos": "noun",
+      "example": "Saya ingin teh.",
+      "exampleTranslation": "I would like tea."
+    },
+    {
+      "word": "kue",
+      "translation": "pastry, baked good",
+      "pos": "noun",
+      "example": "Kuenya segar.",
+      "exampleTranslation": "The pastry is fresh."
+    },
+    {
+      "word": "susu",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Tanpa susu, terima kasih.",
+      "exampleTranslation": "Without milk, thank you."
+    },
+    {
+      "word": "gula",
+      "translation": "sugar",
+      "pos": "noun",
+      "example": "Satu sendok gula.",
+      "exampleTranslation": "One spoon of sugar."
+    },
+    {
+      "word": "roti manis",
+      "translation": "sweet bun, cardamom bread",
+      "pos": "noun",
+      "example": "Roti manisnya lezat.",
+      "exampleTranslation": "The sweet bun is delicious."
+    },
+    {
+      "word": "croissant",
+      "translation": "croissant",
+      "pos": "noun",
+      "example": "Croissant sebagai alternatif.",
+      "exampleTranslation": "The croissant is an option."
+    },
+    {
+      "word": "es kopi",
+      "translation": "iced coffee",
+      "pos": "noun",
+      "example": "Es kopi enak saat cuaca panas.",
+      "exampleTranslation": "Iced coffee is good in hot weather."
+    },
+    {
+      "word": "latte",
+      "translation": "latte",
+      "pos": "noun",
+      "example": "Saya mau latte.",
+      "exampleTranslation": "I'd like a latte."
+    },
+    {
+      "word": "duduk",
+      "translation": "to sit",
+      "pos": "verb",
+      "example": "Bisakah saya duduk di sini?",
+      "exampleTranslation": "Can I sit here?"
+    },
+    {
+      "word": "membutuhkan",
+      "translation": "to need",
+      "pos": "verb",
+      "example": "Saya butuh meja.",
+      "exampleTranslation": "I need a table."
+    },
+    {
+      "word": "bar",
+      "translation": "bar",
+      "pos": "noun",
+      "example": "Barnya buka.",
+      "exampleTranslation": "The bar is open."
+    },
+    {
+      "word": "giliran",
+      "translation": "shift",
+      "pos": "noun",
+      "example": "Giliran dimulai pukul sembilan.",
+      "exampleTranslation": "The shift starts at nine."
+    },
+    {
+      "word": "uang tips",
+      "translation": "tip, gratuity",
+      "pos": "noun",
+      "example": "Saya meninggalkan tips di meja.",
+      "exampleTranslation": "I left the tip on the table."
+    },
+    {
+      "word": "pemberitahuan",
+      "translation": "notification, announcement",
+      "pos": "noun",
+      "example": "Saya menerima pemberitahuan.",
+      "exampleTranslation": "I got the notification."
+    },
+    {
+      "word": "keramahan",
+      "translation": "friendliness",
+      "pos": "noun",
+      "example": "Keramahan lazim di sini.",
+      "exampleTranslation": "Friendliness is common here."
+    },
+    {
+      "word": "sore",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "Sore indah.",
+      "exampleTranslation": "The afternoon is beautiful."
+    },
+    {
+      "word": "pesta",
+      "translation": "party, celebration",
+      "pos": "noun",
+      "example": "Pestanya luar biasa.",
+      "exampleTranslation": "The party was wonderful."
+    },
+    {
+      "word": "menemani",
+      "translation": "to keep company",
+      "pos": "verb",
+      "example": "Kami menemani teman kami.",
+      "exampleTranslation": "We keep company with our friend."
+    },
+    {
+      "word": "mengunjungi",
+      "translation": "to visit",
+      "pos": "verb",
+      "example": "Saya sering mengunjungi kafe ini.",
+      "exampleTranslation": "I often visit this caf\u00e9."
+    },
+    {
+      "word": "berdiskusi",
+      "translation": "to discuss",
+      "pos": "verb",
+      "example": "Kita diskusi nanti.",
+      "exampleTranslation": "Let us discuss later."
+    },
+    {
+      "word": "ceria",
+      "translation": "happy, cheerful",
+      "pos": "adjective",
+      "example": "H\u00e4n on iloinen t\u00e4n\u00e4n.",
+      "exampleTranslation": "He is happy today."
+    },
+    {
+      "word": "mengorganisasi",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "Kami mengorganisasi pertemuan.",
+      "exampleTranslation": "We will organize the meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Saya mau kopi, terima kasih.",
+      "translation": "I'd like a coffee, please.",
+      "context": "Ordering at the counter"
+    },
+    {
+      "phrase": "Apa menu hari ini?",
+      "translation": "What is today's special?",
+      "context": "Asking about specials"
+    },
+    {
+      "phrase": "Bisakah saya duduk di sini?",
+      "translation": "Can I sit here?",
+      "context": "Finding a seat"
+    },
+    {
+      "phrase": "Apakah ada Wi-Fi di sini?",
+      "translation": "Is there Wi-Fi here?",
+      "context": "At a caf\u00e9"
+    },
+    {
+      "phrase": "Saya mau tambah kopi.",
+      "translation": "I'd like more coffee.",
+      "context": "Refill request"
+    },
+    {
+      "phrase": "Kuenya lezat.",
+      "translation": "The pastry is delicious.",
+      "context": "Complimenting the food"
+    },
+    {
+      "phrase": "Kopinya enak.",
+      "translation": "The coffee is good.",
+      "context": "Complimenting the drink"
+    },
+    {
+      "phrase": "Terima kasih banyak!",
+      "translation": "Thank you very much!",
+      "context": "After receiving order"
+    },
+    {
+      "phrase": "Selamat datang di kafe kami!",
+      "translation": "Welcome to our caf\u00e9!",
+      "context": "Greeting a customer"
+    },
+    {
+      "phrase": "Saya ingin duduk di dekat jendela.",
+      "translation": "I would like to sit by the window.",
+      "context": "Choosing a seat"
+    },
+    {
+      "phrase": "Apakah ada selimut di sini?",
+      "translation": "Is there a blanket here?",
+      "context": "Asking for warmth"
+    },
+    {
+      "phrase": "Haruskah kita membuat reservasi?",
+      "translation": "Should we make a reservation?",
+      "context": "Planning ahead"
+    },
+    {
+      "phrase": "Bisakah saya dapat sebotol air?",
+      "translation": "Can I get a bottle of water?",
+      "context": "Requesting a drink"
+    },
+    {
+      "phrase": "Jatkan t\u00e4n\u00e4n viel\u00e4.",
+      "translation": "I will continue today.",
+      "context": "Staying longer"
+    },
+    {
+      "phrase": "T\u00e4n\u00e4n on iltajuha.",
+      "translation": "Today is an evening party.",
+      "context": "Announcing an event"
+    },
+    {
+      "phrase": "Terima kasih sudah datang!",
+      "translation": "Thanks for coming!",
+      "context": "Thanking guests"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Selamat datang! Apa yang Anda inginkan?",
+      "translation": "Welcome! What would you like?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saya mau latte dan croissant.",
+      "translation": "I'd like a latte and a croissant."
+    },
+    {
+      "speaker": "A",
+      "text": "Anda mau susu atau susu vegan?",
+      "translation": "Do you want milk or vegan milk?"
+    },
+    {
+      "speaker": "B",
+      "text": "Susu oat, terima kasih.",
+      "translation": "Oat milk, please."
+    },
+    {
+      "speaker": "A",
+      "text": "Lainnya?",
+      "translation": "Anything else?"
+    },
+    {
+      "speaker": "B",
+      "text": "Tidak terima kasih, itu cukup.",
+      "translation": "No thanks, that's enough."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagus! Ini nomor Anda.",
+      "translation": "Great! Here's your number."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih!",
+      "translation": "Thank you!"
+    },
+    {
+      "speaker": "A",
+      "text": "Selamat datang! Apa yang kamu minum?",
+      "translation": "Welcome! What are you drinking?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saya mau teh dan roti manis.",
+      "translation": "I will have tea and a pastry."
+    },
+    {
+      "speaker": "A",
+      "text": "Ayo duduk di atas sini.",
+      "translation": "Let us sit up here."
+    },
+    {
+      "speaker": "B",
+      "text": "Baik, sampai jumpa nanti.",
+      "translation": "Good, see you later."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah kamu mau bergabung dengan kami?",
+      "translation": "Do you want to join us?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, tentu!",
+      "translation": "Yes, definitely!"
+    },
+    {
+      "speaker": "A",
+      "text": "Kita harus segera pergi.",
+      "translation": "We should leave soon."
+    },
+    {
+      "speaker": "B",
+      "text": "Saya menunggu lebih lama lagi.",
+      "translation": "I will wait a bit longer."
+    }
+  ]
+}

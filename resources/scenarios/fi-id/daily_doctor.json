@@ -1,0 +1,342 @@
+{
+  "id": "daily_doctor",
+  "title": "Kunjungan Dokter",
+  "description": "Mengunjungi dokter dan membahas kesehatan dalam bahasa Finlandia",
+  "category": "MEDICAL",
+  "icon": "LocalHospital",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "kehidupan",
+      "translation": "life",
+      "pos": "noun",
+      "example": "Kehidupan indah.",
+      "exampleTranslation": "Life is beautiful."
+    },
+    {
+      "word": "merawat",
+      "translation": "to treat, to care for",
+      "pos": "verb",
+      "example": "Dokter merawat pasien.",
+      "exampleTranslation": "The doctor treats the patient."
+    },
+    {
+      "word": "perawatan",
+      "translation": "treatment, care",
+      "pos": "noun",
+      "example": "Perawatan itu penting.",
+      "exampleTranslation": "Treatment is important."
+    },
+    {
+      "word": "nyeri",
+      "translation": "pain",
+      "pos": "noun",
+      "example": "Nyerinya parah.",
+      "exampleTranslation": "The pain is bad."
+    },
+    {
+      "word": "obat",
+      "translation": "medicine",
+      "pos": "noun",
+      "example": "Obatnya membantu.",
+      "exampleTranslation": "The medicine helps."
+    },
+    {
+      "word": "dokter",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "Dokternya profesional.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "perut",
+      "translation": "stomach",
+      "pos": "noun",
+      "example": "Perut saya sakit.",
+      "exampleTranslation": "My stomach hurts."
+    },
+    {
+      "word": "susu",
+      "translation": "milk",
+      "pos": "noun",
+      "example": "Susu itu sehat.",
+      "exampleTranslation": "Milk is healthy."
+    },
+    {
+      "word": "leher",
+      "translation": "neck",
+      "pos": "noun",
+      "example": "Lehernya kaku.",
+      "exampleTranslation": "The neck is stiff."
+    },
+    {
+      "word": "makan",
+      "translation": "to eat",
+      "pos": "verb",
+      "example": "Harus makan sehat.",
+      "exampleTranslation": "You should eat healthily."
+    },
+    {
+      "word": "gula darah",
+      "translation": "blood sugar",
+      "pos": "noun",
+      "example": "Gula darahnya tinggi.",
+      "exampleTranslation": "The blood sugar is high."
+    },
+    {
+      "word": "minggu",
+      "translation": "week",
+      "pos": "noun",
+      "example": "Satu minggu waktu yang lama.",
+      "exampleTranslation": "A week is a long time."
+    },
+    {
+      "word": "pasien",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "Pasien sedang menunggu.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "telah berkunjung",
+      "translation": "visited",
+      "pos": "participle",
+      "example": "Saya sudah berkunjung ke dokter.",
+      "exampleTranslation": "I have visited the doctor."
+    },
+    {
+      "word": "sirkulasi darah",
+      "translation": "blood circulation",
+      "pos": "noun",
+      "example": "Sirkulasi darahnya bagus.",
+      "exampleTranslation": "Blood circulation is good."
+    },
+    {
+      "word": "dosis",
+      "translation": "dose",
+      "pos": "noun",
+      "example": "Dosisnya tepat.",
+      "exampleTranslation": "The dose is correct."
+    },
+    {
+      "word": "gejala",
+      "translation": "symptom",
+      "pos": "noun",
+      "example": "Gejalanya muncul di pagi hari.",
+      "exampleTranslation": "The symptom appears in the morning."
+    },
+    {
+      "word": "diagnosis",
+      "translation": "diagnosis",
+      "pos": "noun",
+      "example": "Diagnosisnya jelas.",
+      "exampleTranslation": "The diagnosis is clear."
+    },
+    {
+      "word": "kesehatan",
+      "translation": "health",
+      "pos": "noun",
+      "example": "Kesehatan itu penting.",
+      "exampleTranslation": "Health is important."
+    },
+    {
+      "word": "istirahat",
+      "translation": "rest",
+      "pos": "noun",
+      "example": "Istirahat diperlukan.",
+      "exampleTranslation": "Rest is needed."
+    },
+    {
+      "word": "darah",
+      "translation": "blood",
+      "pos": "noun",
+      "example": "Darah berwarna merah.",
+      "exampleTranslation": "Blood is red."
+    },
+    {
+      "word": "suhu tubuh",
+      "translation": "body temperature",
+      "pos": "noun",
+      "example": "Suhu tubuh normal.",
+      "exampleTranslation": "Body temperature is normal."
+    },
+    {
+      "word": "rontgen",
+      "translation": "x-ray",
+      "pos": "noun",
+      "example": "Rontgennya sudah dilakukan.",
+      "exampleTranslation": "The x-ray has been taken."
+    },
+    {
+      "word": "sehat",
+      "translation": "healthy",
+      "pos": "adjective",
+      "example": "Saya sehat.",
+      "exampleTranslation": "I am healthy."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Saya sakit kepala.",
+      "translation": "I have a headache.",
+      "context": "Describing symptom"
+    },
+    {
+      "phrase": "Sakitnya dimana?",
+      "translation": "Where does it hurt?",
+      "context": "Doctor asking"
+    },
+    {
+      "phrase": "Minum obat dua kali sehari.",
+      "translation": "Take the medicine twice a day.",
+      "context": "Doctor's instruction"
+    },
+    {
+      "phrase": "Datang untuk kontrol seminggu lagi.",
+      "translation": "Come for a check-up in a week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "Saya flu.",
+      "translation": "I have the flu.",
+      "context": "Describing illness"
+    },
+    {
+      "phrase": "Saya butuh cuti sakit.",
+      "translation": "I need sick leave.",
+      "context": "Requesting sick leave"
+    },
+    {
+      "phrase": "Apakah obat ini aman?",
+      "translation": "Is this medicine safe?",
+      "context": "Asking about medicine"
+    },
+    {
+      "phrase": "Saya alergi.",
+      "translation": "I have an allergy.",
+      "context": "Mentioning allergy"
+    },
+    {
+      "phrase": "Berapa lama perawatan berlangsung?",
+      "translation": "How long does the treatment last?",
+      "context": "Asking about duration"
+    },
+    {
+      "phrase": "Saya nyeri di dada.",
+      "translation": "I have pain in my chest.",
+      "context": "Describing pain"
+    },
+    {
+      "phrase": "Saya butuh resep.",
+      "translation": "I need a prescription.",
+      "context": "Requesting prescription"
+    },
+    {
+      "phrase": "Saya insomnia.",
+      "translation": "I have insomnia.",
+      "context": "Describing sleep issues"
+    },
+    {
+      "phrase": "Apakah ada alternatif lain?",
+      "translation": "Are there other options?",
+      "context": "Asking about alternatives"
+    },
+    {
+      "phrase": "Saya hipertensi.",
+      "translation": "I have high blood pressure.",
+      "context": "Describing condition"
+    },
+    {
+      "phrase": "Terima kasih atas saran Anda.",
+      "translation": "Thank you for your advice.",
+      "context": "Thanking doctor"
+    },
+    {
+      "phrase": "Saya akan datang lagi sebulan lagi.",
+      "translation": "I will come again in a month.",
+      "context": "Scheduling next visit"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Selamat pagi! Apa masalahnya?",
+      "translation": "Good morning! What is the problem?"
+    },
+    {
+      "speaker": "B",
+      "text": "Saya sudah sakit kepala sehari.",
+      "translation": "I have had a headache for a day."
+    },
+    {
+      "speaker": "A",
+      "text": "Sakitnya dimana?",
+      "translation": "Where does it hurt?"
+    },
+    {
+      "speaker": "B",
+      "text": "Di dahi dan belakang kepala.",
+      "translation": "On the forehead and back of the head."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah ada gejala lain?",
+      "translation": "Are there other symptoms?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, saya juga demam.",
+      "translation": "Yes, I also have a fever."
+    },
+    {
+      "speaker": "A",
+      "text": "Ayo ukur suhunya.",
+      "translation": "Let us measure the temperature."
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, terima kasih.",
+      "translation": "Yes, thank you."
+    },
+    {
+      "speaker": "A",
+      "text": "Suhunya 38,5 derajat. Anda flu.",
+      "translation": "The temperature is 38.5 degrees. You have the flu."
+    },
+    {
+      "speaker": "B",
+      "text": "Apa yang harus saya lakukan?",
+      "translation": "What should I do?"
+    },
+    {
+      "speaker": "A",
+      "text": "Istirahat di rumah dan minum banyak air.",
+      "translation": "Rest at home and drink plenty of water."
+    },
+    {
+      "speaker": "B",
+      "text": "Apakah saya butuh obat?",
+      "translation": "Do I need medicine?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ya, saya beri resepnya.",
+      "translation": "Yes, I will give you a prescription."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih, doktor.",
+      "translation": "Thank you, doctor."
+    },
+    {
+      "speaker": "A",
+      "text": "Datang lagi jika tidak membaik.",
+      "translation": "Come back if it doesn't get better."
+    },
+    {
+      "speaker": "B",
+      "text": "Terima kasih atas perhatiannya!",
+      "translation": "Thank you for your care!"
+    }
+  ]
+}

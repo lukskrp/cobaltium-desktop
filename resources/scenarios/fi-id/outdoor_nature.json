@@ -1,0 +1,342 @@
+{
+  "id": "outdoor_nature",
+  "title": "Alam",
+  "description": "Menjelajahi alam Finlandia dan kegiatan outdoor",
+  "category": "OUTDOOR",
+  "icon": "Forest",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "hutan",
+      "translation": "forest",
+      "pos": "noun",
+      "example": "Hutannya indah.",
+      "exampleTranslation": "The forest is beautiful."
+    },
+    {
+      "word": "danau",
+      "translation": "lake",
+      "pos": "noun",
+      "example": "Danau-nya jernih.",
+      "exampleTranslation": "The lake is clear."
+    },
+    {
+      "word": "jalur",
+      "translation": "trail, path",
+      "pos": "noun",
+      "example": "Jalurnya panjang.",
+      "exampleTranslation": "The trail is long."
+    },
+    {
+      "word": "mendaki",
+      "translation": "hiking",
+      "pos": "noun",
+      "example": "Mendaki itu populer.",
+      "exampleTranslation": "Hiking is popular."
+    },
+    {
+      "word": "tenda",
+      "translation": "tent",
+      "pos": "noun",
+      "example": "Tendanya sudah didirikan.",
+      "exampleTranslation": "The tent is set up."
+    },
+    {
+      "word": "api unggun",
+      "translation": "campfire",
+      "pos": "noun",
+      "example": "Api unggun menghangatkan.",
+      "exampleTranslation": "The campfire warms."
+    },
+    {
+      "word": "perlindungan",
+      "translation": "protection, shelter",
+      "pos": "noun",
+      "example": "Perlindungan itu penting.",
+      "exampleTranslation": "Protection is important."
+    },
+    {
+      "word": "cuaca",
+      "translation": "weather",
+      "pos": "noun",
+      "example": "Cuacanya bagus.",
+      "exampleTranslation": "The weather is good."
+    },
+    {
+      "word": "gunung",
+      "translation": "mountain, hill",
+      "pos": "noun",
+      "example": "Gunungnya tinggi.",
+      "exampleTranslation": "The mountain is tall."
+    },
+    {
+      "word": "sungai",
+      "translation": "river",
+      "pos": "noun",
+      "example": "Sungainya deras.",
+      "exampleTranslation": "The river is fast."
+    },
+    {
+      "word": "batu",
+      "translation": "stone, rock",
+      "pos": "noun",
+      "example": "Batunya besar.",
+      "exampleTranslation": "The stone is large."
+    },
+    {
+      "word": "pohon",
+      "translation": "tree",
+      "pos": "noun",
+      "example": "Pohonnya tua.",
+      "exampleTranslation": "The tree is old."
+    },
+    {
+      "word": "burung",
+      "translation": "bird",
+      "pos": "noun",
+      "example": "Burungnya bernyanyi.",
+      "exampleTranslation": "The bird sings."
+    },
+    {
+      "word": "ikan",
+      "translation": "fish",
+      "pos": "noun",
+      "example": "Ikannya melompat di air.",
+      "exampleTranslation": "The fish jumps in the water."
+    },
+    {
+      "word": "jamur",
+      "translation": "mushroom",
+      "pos": "noun",
+      "example": "Jamurnya tumbuh di hutan.",
+      "exampleTranslation": "The mushroom grows in the forest."
+    },
+    {
+      "word": "beri",
+      "translation": "berry",
+      "pos": "noun",
+      "example": "Berinya merah.",
+      "exampleTranslation": "The berry is red."
+    },
+    {
+      "word": "salju",
+      "translation": "snow",
+      "pos": "noun",
+      "example": "Saljunya putih.",
+      "exampleTranslation": "The snow is white."
+    },
+    {
+      "word": "es",
+      "translation": "ice",
+      "pos": "noun",
+      "example": "Esnya tipis.",
+      "exampleTranslation": "The ice is thin."
+    },
+    {
+      "word": "matahari",
+      "translation": "sun",
+      "pos": "noun",
+      "example": "Mataharinya bersinar.",
+      "exampleTranslation": "The sun shines."
+    },
+    {
+      "word": "bulan",
+      "translation": "moon",
+      "pos": "noun",
+      "example": "Bulannya purnama.",
+      "exampleTranslation": "The moon is full."
+    },
+    {
+      "word": "bintang",
+      "translation": "star",
+      "pos": "noun",
+      "example": "Bintang-bintangnya bersinar.",
+      "exampleTranslation": "The stars shine."
+    },
+    {
+      "word": "sore",
+      "translation": "evening",
+      "pos": "noun",
+      "example": "Sore-nya indah.",
+      "exampleTranslation": "The evening is beautiful."
+    },
+    {
+      "word": "pagi",
+      "translation": "morning",
+      "pos": "noun",
+      "example": "Paginya segar.",
+      "exampleTranslation": "The morning is fresh."
+    },
+    {
+      "word": "panas",
+      "translation": "summer",
+      "pos": "noun",
+      "example": "Panassnya hangat.",
+      "exampleTranslation": "The summer is warm."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Ayo pergi mendaki!",
+      "translation": "Let us go on a hike!",
+      "context": "Suggesting a hike"
+    },
+    {
+      "phrase": "Apakah jalurnya sulit?",
+      "translation": "Is the trail difficult?",
+      "context": "Asking about difficulty"
+    },
+    {
+      "phrase": "Dimana danau terdekat?",
+      "translation": "Where is the nearest lake?",
+      "context": "Finding a lake"
+    },
+    {
+      "phrase": "Bisakah saya mendirikan tenda di sini?",
+      "translation": "Can I camp here?",
+      "context": "Asking about camping"
+    },
+    {
+      "phrase": "Apakah boleh menyalakan api unggun?",
+      "translation": "Can I have a campfire?",
+      "context": "Campfire rules"
+    },
+    {
+      "phrase": "Apakah ada alam di sini?",
+      "translation": "Is there wilderness here?",
+      "context": "Asking about nature"
+    },
+    {
+      "phrase": "Saya ingin memancing.",
+      "translation": "I would like to fish.",
+      "context": "Fishing"
+    },
+    {
+      "phrase": "Dimana jalur mendakinya?",
+      "translation": "Where is the hiking trail?",
+      "context": "Finding trails"
+    },
+    {
+      "phrase": "Seberapa panjang jalurnya?",
+      "translation": "How long is the trail?",
+      "context": "Trail length"
+    },
+    {
+      "phrase": "Apakah ada perkemahan di sini?",
+      "translation": "Is there a campsite here?",
+      "context": "Finding campsite"
+    },
+    {
+      "phrase": "Saya butuh peta.",
+      "translation": "I need a map.",
+      "context": "Navigation"
+    },
+    {
+      "phrase": "Apakah boleh memetik beri?",
+      "translation": "Can I pick berries?",
+      "context": "Foraging"
+    },
+    {
+      "phrase": "Apakah ada bahaya di sini?",
+      "translation": "Are there dangers here?",
+      "context": "Safety"
+    },
+    {
+      "phrase": "Berapa lama waktunya?",
+      "translation": "How long does it take?",
+      "context": "Duration"
+    },
+    {
+      "phrase": "Saya akan membawa bekal.",
+      "translation": "I will bring snacks.",
+      "context": "Preparing"
+    },
+    {
+      "phrase": "Terima kasih atas alamnya!",
+      "translation": "Thank you for the nature!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Cuacanya bagus hari ini!",
+      "translation": "Great weather today!"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya! Apakah kamu ingin pergi mendaki?",
+      "translation": "Yes! Do you want to go hiking?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ya! Dimana jalurnya?",
+      "translation": "Yes! Where is the trail?"
+    },
+    {
+      "speaker": "B",
+      "text": "Itu dimulai dari tepi hutan sana.",
+      "translation": "It starts from the edge of the forest there."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagus! Saya akan membawa tendanya.",
+      "translation": "Great! I will bring the tent."
+    },
+    {
+      "speaker": "B",
+      "text": "Ide bagus. Kami juga punya perlengkapan api unggun.",
+      "translation": "Good idea. We also have campfire equipment."
+    },
+    {
+      "speaker": "A",
+      "text": "Bisakah kita memancing di danau?",
+      "translation": "Can we fish at the lake?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, kamu butuh izin.",
+      "translation": "Yes, you need a permit."
+    },
+    {
+      "speaker": "A",
+      "text": "Dimana saya bisa mendapatkan izin?",
+      "translation": "Where can I get a permit?"
+    },
+    {
+      "speaker": "B",
+      "text": "Dari toko setempat.",
+      "translation": "From the local store."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah ada beri di sini?",
+      "translation": "Are there berries here?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, ada banyak blueberry.",
+      "translation": "Yes, there are many blueberries."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagus! Saya akan membawa keranjang.",
+      "translation": "Great! I will bring a basket."
+    },
+    {
+      "speaker": "B",
+      "text": "Jangan lupa minum air.",
+      "translation": "Remember to drink water."
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih atas sarannya! Ini bagus.",
+      "translation": "Thank you for the tip! This is great."
+    },
+    {
+      "speaker": "B",
+      "text": "Kami hampir di perkemahan.",
+      "translation": "We are almost at the campsite."
+    }
+  ]
+}

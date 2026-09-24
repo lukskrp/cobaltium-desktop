@@ -1,0 +1,342 @@
+{
+  "id": "business_meeting",
+  "title": "R\u00e9union d'affaires",
+  "description": "Participer \u00e0 une r\u00e9union d'affaires finlandaise",
+  "category": "BUSINESS",
+  "icon": "BusinessCenter",
+  "languagePair": "fi-fr",
+  "vocabulary": [
+    {
+      "word": "cl\u00e9",
+      "translation": "key",
+      "pos": "noun",
+      "example": "La cl\u00e9 est sur la table.",
+      "exampleTranslation": "The key is on the table."
+    },
+    {
+      "word": "r\u00e9union",
+      "translation": "meeting",
+      "pos": "noun",
+      "example": "La r\u00e9union commence \u00e0 dix heures.",
+      "exampleTranslation": "The meeting starts at ten o'clock."
+    },
+    {
+      "word": "calendrier",
+      "translation": "calendar",
+      "pos": "noun",
+      "example": "V\u00e9rifiez le calendrier.",
+      "exampleTranslation": "Check the calendar."
+    },
+    {
+      "word": "pr\u00e9sent",
+      "translation": "present, in attendance",
+      "pos": "adjective",
+      "example": "Je suis pr\u00e9sent \u00e0 la r\u00e9union.",
+      "exampleTranslation": "I am present at the meeting."
+    },
+    {
+      "word": "table",
+      "translation": "table",
+      "pos": "noun",
+      "example": "Asseyons-nous autour de la table.",
+      "exampleTranslation": "Let us sit around the table."
+    },
+    {
+      "word": "chaise",
+      "translation": "chair",
+      "pos": "noun",
+      "example": "La chaise est confortable.",
+      "exampleTranslation": "The chair is comfortable."
+    },
+    {
+      "word": "projet",
+      "translation": "project",
+      "pos": "noun",
+      "example": "Le projet progresse bien.",
+      "exampleTranslation": "The project is progressing well."
+    },
+    {
+      "word": "rapport",
+      "translation": "report",
+      "pos": "noun",
+      "example": "Le rapport est pr\u00eat.",
+      "exampleTranslation": "The report is ready."
+    },
+    {
+      "word": "t\u00e2che",
+      "translation": "task, duty",
+      "pos": "noun",
+      "example": "La t\u00e2che est importante.",
+      "exampleTranslation": "The task is important."
+    },
+    {
+      "word": "r\u00e9sultat",
+      "translation": "result",
+      "pos": "noun",
+      "example": "Le r\u00e9sultat est attendu.",
+      "exampleTranslation": "The result is expected."
+    },
+    {
+      "word": "rendez-vous",
+      "translation": "meeting, appointment",
+      "pos": "noun",
+      "example": "Le rendez-vous est demain.",
+      "exampleTranslation": "The meeting is tomorrow."
+    },
+    {
+      "word": "travail",
+      "translation": "work",
+      "pos": "noun",
+      "example": "Le travail est important.",
+      "exampleTranslation": "Work is important."
+    },
+    {
+      "word": "pr\u00e9senter",
+      "translation": "to present",
+      "pos": "verb",
+      "example": "Je voudrais pr\u00e9senter une id\u00e9e.",
+      "exampleTranslation": "I would like to present an idea."
+    },
+    {
+      "word": "v\u00e9rifier",
+      "translation": "to check",
+      "pos": "verb",
+      "example": "V\u00e9rifiez le document.",
+      "exampleTranslation": "Check the document."
+    },
+    {
+      "word": "planifier",
+      "translation": "to plan",
+      "pos": "verb",
+      "example": "Nous planifions un nouveau projet.",
+      "exampleTranslation": "We are planning a new project."
+    },
+    {
+      "word": "d\u00e9cider",
+      "translation": "to decide",
+      "pos": "verb",
+      "example": "Nous d\u00e9cidons lors de la r\u00e9union.",
+      "exampleTranslation": "We decide at the meeting."
+    },
+    {
+      "word": "proposition",
+      "translation": "proposal, suggestion",
+      "pos": "noun",
+      "example": "C'est une bonne proposition.",
+      "exampleTranslation": "This is a good proposal."
+    },
+    {
+      "word": "budget",
+      "translation": "budget",
+      "pos": "noun",
+      "example": "Le budget est limit\u00e9.",
+      "exampleTranslation": "The budget is limited."
+    },
+    {
+      "word": "emploi du temps",
+      "translation": "schedule, timetable",
+      "pos": "noun",
+      "example": "L'emploi du temps est serr\u00e9.",
+      "exampleTranslation": "The schedule is tight."
+    },
+    {
+      "word": "collaboration",
+      "translation": "cooperation",
+      "pos": "noun",
+      "example": "La collaboration est importante.",
+      "exampleTranslation": "Cooperation is important."
+    },
+    {
+      "word": "responsable",
+      "translation": "responsible",
+      "pos": "adjective",
+      "example": "Je suis responsable de ceci.",
+      "exampleTranslation": "I am responsible for this."
+    },
+    {
+      "word": "objectif",
+      "translation": "goal, target",
+      "pos": "noun",
+      "example": "L'objectif est clair.",
+      "exampleTranslation": "The goal is clear."
+    },
+    {
+      "word": "donner un avis",
+      "translation": "to give feedback",
+      "pos": "verb",
+      "example": "Puis-je donner mon avis l\u00e0-dessus ?",
+      "exampleTranslation": "Can I give feedback on this?"
+    },
+    {
+      "word": "organiser",
+      "translation": "to organize",
+      "pos": "verb",
+      "example": "Nous organisons un rendez-vous.",
+      "exampleTranslation": "We are organizing a meeting."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Commencerons-nous la r\u00e9union ?",
+      "translation": "Shall we start the meeting?",
+      "context": "Starting a meeting"
+    },
+    {
+      "phrase": "Qu'en pensez-vous ?",
+      "translation": "What do you think?",
+      "context": "Asking for opinions"
+    },
+    {
+      "phrase": "Je propose que...",
+      "translation": "I suggest that...",
+      "context": "Making a suggestion"
+    },
+    {
+      "phrase": "Nous sommes d'accord.",
+      "translation": "We agree.",
+      "context": "Expressing agreement"
+    },
+    {
+      "phrase": "Nous avons besoin de plus de temps.",
+      "translation": "We need more time.",
+      "context": "Requesting time"
+    },
+    {
+      "phrase": "La question est importante.",
+      "translation": "The question is important.",
+      "context": "Emphasizing importance"
+    },
+    {
+      "phrase": "Pouvons-nous d\u00e9cider maintenant ?",
+      "translation": "Can we decide now?",
+      "context": "Pushing for decision"
+    },
+    {
+      "phrase": "Merci \u00e0 tous.",
+      "translation": "Thank you everyone.",
+      "context": "Ending a meeting"
+    },
+    {
+      "phrase": "Je pr\u00e9senterai le prochain point.",
+      "translation": "I will present the next point.",
+      "context": "Moving to next topic"
+    },
+    {
+      "phrase": "Y a-t-il des questions ?",
+      "translation": "Are there any questions?",
+      "context": "Opening for questions"
+    },
+    {
+      "phrase": "Revenons-y plus tard.",
+      "translation": "Let us return to this later.",
+      "context": "Deferring discussion"
+    },
+    {
+      "phrase": "Cela n\u00e9cessite un examen plus approfondi.",
+      "translation": "This requires closer examination.",
+      "context": "Requesting more analysis"
+    },
+    {
+      "phrase": "Nous sommes dans les temps.",
+      "translation": "We are on schedule.",
+      "context": "Status update"
+    },
+    {
+      "phrase": "Le groupe de travail poursuivra ceci.",
+      "translation": "The working group will continue this.",
+      "context": "Delegating task"
+    },
+    {
+      "phrase": "La prochaine r\u00e9union est la semaine prochaine.",
+      "translation": "The next meeting is next week.",
+      "context": "Scheduling follow-up"
+    },
+    {
+      "phrase": "Merci pour la bonne discussion.",
+      "translation": "Thank you for the good discussion.",
+      "context": "Closing remark"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Bonjour \u00e0 tous. Commencons-nous ?",
+      "translation": "Good morning everyone. Shall we start?"
+    },
+    {
+      "speaker": "B",
+      "text": "Oui, nous sommes pr\u00eats.",
+      "translation": "Yes, we are ready."
+    },
+    {
+      "speaker": "A",
+      "text": "Aujourd'hui nous traiterons le nouveau projet.",
+      "translation": "Today we will discuss the new project."
+    },
+    {
+      "speaker": "B",
+      "text": "Quel est l'objectif du projet ?",
+      "translation": "What is the goal of the project?"
+    },
+    {
+      "speaker": "A",
+      "text": "L'objectif est d'am\u00e9liorer la satisfaction client.",
+      "translation": "The goal is to improve customer satisfaction."
+    },
+    {
+      "speaker": "B",
+      "text": "Quel est l'emploi du temps ?",
+      "translation": "What is the schedule?"
+    },
+    {
+      "speaker": "A",
+      "text": "Nous voulons le terminer en trois mois.",
+      "translation": "We want to have it ready in three months."
+    },
+    {
+      "speaker": "B",
+      "text": "C'est un emploi du temps serr\u00e9.",
+      "translation": "That is a tight schedule."
+    },
+    {
+      "speaker": "A",
+      "text": "Nous avons besoin de plus de ressources.",
+      "translation": "We need more resources."
+    },
+    {
+      "speaker": "B",
+      "text": "Nous pouvons utiliser le budget du prochain trimestre.",
+      "translation": "We can use the budget from next quarter."
+    },
+    {
+      "speaker": "A",
+      "text": "Bonne id\u00e9e. Qui est responsable du projet ?",
+      "translation": "Good idea. Who is responsible for the project?"
+    },
+    {
+      "speaker": "B",
+      "text": "Je peux prendre la responsabilit\u00e9.",
+      "translation": "I can take responsibility."
+    },
+    {
+      "speaker": "A",
+      "text": "Excellent. Organisons la prochaine r\u00e9union la semaine prochaine.",
+      "translation": "Excellent. Let us hold the next meeting next week."
+    },
+    {
+      "speaker": "B",
+      "text": "D'accord. Merci \u00e0 tous.",
+      "translation": "Agreed. Thank you everyone."
+    },
+    {
+      "speaker": "A",
+      "text": "Bonne journ\u00e9e \u00e0 tous.",
+      "translation": "Have a good day everyone."
+    },
+    {
+      "speaker": "B",
+      "text": "Merci, vous aussi.",
+      "translation": "Thank you, you too."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "emergency_safety",
+  "title": "Keselamatan",
+  "description": "Menghadapi keadaan darurat dan membahas keselamatan dalam bahasa Finlandia",
+  "category": "EMERGENCY",
+  "icon": "Emergency",
+  "languagePair": "fi-id",
+  "vocabulary": [
+    {
+      "word": "keadaan darurat",
+      "translation": "emergency",
+      "pos": "noun",
+      "example": "Ini keadaan darurat.",
+      "exampleTranslation": "This is an emergency."
+    },
+    {
+      "word": "kebakaran",
+      "translation": "fire",
+      "pos": "noun",
+      "example": "Kebakarannya besar.",
+      "exampleTranslation": "The fire is large."
+    },
+    {
+      "word": "ambulans",
+      "translation": "ambulance",
+      "pos": "noun",
+      "example": "Ambulans datang.",
+      "exampleTranslation": "The ambulance is coming."
+    },
+    {
+      "word": "polisi",
+      "translation": "police",
+      "pos": "noun",
+      "example": "Polisi sudah di lokasi.",
+      "exampleTranslation": "The police are on the scene."
+    },
+    {
+      "word": "cedera",
+      "translation": "injury",
+      "pos": "noun",
+      "example": "Cederanya serius.",
+      "exampleTranslation": "The injury is serious."
+    },
+    {
+      "word": "pertolongan pertama",
+      "translation": "first aid",
+      "pos": "noun",
+      "example": "Pertolongan pertama itu penting.",
+      "exampleTranslation": "First aid is important."
+    },
+    {
+      "word": "keselamatan",
+      "translation": "safety",
+      "pos": "noun",
+      "example": "Keselamatan terlebih dahulu.",
+      "exampleTranslation": "Safety first."
+    },
+    {
+      "word": "bahaya",
+      "translation": "danger",
+      "pos": "noun",
+      "example": "Bahaya sudah dekat.",
+      "exampleTranslation": "The danger is near."
+    },
+    {
+      "word": "peringatan",
+      "translation": "warning",
+      "pos": "noun",
+      "example": "Peringatan itu penting.",
+      "exampleTranslation": "The warning is important."
+    },
+    {
+      "word": "kecelakaan",
+      "translation": "accident",
+      "pos": "noun",
+      "example": "Kecelakaan terjadi.",
+      "exampleTranslation": "The accident happened."
+    },
+    {
+      "word": "pusat darurat",
+      "translation": "emergency center",
+      "pos": "noun",
+      "example": "Hubungi pusat darurat.",
+      "exampleTranslation": "Call the emergency center."
+    },
+    {
+      "word": "pemadam kebakaran",
+      "translation": "fire extinguisher",
+      "pos": "noun",
+      "example": "Pemadam kebakaran ada di sana.",
+      "exampleTranslation": "The fire extinguisher is there."
+    },
+    {
+      "word": "penyelamatan",
+      "translation": "rescue, salvation",
+      "pos": "noun",
+      "example": "Penyelamatan datang.",
+      "exampleTranslation": "Rescue is coming."
+    },
+    {
+      "word": "penyakit",
+      "translation": "illness, disease",
+      "pos": "noun",
+      "example": "Penyakitnya ringan.",
+      "exampleTranslation": "The illness is mild."
+    },
+    {
+      "word": "dokter",
+      "translation": "doctor",
+      "pos": "noun",
+      "example": "Dokternya profesional.",
+      "exampleTranslation": "The doctor is a professional."
+    },
+    {
+      "word": "rumah sakit",
+      "translation": "hospital",
+      "pos": "noun",
+      "example": "Rumah sakit dekat.",
+      "exampleTranslation": "The hospital is near."
+    },
+    {
+      "word": "pasien",
+      "translation": "patient",
+      "pos": "noun",
+      "example": "Pasien sedang menunggu.",
+      "exampleTranslation": "The patient is waiting."
+    },
+    {
+      "word": "terluka",
+      "translation": "to get injured",
+      "pos": "verb",
+      "example": "Dia terluka.",
+      "exampleTranslation": "He got injured."
+    },
+    {
+      "word": "memadamkan",
+      "translation": "to extinguish",
+      "pos": "verb",
+      "example": "Kita memadamkan api.",
+      "exampleTranslation": "We extinguish the fire."
+    },
+    {
+      "word": "menelepon",
+      "translation": "to call, to phone",
+      "pos": "verb",
+      "example": "Hubungi 112.",
+      "exampleTranslation": "Call 112."
+    },
+    {
+      "word": "membantu",
+      "translation": "to help",
+      "pos": "verb",
+      "example": "Saya membantu kamu.",
+      "exampleTranslation": "I help you."
+    },
+    {
+      "word": "menyelamatkan",
+      "translation": "to rescue, to save",
+      "pos": "verb",
+      "example": "Kita menyelamatkan mereka.",
+      "exampleTranslation": "We rescue them."
+    },
+    {
+      "word": "berhati-hati",
+      "translation": "to beware, to watch out",
+      "pos": "verb",
+      "example": "Hati-hati dengan mobil!",
+      "exampleTranslation": "Watch out for the car!"
+    },
+    {
+      "word": "melindungi",
+      "translation": "to protect",
+      "pos": "verb",
+      "example": "Lindungi diri kalian.",
+      "exampleTranslation": "Protect yourselves."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Segera hubungi 112!",
+      "translation": "Call 112 immediately!",
+      "context": "Emergency call"
+    },
+    {
+      "phrase": "Saya butuh pertolongan pertama.",
+      "translation": "I need first aid.",
+      "context": "Medical emergency"
+    },
+    {
+      "phrase": "Dimana rumah sakitnya?",
+      "translation": "Where is the hospital?",
+      "context": "Finding hospital"
+    },
+    {
+      "phrase": "Apakah ada yang terluka?",
+      "translation": "Has anyone been injured?",
+      "context": "Checking injuries"
+    },
+    {
+      "phrase": "Tolong!",
+      "translation": "Help!",
+      "context": "Calling for help"
+    },
+    {
+      "phrase": "Di sana ada kebakaran.",
+      "translation": "There is a fire.",
+      "context": "Reporting fire"
+    },
+    {
+      "phrase": "Saya butuh polisi.",
+      "translation": "I need the police.",
+      "context": "Requesting police"
+    },
+    {
+      "phrase": "Dimana pemadam kebakarannya?",
+      "translation": "Where is the fire extinguisher?",
+      "context": "Fire safety"
+    },
+    {
+      "phrase": "Hati-hati, jangan ke sana!",
+      "translation": "Watch out, don't go there!",
+      "context": "Warning"
+    },
+    {
+      "phrase": "Apakah di sini aman?",
+      "translation": "Is it safe here?",
+      "context": "Safety check"
+    },
+    {
+      "phrase": "Saya butuh bantuan.",
+      "translation": "I need help.",
+      "context": "General help"
+    },
+    {
+      "phrase": "Siapa yang bisa pertolongan pertama?",
+      "translation": "Who knows first aid?",
+      "context": "Medical help"
+    },
+    {
+      "phrase": "Ke rumah sakit mana kita pergi?",
+      "translation": "Which hospital do we go to?",
+      "context": "Hospital direction"
+    },
+    {
+      "phrase": "Hubungi pusat darurat.",
+      "translation": "Contact the emergency center.",
+      "context": "Emergency contact"
+    },
+    {
+      "phrase": "Di sini ada kecelakaan.",
+      "translation": "There is an accident here.",
+      "context": "Reporting accident"
+    },
+    {
+      "phrase": "Terima kasih atas bantuannya yang cepat!",
+      "translation": "Thank you for the quick help!",
+      "context": "Expressing gratitude"
+    }
+  ],
+  "dialogues": [
+    {
+      "speaker": "A",
+      "text": "Darurat! Hubungi 112!",
+      "translation": "Emergency! Call 112!"
+    },
+    {
+      "speaker": "B",
+      "text": "Apa yang terjadi?",
+      "translation": "What happened?"
+    },
+    {
+      "speaker": "A",
+      "text": "Ada yang terluka.",
+      "translation": "Someone got injured."
+    },
+    {
+      "speaker": "B",
+      "text": "Saya memanggil ambulans.",
+      "translation": "I will call an ambulance."
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih! Apakah dia sudah dapat pertolongan pertama?",
+      "translation": "Thank you! Does he have first aid?"
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, saya bisa pertolongan pertama.",
+      "translation": "Yes, I know first aid."
+    },
+    {
+      "speaker": "A",
+      "text": "Bagus! Bantu dia.",
+      "translation": "Great! Help him."
+    },
+    {
+      "speaker": "B",
+      "text": "Saya akan membaringkannya untuk istirahat.",
+      "translation": "I will lay him down to rest."
+    },
+    {
+      "speaker": "A",
+      "text": "Ambulans datang.",
+      "translation": "The ambulance is coming."
+    },
+    {
+      "speaker": "B",
+      "text": "Bagus. Jaga dia.",
+      "translation": "Good. Keep an eye on him."
+    },
+    {
+      "speaker": "A",
+      "text": "Apakah ada kebakaran di dekat sini?",
+      "translation": "Is there a fire nearby?"
+    },
+    {
+      "speaker": "B",
+      "text": "Tidak, tapi hati-hati dengan panci panas.",
+      "translation": "No, but watch out for the hot container."
+    },
+    {
+      "speaker": "A",
+      "text": "Terima kasih atas peringatannya.",
+      "translation": "Thank you for the warning."
+    },
+    {
+      "speaker": "B",
+      "text": "Keselamatan terlebih dahulu.",
+      "translation": "Safety first."
+    },
+    {
+      "speaker": "A",
+      "text": "Ambulans sudah tiba.",
+      "translation": "The ambulance has arrived."
+    },
+    {
+      "speaker": "B",
+      "text": "Bagus! Dia sudah aman.",
+      "translation": "Great! He is safe."
+    }
+  ]
+}
