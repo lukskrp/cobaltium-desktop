@@ -10,6 +10,8 @@ One can use OpenAI compatible API, that is, one can use one's OWN local LLMs for
 
 Enjoy learning Japanese, Chinese, Polish, German etc, feel free to make pull requests on improvements on these languages I do not know much about myself.
 
+**"Cobaltium Shine, The Light of Understanding"** (no worries I came up with this myself, my mother likes Cobalt stained glass and was the inspiration for the name and icon and this slogan, the light being an allegory for the mind to shine the understanding of languages into it.
+
 Most of the code on this repository will be GPLv3 and some of it will be MIT as it was originally designed.
 
 Below this line, I will let an LLM generate more elaborate, technical descriptions that may be useful for somebody, this upper top part is my personal notes and thoughts:
