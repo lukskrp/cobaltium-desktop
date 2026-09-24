@@ -33,7 +33,7 @@ jobs:
         run: pnpm test
 
       - name: License audit
-        run: pnpm licenses
+        run: pnpm license-check
 
       - name: Build
         run: pnpm build

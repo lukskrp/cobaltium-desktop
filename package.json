@@ -24,7 +24,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "gen:locales": "node scripts/gen-locales.mjs",
-    "licenses": "node scripts/check-licenses.mjs",
+    "license-check": "node scripts/check-licenses.mjs",
     "build:espeak": "node scripts/build-espeak.mjs",
     "build:ja-bridge": "node scripts/build-ja-bridge.mjs",
     "build:tts": "node scripts/build-espeak.mjs && node scripts/build-ja-bridge.mjs",
