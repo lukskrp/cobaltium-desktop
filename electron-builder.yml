@@ -6,6 +6,10 @@ directories:
   buildResources: build
 
 files:
+  # '**/*' first: with only '!' patterns the matcher walks everything, but
+  # once positive patterns exist (LICENSE etc. below) ONLY matched files are
+  # packaged — without this, out/ never lands in app.asar (blank entry file).
+  - '**/*'
   - '!**/.vscode/*'
   - '!src/*'
   - '!vendor/*'
@@ -20,12 +24,11 @@ files:
   - '!{.env,.env.*,.npmrc,pnpm-lock.yaml}'
   - '!{tsconfig.json,tsconfig.node.json,tsconfig.web.json,drizzle.config.ts}'
   - '!{.github,README.md,CONTRIBUTING.md}'
-  - LICENSE
-  - THIRD_PARTY_NOTICES.md
-  - NOTICE.md
 
 extraResources:
   # GPLv3 §4-6: the license and third-party notices must accompany the binary.
+  # NOTE: files listed here are automatically EXCLUDED from app.asar by
+  # electron-builder (no duplication) — that is expected, not a bug.
   - from: LICENSE
     to: LICENSE
   - from: THIRD_PARTY_NOTICES.md

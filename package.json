@@ -4,6 +4,7 @@
   "description": "Cobaltium for desktop — a cross-platform language-learning workspace.",
   "main": "./out/main/index.js",
   "author": "Cobaltium contributors",
+  "packageManager": "pnpm@11.9.0",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/lukskrp/cobaltium-desktop",
   "repository": {
