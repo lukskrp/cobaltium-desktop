@@ -65,6 +65,8 @@ interface ChatToolbarState {
   glossaryCache: Record<string, SavedWordAnalysis>
   glossaryGenerating: Record<string, boolean>
   wordGlosses: Record<string, string>
+  /** Keys with a live word-gloss request in flight (dedup, like `glossaryGenerating`). */
+  wordGlossLoading: Record<string, boolean>
   toastTick: number
   /** Last save failure message, shown in the toast until the next save. */
   saveError: string | null
@@ -100,6 +102,7 @@ export const useChatToolbarStore = create<ChatToolbarState>((set, get) => ({
   glossaryCache: {},
   glossaryGenerating: {},
   wordGlosses: {},
+  wordGlossLoading: {},
   toastTick: 0,
   saveError: null,
 
@@ -268,13 +271,20 @@ export const useChatToolbarStore = create<ChatToolbarState>((set, get) => ({
 
   async glossWord(word, lang) {
     const key = `${word}:${lang}`
-    if (get().wordGlosses[key] || word.trim() === '') return
+    if (get().wordGlosses[key] || get().wordGlossLoading[key] || word.trim() === '') return
+    set((state) => ({ wordGlossLoading: { ...state.wordGlossLoading, [key]: true } }))
     try {
       const data = await getApi()?.translation.translate(word, lang, helperLang())
       const text = data?.sourceText?.trim()
       if (text) set((state) => ({ wordGlosses: { ...state.wordGlosses, [key]: text } }))
     } catch {
       // best-effort interlinear fallback
+    } finally {
+      set((state) => {
+        const next = { ...state.wordGlossLoading }
+        delete next[key]
+        return { wordGlossLoading: next }
+      })
     }
   },
 

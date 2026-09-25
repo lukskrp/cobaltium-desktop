@@ -1,6 +1,6 @@
 {
   "name": "cobaltium-desktop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cobaltium for desktop — a cross-platform language-learning workspace.",
   "main": "./out/main/index.js",
   "author": "Cobaltium contributors",

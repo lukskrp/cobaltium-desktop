@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { Bookmark, Copy, RefreshCw, Volume2 } from 'lucide-react'
 import { Languages } from '@shared/domain/languages'
 import { orientPhrasePair } from '@shared/domain/phrase-pair'
@@ -12,11 +12,20 @@ import { resolveTargetLang, useChatStore } from '@renderer/features/chat/chat-st
 import { useLexiconStore } from '@renderer/features/lexicon/lexicon-store'
 import { useSettingsStore } from '@renderer/features/settings/settings-store'
 import { glossaryKey, useChatToolbarStore } from '../chat-toolbar-store'
-import { GlossableText } from './GlossableText'
+import { GlossableText, tokenizeForGloss } from './GlossableText'
 import { ThinkingBlock } from './ThinkingBlock'
 import { ToolButton } from './ToolButton'
 import { TtsLoadingDots } from './TtsLoadingDots'
 import { WordGlossaryPopup } from './WordGlossaryPopup'
+
+/** Indices revealed against one face text (see `ImmersiveCard` state below). */
+interface FaceReveal {
+  text: string
+  indices: ReadonlySet<number>
+}
+
+/** Shared empty set so unrevealed faces return a stable reference. */
+const EMPTY_REVEAL: ReadonlySet<number> = new Set()
 
 /**
  * Flip card for the immersive/reflective modes: the front shows the translated
@@ -43,6 +52,8 @@ export function ImmersiveCard({ message }: { message: Message }): React.JSX.Elem
   const saveGranular = useChatToolbarStore((s) => s.saveGranular)
   const openGlossary = useChatToolbarStore((s) => s.openGlossary)
   const closeGlossary = useChatToolbarStore((s) => s.closeGlossary)
+  const wordGlosses = useChatToolbarStore((s) => s.wordGlosses)
+  const glossWord = useChatToolbarStore((s) => s.glossWord)
   const analysis = useChatToolbarStore((s) =>
     s.glossaryTarget
       ? (s.glossaryCache[glossaryKey(s.glossaryTarget.word, s.glossaryTarget.lang)] ?? null)
@@ -56,6 +67,13 @@ export function ImmersiveCard({ message }: { message: Message }): React.JSX.Elem
   const [savedPhrase, setSavedPhrase] = useState(false)
   const [popover, setPopover] = useState<{ word: string; x: number; y: number } | null>(null)
   const data = message.immersive
+  // Per-face reveal state (port of Android's `glossed` map in
+  // `ImmersiveCard`). Each entry carries the exact face text it was revealed
+  // against, so arriving translations (which re-tokenize the front face)
+  // invalidate stale indices without any reset effect. Front and back faces
+  // tokenize different texts, hence separate states.
+  const [revealedFront, setRevealedFront] = useState<FaceReveal | null>(null)
+  const [revealedBack, setRevealedBack] = useState<FaceReveal | null>(null)
 
   useEffect(() => {
     if (!data) void translateMessage(message)
@@ -73,11 +91,39 @@ export function ImmersiveCard({ message }: { message: Message }): React.JSX.Elem
     return filterGlossMap(data.sourceText, data.glossMap)
   }, [data])
 
-  function glossFor(word: string, lang: string): string {
-    return lookupGloss(filteredGlossMap, word, lang) ?? ''
+  const glossFor = useCallback(
+    (word: string, lang: string): string => lookupGloss(filteredGlossMap, word, lang) ?? '',
+    [filteredGlossMap]
+  )
+
+  /**
+   * Toggle the interlinear gloss under a tapped word (port of Android's
+   * `toggleReveal`): revealing with no sentence-map hit fires a live
+   * word-level lookup. `faceText` must be the exact rendered face text so the
+   * reveal binds to the right token stream. No-op when both languages coincide.
+   */
+  function toggleReveal(
+    face: 'front' | 'back',
+    word: string,
+    index: number,
+    lang: string,
+    faceText: string
+  ): void {
+    if (learn.toLowerCase() === helper.toLowerCase()) return
+    const [reveal, setReveal] =
+      face === 'front' ? [revealedFront, setRevealedFront] : [revealedBack, setRevealedBack]
+    const base = reveal && reveal.text === faceText ? reveal.indices : EMPTY_REVEAL
+    const next = new Set(base)
+    if (next.has(index)) {
+      next.delete(index)
+    } else {
+      next.add(index)
+      if (glossFor(word, lang) === '') void glossWord(word, lang)
+    }
+    setReveal({ text: faceText, indices: next })
   }
 
-  function wordHandler(lang: string, sourceText: string) {
+  function wordHandler(face: 'front' | 'back', lang: string, sourceText: string) {
     return (word: string, index: number, event: React.MouseEvent): void => {
       event.stopPropagation()
       if (glossaryMode) {
@@ -90,11 +136,37 @@ export function ImmersiveCard({ message }: { message: Message }): React.JSX.Elem
       }
       if (selectMode) {
         toggleSelection(message.id, lang, sourceText, index, word)
+        toggleReveal(face, word, index, lang, sourceText)
         return
       }
+      toggleReveal(face, word, index, lang, sourceText)
       setPopover({ word, x: event.clientX, y: event.clientY })
     }
   }
+
+  // Interlinear gloss for one face: re-tokenize exactly what its GlossableText
+  // renders (same tokenizer, same inputs) so reveal indices line up with the
+  // displayed words. Sentence-map hit first, live word lookup second; a word
+  // is never shown as its own gloss. Cheap: only revealed indices are visited.
+  function buildRevealedGlosses(text: string, lang: string, reveal: FaceReveal | null): Record<number, string> {
+    if (!reveal || reveal.text !== text || reveal.indices.size === 0) return {}
+    const tokens = tokenizeForGloss(text, lang)
+    const map: Record<number, string> = {}
+    for (const index of reveal.indices) {
+      const token = tokens[index]
+      if (!token?.word) continue
+      const gloss = glossFor(token.text, lang) || wordGlosses[`${token.text}:${lang}`] || ''
+      if (gloss !== '' && gloss.toLowerCase() !== token.text.toLowerCase()) {
+        map[index] = gloss
+      }
+    }
+    return map
+  }
+
+  const frontText = data?.sourceText ?? message.content
+  const frontLang = data ? frontName : learn
+  const revealedFrontGlosses = buildRevealedGlosses(frontText, frontLang, revealedFront)
+  const revealedBackGlosses = buildRevealedGlosses(message.content, learn, revealedBack)
 
   async function copyFace(): Promise<void> {
     const text = flipped ? message.content : (data?.sourceText ?? message.content)
@@ -202,7 +274,8 @@ export function ImmersiveCard({ message }: { message: Message }): React.JSX.Elem
                   lang={frontName}
                   selected={selectedIndices}
                   glossaryTargetIndex={glossaryTarget?.index}
-                  onWordClick={wordHandler(frontName, data.sourceText)}
+                  revealedGlosses={revealedFrontGlosses}
+                  onWordClick={wordHandler('front', frontName, data.sourceText)}
                 />
                 {chatMode === 'reflective' && (
                   <TransliterationLine text={data.sourceText} lang={learn} className="mt-1" />
@@ -216,7 +289,8 @@ export function ImmersiveCard({ message }: { message: Message }): React.JSX.Elem
                 lang={learn}
                 selected={selectedIndices}
                 glossaryTargetIndex={glossaryTarget?.index}
-                onWordClick={wordHandler(learn, message.content)}
+                revealedGlosses={revealedFrontGlosses}
+                onWordClick={wordHandler('front', learn, message.content)}
               />
             )}
           </div>
@@ -229,7 +303,8 @@ export function ImmersiveCard({ message }: { message: Message }): React.JSX.Elem
               lang={learn}
               selected={selectedIndices}
               glossaryTargetIndex={glossaryTarget?.index}
-              onWordClick={wordHandler(learn, message.content)}
+              revealedGlosses={revealedBackGlosses}
+              onWordClick={wordHandler('back', learn, message.content)}
             />
             <TransliterationLine text={message.content} lang={learn} className="mt-1" />
           </div>

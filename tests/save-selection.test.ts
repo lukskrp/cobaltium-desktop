@@ -208,3 +208,58 @@ describe('addWordPair (both directions for SRS)', () => {
     expect(mockedPlaySaveSound).not.toHaveBeenCalled()
   })
 })
+
+describe('glossWord (interlinear word lookup)', () => {
+  function fakeTranslationApi(impl?: (word: string, lang: string) => Promise<{ sourceText: string } | null>) {
+    const translate = vi.fn(async (word: string, lang: string) => {
+      if (impl) return impl(word, lang)
+      return { sourceText: `gloss-of-${word}` }
+    })
+    mockedGetApi.mockReturnValue({ translation: { translate } })
+    return { translate }
+  }
+
+  beforeEach(() => {
+    useChatToolbarStore.setState({ wordGlosses: {}, wordGlossLoading: {} })
+  })
+
+  it('fetches a word gloss into the cache and reuses it without refetching', async () => {
+    const { translate } = fakeTranslationApi()
+    const toolbar = useChatToolbarStore.getState()
+    await toolbar.glossWord('puhua', 'fi')
+    expect(translate).toHaveBeenCalledTimes(1)
+    expect(translate).toHaveBeenCalledWith('puhua', 'fi', expect.any(String))
+    expect(useChatToolbarStore.getState().wordGlosses['puhua:fi']).toBe('gloss-of-puhua')
+    await useChatToolbarStore.getState().glossWord('puhua', 'fi')
+    expect(translate).toHaveBeenCalledTimes(1)
+  })
+
+  it('dedups concurrent requests for the same word', async () => {
+    let release!: (value: { sourceText: string }) => void
+    const gate = new Promise<{ sourceText: string }>((resolve) => {
+      release = resolve
+    })
+    const { translate } = fakeTranslationApi(() => gate)
+    const toolbar = useChatToolbarStore.getState()
+    const first = toolbar.glossWord('talo', 'fi')
+    const second = useChatToolbarStore.getState().glossWord('talo', 'fi')
+    release({ sourceText: 'house' })
+    await Promise.all([first, second])
+    expect(translate).toHaveBeenCalledTimes(1)
+    expect(useChatToolbarStore.getState().wordGlosses['talo:fi']).toBe('house')
+    expect(useChatToolbarStore.getState().wordGlossLoading).toEqual({})
+  })
+
+  it('ignores blank words and clears loading state on failure', async () => {
+    const { translate } = fakeTranslationApi(async () => {
+      throw new Error('offline')
+    })
+    const toolbar = useChatToolbarStore.getState()
+    await toolbar.glossWord('   ', 'fi')
+    expect(translate).not.toHaveBeenCalled()
+    await useChatToolbarStore.getState().glossWord('kissa', 'fi')
+    expect(translate).toHaveBeenCalledTimes(1)
+    expect(useChatToolbarStore.getState().wordGlosses['kissa:fi']).toBeUndefined()
+    expect(useChatToolbarStore.getState().wordGlossLoading).toEqual({})
+  })
+})
