@@ -40,11 +40,13 @@ jobs:
       - name: Package and publish installers
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Windows code signing (electron-builder reads these automatically).
-          CSC_LINK: ${{ secrets.CSC_LINK }}
-          CSC_KEY_PASSWORD: ${{ secrets.CSC_KEY_PASSWORD }}
-          # macOS signing + notarization.
-          APPLE_ID: ${{ secrets.APPLE_ID }}
-          APPLE_APP_SPECIFIC_PASSWORD: ${{ secrets.APPLE_APP_SPECIFIC_PASSWORD }}
-          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+          # Unsigned builds: NO signing secrets are exported here on purpose.
+          # An *empty* CSC_LINK is worse than none — electron-builder resolves
+          # it against the project dir and aborts macOS packaging with
+          # "<projectDir> not a file". To enable signing later, re-add:
+          #   CSC_LINK: ${{ secrets.CSC_LINK }}
+          #   CSC_KEY_PASSWORD: ${{ secrets.CSC_KEY_PASSWORD }}
+          # plus APPLE_ID / APPLE_APP_SPECIFIC_PASSWORD / APPLE_TEAM_ID
+          # for macOS notarization. Until then mac artifacts are unsigned
+          # (Gatekeeper will prompt on first launch).
         run: npx electron-builder --publish always
