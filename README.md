@@ -61,6 +61,20 @@ What is inside:
   API keys encrypted in the OS keychain, full backup/restore to zip, and
   `cobaltium.chat` v1 import.
 
+## Screenshots
+
+| Chat tutor (Finnish etymology) | Lexicon + LangDex conjugation |
+| --- | --- |
+| <img src="docs/screenshots/conversation.png" width="400" alt="Chat tutor answering a Finnish etymology question"> | <img src="docs/screenshots/langdex-lexicon.png" width="400" alt="Saved word with LangDex conjugation tables"> |
+
+| Spaced-repetition review | 21 UI languages |
+| --- | --- |
+| <img src="docs/screenshots/review-srs-view.png" width="400" alt="Review deck with due flashcard and grading buttons"> | <img src="docs/screenshots/system-ui-lang.png" width="400" alt="Interface language picker with 21 languages"> |
+
+| Offline TTS voice packs |
+| --- |
+| <img src="docs/screenshots/tts-voice-selection.png" width="400" alt="Downloadable offline voice packs per language"> |
+
 ## Use cases
 
 - Read Finnish (or Japanese, Polish, German, …) **interlinearly** with
